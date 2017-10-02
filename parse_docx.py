@@ -1,5 +1,7 @@
 import nltk.tokenize
 
+print("neherovo")
+
 with open("text.txt") as file:
     raw = file.read()
     tokens = nltk.sent_tokenize(raw)
