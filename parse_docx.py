@@ -5,7 +5,7 @@ listEnumerator = r"([a-zA-Z]|\d+|•)"
 
 listTypesArray =\
     [
-        r"\(?" +listEnumerator + r"\)",
+        r"\(?" + listEnumerator + r"\)",
         listEnumerator + r"\.?"
     ]
 
@@ -19,7 +19,7 @@ listEnd = r"[ \t]+\w"
 listRegex = re.compile(listStart + "(" + listTypesReg + ")" + listEnd)
 
 
-with open("text.txt") as file:
+with open("text.txt", encoding="utf-8") as file:
     raw = file.read()
     tokens = nltk.sent_tokenize(raw)
     for token in tokens:
