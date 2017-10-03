@@ -26,8 +26,10 @@ listRegex = re.compile(listStart + "(" + listTypesReg + ")" + listEnd)
 def SentenceIsList(sentence):
     return re.match(listRegex, sentence) != None
 
+
 def SentenceIsTitle(sentence):
     return sentence.isupper()
+
 
 def RemoveListPrefix(sentence):
     matchResult = re.match(listRegex, sentence)
