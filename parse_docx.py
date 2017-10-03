@@ -22,8 +22,12 @@ listStart = r"^[ \t]*"
 listEnd = r"[ \t]+\w"
 listRegex = re.compile(listStart + "(" + listTypesReg + ")" + listEnd)
 
+
 def SentenceIsList(sentence):
     return re.match(listRegex, sentence) != None
+
+def SentenceIsTitle(sentence):
+    return sentence.isupper()
 
 def RemoveListPrefix(sentence):
     matchResult = re.match(listRegex, sentence)
@@ -35,15 +39,20 @@ def RemoveListPrefix(sentence):
 
 ######################################################################################
 
+
 class SentenceType(Enum):
     Invalid = 1 #for internal usage
     Simple = 2
     ListElem = 3
     EndOfParagraph = 4
+    Title = 5
+
 
 def ClassifySentence(sentenceString):
     if SentenceIsList(sentenceString):
         return SentenceType.ListElem
+    elif SentenceIsTitle(sentenceString):
+        return SentenceType.Title
     elif sentenceString.rstrip(" \t\r").endswith("\n"):
         return SentenceType.EndOfParagraph
     else:
@@ -54,7 +63,22 @@ def ClassifySentence(sentenceString):
 def EscapeHTML(string):
     return string.replace("\n", "<br/>").replace("\r", "")
 
-class Paragraph():
+
+class Title:
+    def __init__(self):
+        self.sentences = []
+
+    def addSentence(self, sentence):
+        self.sentences.append(sentence)
+
+    def writeToFile(self, file):
+        file.write("<h1>\n")
+        for sentence in self.sentences:
+            file.write(EscapeHTML(sentence))
+        file.write("</h1>\n")
+
+
+class Paragraph:
     def __init__(self):
         self.sentences = []
 
@@ -67,7 +91,8 @@ class Paragraph():
             file.write(EscapeHTML(sentence))
         file.write("</p>\n")
 
-class BulletList():
+
+class BulletList:
     def __init__(self):
         self.sentences = []
 
@@ -81,6 +106,7 @@ class BulletList():
             file.write(EscapeHTML(sentence))
             file.write("</li>\n")
         file.write("</ul>\n")
+
 
 class Document:
     def __init__(self):
@@ -130,11 +156,13 @@ class Document:
 
             self.elements.clear()
             prevType = SentenceType.Invalid
-            for sentence in sentences:
-                tokenType = ClassifySentence(sentence)
+            for sentence in range(len(sentences)):
+                tokenType = ClassifySentence(sentences[sentence])
 
                 if tokenType != prevType or prevType == SentenceType.EndOfParagraph:
-                    if tokenType == SentenceType.ListElem:
+                    if sentence < 10 and tokenType == SentenceType.Title:
+                        self.elements.append(Title())
+                    elif tokenType == SentenceType.ListElem:
                         self.elements.append(BulletList())
                     elif tokenType == SentenceType.Simple:
                         self.elements.append(Paragraph())
@@ -142,7 +170,7 @@ class Document:
                         if prevType != SentenceType.Simple:
                             self.elements.append(Paragraph())
 
-                self.elements[-1].addSentence(sentence)
+                self.elements[-1].addSentence(sentences[sentence])
                 prevType = tokenType
 
     def writeToFile(self, pathToFile):
@@ -151,7 +179,6 @@ class Document:
             for element in self.elements:
                 element.writeToFile(file)
             file.write("</BODY>\n</HTML>")
-
 ######################################################################################
 
 doc = Document()
