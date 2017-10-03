@@ -2,12 +2,15 @@ import nltk.tokenize
 from enum import Enum
 import re
 
-listEnumerator = r"([a-zA-Z]|\d+|•)"
+listCharEnum = r"[a-zA-Z]"
+listSpecialEnum = r"(\d{1,2}|•)"
+listAnyEnum = r"(" + listCharEnum + r"|" + listSpecialEnum + r")"
 
 listTypesArray =\
     [
-        r"\(?" + listEnumerator + r"\)",
-        listEnumerator + r"\.?"
+        r"\(?" + listAnyEnum + r"\)",
+        listSpecialEnum + r"\.?",
+        listCharEnum + r"\."
     ]
 
 listTypesReg = ""
@@ -83,27 +86,64 @@ class Document:
     def __init__(self):
         self.elements = []
 
+    def splitSentence(self, sentence):
+        splitted = []
+        sentence = sentence.replace("\r", "")
+        sentence = re.sub(r"\n+", r"\n", sentence)
+        preSplitted = sentence.split("\n")
+        for sent in preSplitted:
+            sent = sent.strip()
+            if sent != "":
+                if len(preSplitted) > 1:
+                    sent += "\n"
+                splitted.append(sent)
+        if sentence[-1].rstrip(" \t" + chr(160)) != "\n":
+            splitted[-1] = splitted[-1][:-1]
+        return splitted
+
+    def tokensToSentences(self, tokens, raw):
+        sentences = []
+        prevLookPos = 0
+        numTokens = len(tokens)
+        for i in range(numTokens):
+            tokenEndPos = raw.find(tokens[i], prevLookPos) + len(tokens[i])
+            nextTokenPos = 0
+            if i == numTokens - 1:
+                nextTokenPos = len(raw)
+            else:
+                nextTokenPos = raw.find(tokens[i+1], tokenEndPos)
+
+            sentence = tokens[i] + raw[tokenEndPos : nextTokenPos]
+            #sentence now also contains characters, missed between tokens
+            sentences.extend(self.splitSentence(sentence))
+            prevLookPos = tokenEndPos
+        return sentences
+
     def parseFile(self, pathToFile):
         with open(pathToFile, encoding="utf-8") as file:
             raw = file.read()
             tokens = nltk.sent_tokenize(raw)
+            sentences = self.tokensToSentences(tokens, raw)
 
-            if len(tokens) == 0:
+            if len(sentences) == 0:
                 return
 
             self.elements.clear()
-            currType = SentenceType.Invalid
-            for token in tokens:
-                tokenType = ClassifySentence(token)
+            prevType = SentenceType.Invalid
+            for sentence in sentences:
+                tokenType = ClassifySentence(sentence)
 
-                if tokenType != currType or tokenType == SentenceType.EndOfParagraph:
+                if tokenType != prevType or prevType == SentenceType.EndOfParagraph:
                     if tokenType == SentenceType.ListElem:
                         self.elements.append(BulletList())
-                    else:
+                    elif tokenType == SentenceType.Simple:
                         self.elements.append(Paragraph())
+                    elif tokenType == SentenceType.EndOfParagraph:
+                        if prevType != SentenceType.Simple:
+                            self.elements.append(Paragraph())
 
-                self.elements[-1].addSentence(token)
-                currType = tokenType
+                self.elements[-1].addSentence(sentence)
+                prevType = tokenType
 
     def writeToFile(self, pathToFile):
         with open(pathToFile, mode="wt", encoding="utf-8") as file:
