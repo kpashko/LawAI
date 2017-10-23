@@ -31,6 +31,10 @@ def SentenceIsTitle(sentence):
     return sentence.isupper()
 
 
+def SentenceIsSubtitle(sentence):
+    return len(sentence) <= 40
+
+
 def RemoveListPrefix(sentence):
     matchResult = re.match(listRegex, sentence)
     if matchResult:
@@ -48,6 +52,7 @@ class SentenceType(Enum):
     ListElem = 3
     EndOfParagraph = 4
     Title = 5
+    Subtitle = 6
 
 
 def ClassifySentence(sentenceString):
@@ -55,12 +60,15 @@ def ClassifySentence(sentenceString):
         return SentenceType.ListElem
     elif SentenceIsTitle(sentenceString):
         return SentenceType.Title
+    elif SentenceIsSubtitle(sentenceString):
+        return SentenceType.Subtitle
     elif sentenceString.rstrip(" \t\r").endswith("\n"):
         return SentenceType.EndOfParagraph
     else:
         return SentenceType.Simple
 
 ######################################################################################
+
 
 def EscapeHTML(string):
     return string.replace("\n", "<br/>").replace("\r", "")
@@ -78,6 +86,20 @@ class Title:
         for sentence in self.sentences:
             file.write(EscapeHTML(sentence))
         file.write("</h1>\n")
+
+
+class Subtitle:
+    def __init__(self):
+        self.sentences = []
+
+    def addSentence(self, sentence):
+        self.sentences.append(sentence)
+
+    def writeToFile(self, file):
+        file.write("<h3>\n")
+        for sentence in self.sentences:
+            file.write(EscapeHTML(sentence))
+        file.write("</h3>\n")
 
 
 class Paragraph:
@@ -164,6 +186,8 @@ class Document:
                 if tokenType != prevType or prevType == SentenceType.EndOfParagraph:
                     if sentence < 10 and tokenType == SentenceType.Title:
                         self.elements.append(Title())
+                    elif tokenType == SentenceType.Subtitle:
+                        self.elements.append(Subtitle())
                     elif tokenType == SentenceType.ListElem:
                         self.elements.append(BulletList())
                     elif tokenType == SentenceType.Simple:
@@ -184,5 +208,6 @@ class Document:
 ######################################################################################
 
 doc = Document()
-doc.parseFile("text.txt")
-doc.writeToFile("text_out.html")
+name = "founders-agreement-template"
+doc.parseFile("Lawyer Test/{}.txt".format(name))
+doc.writeToFile("{}.html".format(name))
