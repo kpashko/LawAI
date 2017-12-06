@@ -6,7 +6,7 @@ import io
 
 h3 = r"<h3>((.|\n)*?)<\/h3>"
 h3re = re.compile(h3)
-name = "founders-agreement-template"
+name = "designer-samplekek"
 slovar = dict()
 
 with open("{}.html".format(name)) as file:
@@ -20,7 +20,7 @@ with open("{}.html".format(name)) as file:
 
 # добавить обработку подзаголовков без точки. Пока - Miscellaneous Provisions<br/>Assignment.
 
-with io.open("literally_dump.txt", "w", encoding='utf8') as db:
+with io.open("designer-sample_struct.json", "w", encoding='utf8') as db:
     json.dump(slovar, db, ensure_ascii=False)
 
 
