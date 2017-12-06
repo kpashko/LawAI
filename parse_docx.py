@@ -220,9 +220,3 @@ class Document:
             for element in self.elements:
                 element.writeToFile(file)
             file.write("</BODY>\n</HTML>")
-######################################################################################
-
-doc = Document()
-name = "text"
-doc.parseFile("{}.txt".format(name))
-doc.writeToFile("{}.html".format(name+"kek"))
