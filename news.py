@@ -1,22 +1,22 @@
 import requests
 from bs4 import BeautifulSoup
-#from selenium import webdriver
+from selenium import webdriver
 import re
-import pickle
-import numpy as np
 import time
 import sys
 #from pyvirtualdisplay import Display
-#from PyQt5.QtWebKitWidgets import QWebPage
 from PyQt5.QtWebEngineWidgets import QWebEngineView, QWebEnginePage
 from PyQt5.QtWidgets import QApplication
 from PyQt5.QtCore import QUrl
 from PyQt5.QtCore import QEventLoop
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
 
 
-#driver = webdriver.Safari()
-#driver.maximize_window()
+driver = webdriver.Safari()
+driver.maximize_window()
 
 ctr = r'(/contracts/tagged/(.*))'
 rectr = re.compile(ctr)
@@ -49,23 +49,30 @@ with open(links) as links:
     urls = links.readlines()
     for url in urls:
         #r= requests.get("http://lawinsider.com"+url, headers=headers)
-        client_response = Client("http://lawinsider.com"+url)
-        source = client_response.html
-        soup = BeautifulSoup(source, 'lxml')
-        #html = driver.page_source
+        driver.implicitly_wait(3)
+        driver.get("http://lawinsider.com"+url)
+        ###client_response = Client("http://lawinsider.com"+url)
+        ###source = client_response.html
+        ###soup = BeautifulSoup(source, 'lxml')
+        html = driver.page_source
         ##html = r.text
         ##rendered = Render(html).html
         #html = requests.get("http://lawinsider.com"+url, headers=headers)
         ##soup = BeautifulSoup(rendered, 'html.parser')
-        sidebar = soup.find('ul', {'id':'sidebar-related-clauses-by-tag'})
-        clauses = sidebar.find_all('li', {'class':'list-group-item'})
-        match = re.match(rectr, url)
-        for clause in clauses:
-            if url in ontology.keys():
-                ontology[match.group(2)].append(clause.contents)
-            else:
-                ontology[match.group(2)] = clause.contents
+        try:
+            element = WebDriverWait(driver, 10).until(
+                EC.presence_of_element_located((By.CLASS_NAME, "list-group-item"))
+            )
+        finally:
+            soup = BeautifulSoup(html, 'lxml')
+            sidebar = soup.find('ul', {'id':'sidebar-related-clauses-by-tag'})
+            clauses = sidebar.find_all('li', {'class':'list-group-item'})
+            match = re.match(rectr, url)
+            for clause in clauses:
+                if url in ontology.keys():
+                    ontology[match.group(2)].append(clause.text)
+                else:
+                    ontology[match.group(2)] = clause.text
         time.sleep(3)
-    np.save("ONTOLOGIYA", ontology)
-        #with open("ONTOLOGIYA.pkl",'w') as onto:
-        #    pickle.dump(ontology,ontology,pickle.HIGHEST_PROTOCOL)
+        with open("ONTOLOGIYA",'w') as onto:
+            onto.write(str(ontology))
