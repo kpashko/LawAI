@@ -8,7 +8,7 @@ import time
 import sys
 #from pyvirtualdisplay import Display
 #from PyQt5.QtWebKitWidgets import QWebPage
-from PyQt5.QtWebEngineWidgets import QWebEngineView
+from PyQt5.QtWebEngineWidgets import QWebEngineView, QWebEnginePage
 from PyQt5.QtWidgets import QApplication
 from PyQt5.QtCore import QUrl
 from PyQt5.QtCore import QEventLoop
@@ -27,44 +27,36 @@ headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:45.0) 
 ontology = {}
 
 
-class Render(QWebEngineView):
-    """Render HTML with PyQt5 WebKit."""
-
-    def __init__(self, html):
-        self.html = None
+class Client(QWebEnginePage):
+    def __init__(self, url):
         self.app = QApplication(sys.argv)
-        QWebEngineView.__init__(self)
-        self.loadFinished.connect(self._loadFinished)
-        #self.mainFrame().setHtml(html)
-        ##self.load(QUrl(url))
-        self.setHtml(html)
-
+        QWebEnginePage.__init__(self)
+        self.html = ''
+        self.loadFinished.connect(self._on_load_finished)
+        self.load(QUrl(url))  # Ignote mainFrame from PyQt4
         self.app.exec_()
-        #while self.html is None:
-            # self.app.processEvents(
-            #     QEventLoop.ExcludeUserInputEvents |
-            #     QEventLoop.ExcludeSocketNotifiers |
-            #     QEventLoop.WaitForMoreEvents)
-        #self.app.quit()
 
-    def _loadFinished(self, result):
-        self.page().toHtml(self._callable)
-        #self.app.quit()
+    def _on_load_finished(self):
+        self.html = self.toHtml(self.Callable)
+        print('Load finished')
 
     def Callable(self, html_str):
         self.html = html_str
-        #self.app.quit()
+        self.app.quit()
 
 
 with open(links) as links:
     urls = links.readlines()
     for url in urls:
-        r= requests.get("http://lawinsider.com"+url, headers=headers)
+        #r= requests.get("http://lawinsider.com"+url, headers=headers)
+        client_response = Client("http://lawinsider.com"+url)
+        source = client_response.html
+        soup = BeautifulSoup(source, 'lxml')
         #html = driver.page_source
-        html = r.text
-        rendered = Render(html).html
+        ##html = r.text
+        ##rendered = Render(html).html
         #html = requests.get("http://lawinsider.com"+url, headers=headers)
-        soup = BeautifulSoup(rendered, 'html.parser')
+        ##soup = BeautifulSoup(rendered, 'html.parser')
         sidebar = soup.find('ul', {'id':'sidebar-related-clauses-by-tag'})
         clauses = sidebar.find_all('li', {'class':'list-group-item'})
         match = re.match(rectr, url)

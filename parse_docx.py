@@ -208,6 +208,6 @@ class Document:
 ######################################################################################
 
 doc = Document()
-name = "founders-agreement-template"
-doc.parseFile("Lawyer Test/{}.txt".format(name))
-doc.writeToFile("{}.html".format(name))
+name = "designer-sample"
+doc.parseFile("{}.txt".format(name))
+doc.writeToFile("{}.html".format(name+"kek"))
