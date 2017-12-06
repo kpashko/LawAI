@@ -101,6 +101,14 @@ class Subtitle:
             file.write(EscapeHTML(sentence))
         file.write("</h3>\n")
 
+    def isValidSubtitle(self):
+        if len(self.sentences) == 1:
+            return True
+        for i in range(len(self.sentences) - 1):
+            if self.sentences[i][-1] == "\n":
+                return False
+        return True
+
 
 class Paragraph:
     def __init__(self):
@@ -199,6 +207,13 @@ class Document:
                 self.elements[-1].addSentence(sentences[sentence])
                 prevType = tokenType
 
+            for i in range(len(self.elements)):
+                if type(self.elements[i]) == Subtitle and not self.elements[i].isValidSubtitle():
+                    newElement = Paragraph()
+                    for sent in self.elements[i].sentences:
+                        newElement.addSentence(sent)
+                    self.elements[i] = newElement
+
     def writeToFile(self, pathToFile):
         with open(pathToFile, mode="wt", encoding="utf-8") as file:
             file.write("<!DOCTYPE HTML PUBLIC \" -//W3C//DTD HTML 4.01//EN\"\n\"http://www.w3.org/TR/html4/strict.dtd\">\n<HTML>\n<HEAD>\n<META charset=\"utf-8\">\n<TITLE>Parsed document</TITLE>\n</HEAD>\n<BODY>\n")
@@ -208,6 +223,6 @@ class Document:
 ######################################################################################
 
 doc = Document()
-name = "designer-sample"
+name = "text"
 doc.parseFile("{}.txt".format(name))
 doc.writeToFile("{}.html".format(name+"kek"))
