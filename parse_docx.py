@@ -215,7 +215,7 @@ class Document:
                     self.elements[i] = newElement
 
     def writeToFile(self, pathToFile):
-        with open(pathToFile, mode="wt", encoding="utf-8") as file:
+        with open(pathToFile, mode="w+", encoding="utf-8") as file:
             file.write("<!DOCTYPE HTML PUBLIC \" -//W3C//DTD HTML 4.01//EN\"\n\"http://www.w3.org/TR/html4/strict.dtd\">\n<HTML>\n<HEAD>\n<META charset=\"utf-8\">\n<TITLE>Parsed document</TITLE>\n</HEAD>\n<BODY>\n")
             for element in self.elements:
                 element.writeToFile(file)
