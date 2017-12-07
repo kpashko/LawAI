@@ -81,7 +81,6 @@ class Title:
         file.write("</h1>\n")
 
 nonWordRegex = re.compile(r"[^a-zA-Z\n\s]")
-romanNumberRegex = re.compile(r"(?=[mdclxvi])m*(c[md]|d?c{0,3})(x[cl]|l?x{0,3})(i[xv]|v?i{0,3})")
 wordCharsRegex = re.compile(r"[[:alpha:]]")
 wordNumsRegex = re.compile(r"\d+")
 
@@ -90,7 +89,7 @@ class Subtitle:
         self.sentences = []
 
     def addSentence(self, sentence):
-        str = re.sub(romanNumberRegex, "", re.sub(nonWordRegex, "", sentence.lower())).strip("  ")
+        str = re.sub(nonWordRegex, "", sentence.lower()).strip("  ")
         if len(str) > 3:
             if str[0].isalpha() and (str[1] == ' ' or str[1] == ' '):
                 str = str[1:].strip("  ")
