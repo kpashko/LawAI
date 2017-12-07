@@ -8,7 +8,7 @@ import glob
 
 doc = Document()
 
-texts = glob.glob('/Users/kostyapashko/PycharmProjects/LawAI/Lawyer Test/*.txt')
+texts = glob.glob('Lawyer Test/*.txt')
 slovar = dict()
 
 for text in texts:
@@ -22,6 +22,8 @@ for text in texts:
             for sent in elem.sentences:
                 titleName += sent.strip("\n\t\r")
             break
+    if titleName == "":
+        continue
     slovar[titleName] = dict()
 
     numElems = len(doc.elements)
@@ -47,6 +49,8 @@ for text in texts:
                 else:
                     slovar[titleName][subtitleName] = [subtitleContent]
         i += 1
+    if len(slovar[titleName]) == 0:
+        slovar.pop(titleName)
 
 with io.open("output/allo.json", "w+", encoding='utf8') as db:
     json.dump(slovar, db, ensure_ascii=False, indent=4, sort_keys=True)

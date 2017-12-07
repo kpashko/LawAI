@@ -22,17 +22,12 @@ listStart = r"^[ \t]*"
 listEnd = r"[ \t]+\w"
 listRegex = re.compile(listStart + "(" + listTypesReg + ")" + listEnd)
 
-
 def SentenceIsList(sentence):
     return re.match(listRegex, sentence) != None
 
 
-def SentenceIsTitle(sentence):
-    return sentence.isupper()
-
-
 def SentenceIsSubtitle(sentence):
-    return len(sentence) <= 40
+    return len(sentence) <= 40 and sentence[-1] == '\n'
 
 
 def RemoveListPrefix(sentence):
@@ -58,8 +53,6 @@ class SentenceType(Enum):
 def ClassifySentence(sentenceString):
     if SentenceIsList(sentenceString):
         return SentenceType.ListElem
-    elif SentenceIsTitle(sentenceString):
-        return SentenceType.Title
     elif SentenceIsSubtitle(sentenceString):
         return SentenceType.Subtitle
     elif sentenceString.rstrip(" \t\r").endswith("\n"):
@@ -87,13 +80,24 @@ class Title:
             file.write(EscapeHTML(sentence))
         file.write("</h1>\n")
 
+nonWordRegex = re.compile(r"[^a-zA-Z\n\s]")
+romanNumberRegex = re.compile(r"(?=[mdclxvi])m*(c[md]|d?c{0,3})(x[cl]|l?x{0,3})(i[xv]|v?i{0,3})")
+wordCharsRegex = re.compile(r"[[:alpha:]]")
+wordNumsRegex = re.compile(r"\d+")
 
 class Subtitle:
     def __init__(self):
         self.sentences = []
 
     def addSentence(self, sentence):
-        self.sentences.append(sentence)
+        str = re.sub(romanNumberRegex, "", re.sub(nonWordRegex, "", sentence.lower())).strip("  ")
+        if len(str) > 3:
+            if str[0].isalpha() and (str[1] == ' ' or str[1] == ' '):
+                str = str[1:].strip("  ")
+            elif str[-2].isalpha() and (str[-3] == ' ' or str[-3] == ' '):
+                str = str[:-3] + str[-1]
+                str = str.strip("  ")
+        self.sentences.append(str)
 
     def writeToFile(self, file):
         file.write("<h3>\n")
@@ -103,9 +107,17 @@ class Subtitle:
 
     def isValidSubtitle(self):
         if len(self.sentences) == 1:
+            stripped = self.sentences[0][:-1].rstrip("  ")
+            if len(stripped) < 3:
+                return False
+            match = re.match(wordNumsRegex, stripped)
+            if match != None:
+                start, end = match.span()
+                if end - start == len(stripped):
+                    return False
             return True
         for i in range(len(self.sentences) - 1):
-            if self.sentences[i][-1] == "\n":
+            if self.sentences[i][-1] == "\n" or re.match(wordCharsRegex, self.sentences[i]) == None:
                 return False
         return True
 
@@ -192,9 +204,7 @@ class Document:
                 tokenType = ClassifySentence(sentences[sentence])
 
                 if tokenType != prevType or prevType == SentenceType.EndOfParagraph:
-                    if sentence < 10 and tokenType == SentenceType.Title:
-                        self.elements.append(Title())
-                    elif tokenType == SentenceType.Subtitle:
+                    if tokenType == SentenceType.Subtitle:
                         self.elements.append(Subtitle())
                     elif tokenType == SentenceType.ListElem:
                         self.elements.append(BulletList())
@@ -206,6 +216,14 @@ class Document:
 
                 self.elements[-1].addSentence(sentences[sentence])
                 prevType = tokenType
+
+            for i in range(len(self.elements)):
+                if type(self.elements[i]) == Subtitle:
+                    title = Title()
+                    for sent in self.elements[i].sentences:
+                        title.addSentence(sent)
+                    self.elements[i] = title
+                    break
 
             for i in range(len(self.elements)):
                 if type(self.elements[i]) == Subtitle and not self.elements[i].isValidSubtitle():
