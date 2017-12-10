@@ -96,7 +96,7 @@ def Classify(classes, test):
 
     for className, classifier in classes.items():
         classWeight = classifier.score(data.Text, data.Flag)
-        print(className, classWeight)
+        print(className, classWeight       -0.1)
         if classWeight > maxWeight:
             maxWeight = classWeight
             resultClass = []
@@ -115,3 +115,4 @@ if __name__ == '__main__':
     print('\nResult: ', Classify(classes, ReadData(["test1_LOAN_AGREEMENT.txt"])), '\n')
     print('\nResult: ', Classify(classes, ReadData(["test2_CREDIT_AGREEMENT.txt"])), '\n')
     print('\nResult: ', Classify(classes, ReadData(["test3_PURCHASE_CONTRACT.txt"])), '\n')
+    print('\nResult: ', Classify(classes, ReadData(["test4_ROOMMATE_AGREEMENT.txt"])), '\n')
