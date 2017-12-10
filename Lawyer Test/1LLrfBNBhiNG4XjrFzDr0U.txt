@@ -1,0 +1,138 @@
+﻿
+ 
+Debt Subordination Agreement
+ 
+ 
+Fifth Third Bank, as Administrative Agent, and
+  the Lenders party to the Credit Agreement
+  described below
+Fifth Third Center
+318 Fountain Square Plaza
+MD 109047
+Cincinnati, OH  45263
+ 
+Ladies and Gentlemen:
+ 
+The undersigned is a creditor of Champion Industries, Inc., a West Virginia corporation (hereinafter called “Borrower”).  In consideration of loans made or to be made, credit given or to be given, or other financial accommodations afforded or to be afforded to the Borrower, concurrently herewith or at any time or from time to time hereafter, on such terms as may be agreed upon between you and other Lenders party to that Credit Agreement with the Borrower dated as of September 14, 2007, as the same has been amended and may be further amended, restated or supplemented from time to time (collectively, the “Senior Lenders”) and the Borrower, the undersigned agrees that all indebtedness, obligations and liabilities of the Borrower to the undersigned now existing or hereafter arising and howsoever evidenced or acquired (the aggregate principal amount of such Subordinated Indebtedness as of the date hereof being $3,000,000.00) shall be and remain junior and subordinate to any and all indebtedness, obligations and liabilities, including principal and interest, of the Borrower to the Senior Lenders now existing or hereafter arising, whether direct or indirect, secured or unsecured, absolute or contingent, joint or several or joint and several, and howsoever owned, held or acquired, whether through discount, purchase, direct loan or as collateral or otherwise and all post-petition interest in a bankruptcy or similar proceeding whether or not allowed (hereinafter collectively called “Superior Indebtedness”), all on the terms and conditions contained herein.  
+ 
+Without limiting the generality of the foregoing, the undersigned further agrees with the Senior Lenders as follows:
+ 
+1.So long as any Superior Indebtedness shall remain outstanding and unpaid or the Senior Lenders have any obligation to extend credit to the Borrower, no payment either of principal or interest (notwithstanding the expressed maturity or any time for the payment of principal of or interest on any Subordinated Indebtedness) shall be made on Subordinated Indebtedness except with your prior written consent and the undersigned will take no steps, whether by suit or otherwise, to compel or enforce the collection of Subordinated Indebtedness, nor will the undersigned use Subordinated Indebtedness by way of counterclaim, set-off, recoupment or otherwise so as to diminish, discharge or otherwise satisfy in whole or in part any indebtedness or liability of the undersigned to the Borrower, whether now existing or hereafter arising and howsoever evidenced.
+ 
+2.In the event of any distribution, dividend, or application, partial or complete, voluntary or involuntary, by operation of law or otherwise, of all or any part of the assets of the Borrower or of the proceeds thereof to the creditors of the Borrower or upon any indebtedness of the Borrower, occurring by reason of the liquidation, dissolution, or other winding up of the Borrower, or by reason of any execution sale, or bankruptcy, receivership, reorganization, arrangement, insolvency, liquidation or foreclosure proceeding of or for the Borrower or involving its property, no dividend, distribution or application shall be made, and the undersigned shall not be entitled to receive or retain any dividend, distribution, or application on or in respect of principal of or interest on Subordinated Indebtedness, unless and until all principal of and interest on Superior Indebtedness then outstanding shall have been paid and satisfied in full, and in any such event any dividend, distribution or application otherwise payable in respect of Subordinated Indebtedness shall be paid and applied on Superior Indebtedness until such Superior Indebtedness has been fully paid and satisfied.  
+ 
+3.No Senior Lender need at any time give the undersigned notice of any kind of the creation or existence of any Superior Indebtedness, nor of the amount or terms thereof, all such notice being hereby expressly waived.  Also, the Senior Lenders may at any time from time to time, without the consent of or notice to the undersigned, without incurring responsibility to the undersigned, and without impairing or releasing the obligation of the undersigned under this agreement (i) renew, refund or extend the maturity of, or increase or decrease the amount of, any Superior Indebtedness, or any part thereof, or otherwise revise, amend or alter the terms and conditions thereof, (ii) sell, exchange, release or otherwise deal with any property by whomsoever at any time pledged, mortgaged or otherwise hypothecated or subjected to a lien to secure any Superior Indebtedness, and (iii) exercise or refrain from exercising any rights against the Borrower and others, including the undersigned.
+ 
+4.The undersigned will not sell, assign or otherwise transfer any Subordinated Indebtedness, or any part thereof, except subject to and in accordance with the terms hereof and upon the agreement of the transferee or assignee to abide by and be bound by the terms hereof.
+ 
+
+
+1
+
+5.The undersigned represents and warrants that the undersigned has no lien on or security interest in any assets of the Borrower and will not accept any such lien or security interest so long as any Superior Indebtedness shall remain outstanding and unpaid or the Senior Lenders have any obligations to extend credit to the Borrower.  Notwithstanding the foregoing, the undersigned expressly subordinates all of the undersigned’s rights in any collateral now or later securing the Subordinated Indebtedness (the "Collateral") to all rights of Fifth Third Bank, as Administrative Agent for the Senior Lenders, and any and all of its successors and assigns (collectively, the “Administrative Agent”) now or later existing in any of the same Collateral to secure the Superior Indebtedness, and any and every lien or security interest with respect to the Collateral in favor of or held for the benefit of the Administrative Agent has and shall have priority over every lien and security interest that the undersigned now has or may hereafter acquire with respect to the Collateral, all notwithstanding any statement or provision contained in the instruments evidencing the Subordinated Indebtedness, or agreements with respect thereto or otherwise to the contrary and irrespective of the time or order of filing or recording of financing statements, deeds of trust, mortgages or other notices of security interests, liens or assignments granted pursuant thereto, and irrespective of anything contained in any filing or agreement to which any part hereto or its respective successors and assigns may now or hereafter be a party, and irrespective of the ordinary rules for determining priorities under the Uniform Commercial Code or under any other law governing the relative priorities of secured creditors.  The undersigned consents to the creation and continuance of all present and future liens and security interests of the Administrative Agent in the Collateral to secure the Superior Indebtedness and to the enforcement of those liens and security interests, including the removal of the Collateral from the real property of the Borrower.  This subordination as to the Collateral is intended to define the rights and duties of the Administrative Agent and the undersigned; it is not intended that any third party shall benefit from it.  If the effect of any provision of this Agreement would be to give any third party a priority status to which that party would not otherwise be entitled, that provision shall, to the extent necessary to avoid that priority, be given no effect and the rights and priorities of the Administrative Agent and the undersigned shall be determined in accordance with applicable law.
+ 
+6.The undersigned will cause all Subordinated Indebtedness to be at all times evidenced by the note or notes of the Borrower (with such maturity date or dates as you may request which in no event shall be earlier then on September 14, 2014) and will cause all such notes to bear thereon a legend substantially as follows:
+ 
+“The indebtedness evidenced by this Note is subordinate to any and all indebtedness, obligations and liabilities of the maker hereof to the Lenders party to that Credit Agreement with Champion Industries, Inc. dated as of September 14, 2007, as the same may be amended, modified, restated or supplemented form time to time, in the manner and to the extent set forth in that certain Subordination Agreement for the benefit of said Lenders dated as of December 29, 2009, which reference is hereby made for a more full statement thereof.”
+ 
+7.If notwithstanding the provisions of this agreement, the undersigned shall receive any payment of principal or interest on Subordinated Indebtedness which the Borrower is not entitled to make pursuant to the terms hereof, whether or not the undersigned has knowledge that the Borrower is not entitled to make such payment, the undersigned shall promptly account for such payment and upon your demand pay over such payment to you for application to the Superior Indebtedness owing to the Senior Lenders.  No payment or any distribution received by you in respect of Subordinated Indebtedness pursuant to any of the terms hereof shall entitle the undersigned to any right, whether by virtue of subrogation or otherwise, in and to any Superior Indebtedness unless and until all Superior Indebtedness owing to the Senior Lenders has been fully paid and satisfied and to the Senior Lenders obligations, if any, to extend credit to the Borrower have expired or otherwise have been terminated.
+ 
+8.This agreement shall be continuing and binding until written notice of its discontinuance shall be actually received by you, and shall remain in full force and effect until all Superior Indebtedness created or existing or committed to make available to the Borrower prior to the receipt of such notice shall have been fully paid and satisfied.
+ 
+Each and all of the promises herein contained shall be binding on the undersigned, his or her heirs, legal representatives and assigns, and shall inure to the benefit of the Senior Lenders and the benefit of their successors and assigns.
+ 
+Dated as of December 29, 2009.
+ 
+ 
+
+ 
+ 
+ 
+ /s/ Marshall T. Reynolds
+ 
+ 
+ 
+ Mr. Marshall Reynolds
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Accepted and Agreed to:
+ 
+ 
+ 
+ 
+ 
+ 
+ Fifth Third Bank, as Administrative Agent for the Senior Lenders
+ 
+ 
+ 
+ 
+ 
+ 
+ By 
+ /s/ Paul R. Schubert
+ 
+ 
+ Name
+ Paul R. Schubert
+ 
+ 
+ Title
+ Vice President
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+2
+
+
+Acknowledgement
+ 
+ 
+Champion Industries, Inc. hereby acknowledges receipt of a copy of the above and foregoing Debt Subordination Agreement, agrees to be bound by the terms and provisions thereof, to make no payment or distribution contrary to the terms thereof, and to do every other act and thing necessary or appropriate to be done or performed by it in order to carry out the terms of the agreement as set forth in said letter.
+ 
+Dated as of December 29, 2009.
+ 
+ 
+
+Champion Industries, Inc.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ By 
+ /s/ Todd R. Fry 
+ 
+ Name 
+ Todd R. Fry
+ 
+ Title 
+ Senior Vice President and Chief Financial Officer
+ 
+ 
+
+3
+

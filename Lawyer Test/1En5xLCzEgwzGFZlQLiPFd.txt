@@ -1,0 +1,309 @@
+﻿
+RESTRICTED SHARE UNITS AWARD AGREEMENT
+Exhibit 10.17 WILLIS GROUP HOLDINGS 2008 SHARE PURCHASE AND OPTION PLAN
+(AS AMENDED AND RESTATED ON DECEMBER 30, 2009 BY WILLIS GROUP HOLDINGS LIMITED
+AND AS AMENDED AND RESTATED AND ASSUMED BY WILLIS GROUP HOLDINGS PUBLIC
+LIMITED COMPANY ON DECEMBER 31, 2009)
+RESTRICTED SHARE UNITS AWARD AGREEMENT
+     THIS RESTRICTED SHARE UNITS AWARD AGREEMENT (this “Agreement”), effective as of                      is made by and between Willis Group Holdings Public Limited Company and any successor thereto, hereinafter referred to as the “Company”, and the individual (the “Associate”) who has duly completed, executed and delivered the Award Acceptance Form, a copy of which is set out in Schedule A attached hereto and deemed to be part hereof and, if applicable and the Agreement of Restrictive Covenants and Other Obligations, a copy of which is set out in Schedule C attached hereto and deemed to be a part hereof.
+     WHEREAS, completion, execution and delivery of this Agreement shall be deemed to have taken place where at the discretion of the Company, acceptance of the award to which this Agreement relates is required to be made through an Internet-based administration system or other electronic means identified for this purpose by the Company, to the maximum extent permitted by the laws in the Associate’s country of residence at the time of grant.
+     WHEREAS, the Company wishes to carry out the Plan (as hereinafter defined), the terms of which are hereby incorporated by reference and made a part of this Agreement; and
+     WHEREAS, the Board (as hereinafter defined) has determined that it would be to the advantage and best interest of the Company and its shareholders to grant an award of Restricted Share Units (as hereinafter defined) provided for herein to the Associate as an incentive for increased efforts during his or her term of office with the Company or its Subsidiaries, and has advised the Company thereof and instructed the undersigned officer to grant a Restricted Share Unit Award;
+     NOW, THEREFORE, the parties hereto do hereby agree as follows:
+ARTICLE I
+DEFINITIONS
+     Whenever the following terms are used in this Agreement, they shall have the meaning specified in the Plan or below unless the context clearly indicates to the contrary.
+Section 1.1 — Adjusted Earnings Per Share
+     “Adjusted Earnings Per Share” shall mean the adjusted earnings per share as stated by the Company in its annual financial results issued by the Company.
+ 
+
+
+ 
+
+
+Section 1.2 — Adjusted Operating Margin
+     “Adjusted Operating Margin” shall mean the adjusted operating margin as stated by the Company in its annual financial results issued by the Company.
+Section 1.3 — Board
+     “Board” shall mean the Board of Directors of the Company.
+Section 1.4 — Cause
+     “Cause” shall mean (i) Associate’s continued and/or chronic failure to adequately and/or competently perform his or her material duties with respect to the Company or its subsidiaries after having been provided reasonable notice of such failure and a period of at least ten days after Associate’s receipt of such notice to cure and/or correct such performance failure, (ii) willful misconduct by Associate in connection with Associate’s employment which is injurious to the Company or its subsidiaries (willful misconduct shall be understood to include, but not be limited to, any breach of the duty of loyalty owed by Associate to the Company or its subsidiaries), (iii) conviction of any criminal act (other than minor road traffic violations not involving imprisonment), (iv) any breach of Associate’s restrictive covenants and other obligations as provided in Schedule C to this Agreement (if applicable), in Associate’s employment agreement (if any), or any other non-compete agreement and/or confidentiality agreement entered into between Associate and the Company or any of its subsidiaries (other than an insubstantial, inadvertent and non-recurring breach), or (v) any material violation of any written Company policy after reasonable notice and an opportunity to cure such violation within ten (10) days after Associate’s receipt of such notice.
+Section 1.5 — Committee
+     “Committee” means the Compensation Committee of the Board (or if no such committee is appointed, the Board provided that a majority of the Board are “independent directors” for the purpose of the rules and regulations of the New York Stock Exchange).
+Section 1.6 — Earned Date
+     “Earned Date” shall mean the date that the annual financial results of the Company are issued by the Company.
+Section 1.7 — Earned Performance Shares
+     “Earned Performance Shares” shall mean shares subject to the RSUs in respect of which the applicable performance conditions, as set out in section 3.1, have been achieved and shall become vested as set out in section 3.2.
+Section 1.8 — Good Reason
+     “Good Reason” shall mean (i) a reduction in Associate’s base salary or a material adverse reduction in Associate’s benefits other than (a) in the case of base salary, a reduction that is offset by an increase in Associate’s bonus opportunity upon the attainment of reasonable
+2
+
+
+ 
+
+
+performance targets established by the Board, (b) a general reduction in the compensation or benefits of, or a shift in the general compensation or benefits schemes affecting, a broad group of employees of the Company or any of its subsidiaries, or (c) in the case of base salary, a reduction which is imposed in accordance with normal administration and application of a producer compensation plan, if applicable to Associate, (ii) a material adverse reduction in Associate’s principal duties and responsibilities, which continues beyond ten days after written notice by Associate to the Company or the applicable Subsidiary of such reduction or (iii) a significant transfer of Associate away from Associate’s primary service area or primary workplace, other than as permitted by Associate’s existing service contracts; provided, however, that Associate shall have a period of ten days following any of the foregoing occurrences or the last event in a series of events which culminate in providing the basis for such notice during which such Associate may claim that a basis for a Good Reason termination by Associate has occurred.
+Section 1.9 — Grant Date
+     “Grant Date” shall be                     .
+Section 1.10  — Permanent Disability
+     Associate shall be deemed to have a “Permanent Disability” if Associate meets the requirements of the definition of such term, or of an equivalent term, as defined in the Company’s or Subsidiary’s long-term disability plan applicable to Associate or, if no such plan is applicable, in the event Associate is unable by reason of physical or mental illness or other similar disability, to perform the material duties and responsibilities of his job for a period of 180 consecutive business days out of 270 business days.
+Section 1.11 — Plan
+     “Plan” shall mean the Willis Group Holdings 2008 Share Purchase and Option Plan, as amended from time to time.
+Section 1.12 — Pronouns
+     The masculine pronoun shall include the feminine and neuter, and the singular the plural, where the context so indicates.
+Section 1.13 — Restricted Share Unit
+     Restricted Share Unit shall mean a conditional right to be given an ordinary share par value of $0.000115 each in the Company (the “Ordinary Shares” or “Shares”) pursuant to the terms of the Plan upon vesting, as set forth in Section 2.1 of this Agreement.
+Section 1.14 — Secretary
+     “Secretary” shall mean the Secretary of the Company.
+3
+
+
+ 
+
+
+Section 1.15 — Subsidiary
+     “Subsidiary” shall mean with respect to the Company, any subsidiary of the Company within the meaning of Section 155 of the Act. For purposes of granting Share Options or other “share rights,” within the meaning of Section 409A of the Code, an entity may not be considered a Subsidiary if granting any such share right would result in the share right becoming subject to Section 409A of the Code.
+Section 1.16 — Willis Group
+     “Willis Group” shall mean the Company and the Subsidiaries, collectively.
+ARTICLE II
+GRANT OF RESTRICTED SHARE UNITS
+Section 2.1 — Grant of the Restricted Share Units
+     Subject to the terms and conditions of the Plan and the additional terms and conditions set forth in this Agreement including any country-specific provisions set forth in Schedule B to this Agreement, the Company hereby grants Restricted Share Units (hereinafter called “RSUs”) to the Associate, over a number of Shares as stated in Schedule A to this Agreement. In circumstances where the Associate is required to enter into the Agreement of Restrictive Covenants and Other Obligations set forth in Schedule C, the Associate agrees that the grant of RSUs pursuant to this Agreement is sufficient consideration for the Associate entering into such agreement.
+Section 2.2 — Employment Rights
+     Subject to the terms of the Agreement of Restrictive Covenants and Other Obligations, where applicable, the rights and obligations of the Associate under the terms of his office or employment with the Company or any Subsidiary shall not be affected by his participation in this Plan or any right which he may have to participate in it. The RSUs and the Associate’s participation in the Plan will not be interpreted to form an employment agreement with the Company. The Associate hereby waives any and all rights to compensation or damages in consequence of the termination of his office or employment for any reason whatsoever insofar as those rights arise or may arise from his ceasing to have rights under or be entitled to vest his RSUs as a result of such termination. If, notwithstanding the foregoing, any such claim is allowed by a court of competent jurisdiction, then, by participating in the Plan, the Associate shall be deemed irrevocable to have agreed not to pursue such claim and agrees to execute any and all documents necessary to request dismissal or withdrawal of such claims.
+Section 2.3 — Adjustments in RSUs Pursuant to Merger, Consolidation, etc.
+     Subject to Section 9 of the Plan, in the event that the outstanding Shares subject to a RSU are, from time to time, changed into or exchanged for a different number or kind of Shares or other securities, by reason of a share split, spin-off, shares or extraordinary cash dividend, share combination or reclassification, recapitalization, merger, Change of Control (as defined in the Plan), or similar event, the Committee shall in its absolute discretion, make an appropriate and equitable adjustment in the number and kind of Shares. Notwithstanding Section 10 of the Plan, in the event of a Change of Control (as defined in the Plan), and regardless of whether the RSUs
+4
+
+
+ 
+
+
+are assumed or substituted by a successor company, the RSUs shall not immediately vest unless the Committee so determines at the time of the Change of Control, in its absolute discretion, on such terms and conditions that the Committee deems appropriate. Any such adjustment or determination made by the Committee shall be final and binding upon the Associate, the Company and all other interested persons. For the avoidance of doubt, a transaction shall not constitute a Change of Control (i) if effected for the purpose of changing the place of incorporation or form of organization of the ultimate parent entity of the Willis group of companies (including where the Company is succeeded by an issuer incorporated under the laws of another state, country or foreign government for such purpose and whether or not the Company remains in existence following such transaction) and (ii) where all or substantially all of the Person(s) who are the beneficial owners of the outstanding voting securities of the Company immediately prior to such transaction will beneficially own, directly or indirectly, all or substantially all of the combined voting power of the outstanding voting securities entitled to vote generally in the election of directors of the ultimate parent entity resulting from such transaction in substantially the same proportions as their ownership, immediately prior to such transaction, of such outstanding securities of the Company. The Board, in its sole discretion, may make an appropriate and equitable adjustment to the Shares underlying the RSUs to take into account such transaction, including to substitute or provide for the issuance of shares of the resulting ultimate parent entity in lieu of Shares of the Company.
+Section 2.4 — Employee Costs
+     The Associate must make full payment to the Company or any Subsidiary by which the Associate is employed (the “Employer”) of all income tax, payroll tax, payment on account, and social insurance contribution amounts (“Tax”), which under federal, state, local or foreign law, it is required to withhold upon vesting or other tax event of the RSUs. In a case where the Employer is obliged to (or would suffer a disadvantage if it were not to) account for any Tax (in any jurisdiction) for which the Associate is liable by virtue of the Associate’s participation in the Plan or any social security contributions recoverable from and legally applicable to the Associate (the “Tax-Related Items”), the Associate shall make full payment to the Employer of an amount equal to the Tax-Related Items, or otherwise enter into arrangements acceptable to the Employer or another Subsidiary to secure that such a payment is made (whether by withholding from the Associate’s wages or other cash compensation paid to the Associate or from the proceeds of the sale of Shares acquired at vesting of the RSUs).
+     In the event that the Associate has not made payment of an amount equal to the Tax-Related Items liability, or entered into arrangements to secure that such a payment is made by the date of vesting or shortly thereafter as agreed by the Company, the Associate hereby authorizes and empowers the Company to act on his behalf and procure and effect the sale of a sufficient number of the Shares arising from the RSUs to vest and pay out of the sale proceeds the Tax-Related Items liability to the Employer.
+5
+
+
+ 
+
+
+ARTICLE III
+PERIOD OF VESTING
+Section 3.1 — Commencement of Earning
+     (a) Subject to 3.1(b) and (c), the Shares subject to the RSUs shall become Earned Performance Shares subject to the Participant being in the employment of the Company or any Subsidiary at each respective date and provided the performance conditions applicable are achieved.
+     (b) Shares subject to the RSUs shall become Earned Performance Shares with effect from the Earned Date for the year ending                     , if (i) in respect of the year ending                     , the Company achieves an Adjusted Earnings Per Share of not less than                      and an Adjusted Operating Margin of not less than                     , and (ii) in respect of the year ending                     , the Company achieves an Adjusted Earnings Per Share of not less than                      and an Adjusted Operating Margin of not less than                     .
+     (c) The Associate understands and agrees that the terms under which the RSUs shall become Earned Performance Shares is confidential and the Associate agrees not to disclose, reproduce or distribute such confidential information concerning the Company, except as required in the course of the Associate’s employment with the Company or one of its Subsidiaries, without the prior written consent of the Company. The Associate’s failure to abide by this condition may result in the immediate cancellation of the RSUs.
+     (d) All Shares subject to the RSUs shall be forfeited if and immediately upon the Company failing to meet any of the performance conditions set out in 3.1(b) above.
+Section 3.2 — Commencement of Vesting
+     (a) The Earned Performance Shares shall vest as follows:
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Percentage of Earned
+Vesting Date
+ 
+Performance Shares
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+       
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+       
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+       
+
+6
+
+
+ 
+
+
+     (b) The RSUs shall immediately be forfeited upon the termination of the Associate’s employment, subject to, and except as otherwise specified within, the terms and conditions of Sections 3.2(c) to 3.2(g) below.
+     (c) In the event of a termination of the Associate’s employment as a result of death or Permanent Disability, the RSUs shall become fully vested with respect to all Earned Performance Shares upon termination.
+     (d) In the event of a termination of the Associate’s employment for reasons other than death, Permanent Disability or Cause, the Board may, in its discretion accelerate the vesting of the RSUs over Earned Performance Shares held by the Associate immediately prior to such termination as to all or a portion of the Shares subject thereto. If no determination is made, then the RSUs over Earned Performance Shares shall, to the extent not then vested be immediately forfeited by the Associate.
+     (e) In the event of a termination of the Associate’s employment for Cause, the RSUs over Earned Performance Shares shall, to the extent not then vested, be immediately forfeited by the Associate.
+     (f) In the event of a termination of the Associate’s employment for any reason other than as set out above, the RSUs shall, to the extent not then vested, be forfeited by the Associate.
+     (g) The RSUs will immediately vest, if the Committee so determines subject to Section 2.4 of this Agreement, upon the effective date of a Change in Control.
+     (h) The Associate agrees to execute and deliver the following agreements or other documents in connection with the grant of the RSUs within the period set forth below:
+
+ 
+(i)
+ 
+the Associate must execute the Agreement of Restrictive Covenants and Other Obligations pursuant to Article IV below, if applicable, and deliver it to the Company within 45 days of the Grant Date;
+ 
+ 
+(ii)
+ 
+the Associate must execute the form of joint election as described in Schedule B for the United Kingdom and deliver it to his employing company within 45 days of the Grant Date; and
+ 
+ 
+(iii)
+ 
+the Associate must execute the RSU Award Agreement Acceptance Form and deliver to the Company within 45 days of the Grant Date.
+     (i) The Committee may, in its sole discretion, cancel the RSUs if the Associate fails to execute and deliver the agreements and documents within the period set forth in Section 3.2(h) or fails to meet the requirements as set forth in Section 3.1(c).
+Section 3.3 — Conditions to Issuance of Shares
+     The Shares to be delivered within one month of each vesting date of the RSUs, as set out in 3.1(a) above, may be either previously authorized but unissued shares or issued Shares held by any other person. Such Shares shall be fully paid. The Company shall not be required to issue
+7
+
+
+ 
+
+
+or deliver any Shares allotted and issued upon the applicable date of the vesting of the RSUs prior to fulfillment of all of the following conditions:
+     (a) The obtaining of approval or other clearance from any state or federal governmental agency which the Board shall, in its absolute discretion, determine to be necessary or advisable; and
+     (b) the Associate has paid or made arrangements to pay the Tax-Related Items liability in accordance with Section 2.4.
+     Without limiting the generality of the foregoing, the Board may in the case of U.S. resident employees of the Company or any of its Subsidiaries require an opinion of counsel reasonably acceptable to it to the effect that any subsequent transfer of Shares acquired on the vesting of RSUs does not violate the U.S. Securities Exchange Act of 1934, as amended, and may issue stop-transfer orders in the U.S. covering such Shares.
+Section 3.4 — Rights as Shareholder
+     The Associate shall not be, nor have any of the rights or privileges of, a shareholder of the Company in respect of any Shares that may be received upon the vesting of the RSUs unless and until certificates representing such Shares or their electronic equivalent shall have been issued by the Company to the Associate.
+Section 3.4 — Limitation on Obligations
+     The Company’s obligation with respect to the RSUs granted hereunder is limited solely to the delivery to the Associate of Shares within the period when such Shares are due to be delivered hereunder, and in no way shall the Company become obligated to pay cash in respect of such obligation. The RSUs shall not be secured by any specific assets of the Company or any of its Subsidiaries, nor shall any assets of the Company or any of its Subsidiaries be designated as attributable or allocated to the satisfaction of the Company’s obligations under this Agreement. In addition, the Company shall not be liable to the Associate for damages relating to any delays in issuing the share certificates or its electronic equivalent to the Associate (or his or her designated entities), any loss of the certificates, or any mistakes or errors in the issuance of the certificates (or the electronic equivalent) to the Associate (or his or her designated entities) or in the certificates themselves.
+ARTICLE IV
+ADDITIONAL TERMS AND CONDITIONS OF THE RSUs
+Section 4.1 — Nature of Award
+     In accepting the RSUs, the Associate acknowledges, understands and agrees that:
+     (a) the Plan is established voluntarily by the Company, is discretionary in nature and may be amended, suspended or terminated by the Company at any time;
+8
+
+
+ 
+
+
+     (b) the RSU award is voluntary and occasional and does not create any contractual or other right to receive future RSU awards, or benefits in lieu of RSU awards, even if RSU awards have been granted repeatedly in the past;
+     (c) all decisions with respect to future RSUs, if any, will be at the sole discretion of the Company;
+     (d) the Associate’s participation in the Plan is voluntary;
+     (e) the RSUs and any Shares acquired under the Plan are not intended to replace any pension rights or compensation under any pension arrangement;
+     (f) the RSUs and any Shares acquired under the Plan are not part of normal or expected compensation or salary for any purposes, including, but not limited to, calculating any severance, resignation, termination, redundancy, end of service payments, dismissal, bonuses, long-service awards, pension or retirement or welfare benefits or similar payments and in no event should be considered as compensation for, or relating in any way to past services for, the Employer, the Company or any Subsidiary; and
+     (g) the future value of the Shares underlying the RSUs is unknown and cannot be predicted with certainty.
+Section 4.2 — No Advice Regarding Grant
+     The Company is not providing any tax, legal or financial advice, nor is the Company making any recommendations regarding the Associate’s participation in the Plan, the issuance of Shares upon vesting of the RSUs or sale of the Shares. The Associate is hereby advised to consult with his or her own personal tax, legal and financial advisors regarding his or her participation in the Plan before taking any action related to the Plan.
+ARTICLE V
+DATA PRIVACY NOTICE AND CONSENT
+Section 5 — Data Privacy
+     (a) The Associate hereby explicitly and unambiguously consents to the collection, use and transfer, in electronic or other form, of the Associate’s personal data as described in this Agreement and any other RSU materials by and among, as applicable, the Employer, the Company and its Subsidiaries for the exclusive purpose of implementing, administering and managing the Associate’s participation in the Plan.
+     (b) The Associate understands that the Company and the Employer may hold certain personal information about the Associate, including, but not limited to, the Associate’s name, home address, telephone number, date of birth, social insurance number or other identification number, salary, nationality, job title, any Shares or directorships held in the Company, details of all RSUs or any other entitlement to Shares awarded, canceled, exercised,
+9
+
+
+ 
+
+
+vested, unvested or outstanding in the Associate’s favor, for the exclusive purpose of implementing, administering and managing the Plan (“Data”).
+     (c) The Associate understands that Data will be transferred to                      or to any other third party assisting in the implementation, administration and management of the Plan. The Associate understands that the recipients of the Data may be located in the Associate’s country or elsewhere, and that the recipients’ country (e.g., Ireland) may have different data privacy laws and protections from the Associate’s country. The Associate understands that he or she may request a list with the names and addresses of any potential recipients of the Data by contacting his or her local human resources representative. The Associate authorizes the Company,                      and any other recipients of Data which may assist the Company (presently or in the future) with implementing, administering and managing the Plan to receive, possess, use, retain and transfer the Data, in electronic or other form, for the sole purpose of implementing, administering and managing his or her participation in the Plan. The Associate understands that Data will be held only as long as is necessary to implement, administer and manage the Associate’s participation in the Plan. The Associate understands that he or she may, at any time, view Data, request additional information about the storage and processing of Data, require any necessary amendments to Data or refuse or withdraw the consents herein, in any case without cost, by contacting in writing his or her local human resources representative. The Associate understands, however, that refusing or withdrawing his or her consent may affect the Associate’s ability to participate in the Plan. For more information on the consequences of the Associate’s refusal to consent or withdrawal of consent, the Associate understands that he or she may contact his or her local human resources representative.
+ARTICLE VI
+AGREEMENT OF RESTRICTIVE COVENANTS AND OTHER OBLIGATIONS
+Section 6 — Restrictive Covenants and Other Obligations
+     In consideration of the grant of RSUs, the Associate shall enter into the Agreement of Restrictive Covenants and Other Obligations, a copy of which is attached hereto as Schedule C. In the event the Associate does not sign and return the Agreement of Restrictive Covenants and Other Obligations within 45 days of the Grant Date. the Committee may, in its sole discretion, cancel the RSUs. If no such agreement is required, Schedule C shall state none or not applicable.
+ARTICLE VII
+MISCELLANEOUS
+Section 7.1 — Administration
+     The Board shall have the power to interpret the Plan and this Agreement and to adopt such rules for the administration, interpretation and application of the Plan as are consistent therewith and to interpret or revoke any such rules. All actions taken and all interpretations and determinations made by the Board shall be final and binding upon the Associate, the Company and all other interested persons. No member of the Board shall be personally liable for any action, determination or interpretation made in good faith with respect to the Plan or the RSUs.
+10
+
+
+ 
+
+
+In its absolute discretion, the Board may at any time and from time to time exercise any and all rights and duties of the Board under the Plan and this Agreement.
+Section 7.2 — RSUs Not Transferable
+     Neither the RSUs nor any interest or right therein or part thereof shall be subject to the debts, contracts or engagements of the Associate or his successors in interest or shall be subject to disposition by transfer, alienation, anticipation, pledge, encumbrance, assignment or any other means whether such disposition be voluntary or involuntary or by operation of law by judgment, levy, attachment, garnishment or any other legal or equitable proceedings (including bankruptcy), and any attempted disposition thereof shall be null and void and of no effect; provided, however, that this Section 7.2 shall not prevent transfers made solely for estate planning purposes or under a will or by the applicable laws of inheritance.
+Section 7.3 — Binding Effect
+     The provisions of this Agreement shall be binding upon and accrue to the benefit of the parties hereto and their respective heirs, legal representatives, successors and assigns.
+Section 7.4 — Notices
+     Any notice to be given under the terms of this Agreement to the Company shall be addressed to the Company at the following address:
+Willis Group Holdings Public Limited Company
+c/o Willis North America Inc.
+One World Financial Center
+200 Liberty Street
+New York, NY 10281
+Attention: Company Secretary
+and any notice to be given to the Associate shall be at the address set forth in the RSUs Acceptance Form.
+     By a notice given pursuant to this Section 7.4, either party may hereafter designate a different address for notices to be given to him. Any notice that is required to be given to the Associate shall, if the Associate is then deceased, be given to the Associate’s personal representatives if such representatives have previously informed the Company of their status and address by written notice under this Section 7.4. Any notice shall have been deemed duly given when sent by facsimile or enclosed in a properly sealed envelope or wrapper addressed as aforesaid, deposited (with postage prepaid) in a post office or branch post office regularly maintained by the United States Postal Service or the United Kingdom’s Post Office or in the case of a notice given by an Associate resident outside the United States of America or the United Kingdom, sent by facsimile or with a recognized international courier service.
+Section 7.5 — Titles
+     Titles are provided herein for convenience only and are not to serve as a basis for interpretation or construction of this Agreement.
+11
+
+
+ 
+
+
+Section 7.6 — Applicability of Plan
+     The RSUs shall be subject to all of the terms and provisions of the Plan, to the extent applicable to the RSUs. In the event of any conflict between this Agreement and the Plan, the terms of the Plan shall control.
+Section 7.7 — Amendment
+     This Agreement may be amended only by a document executed by the parties hereto, which specifically states that it is amending this Agreement.
+Section 7.8 — Governing Law
+     This Agreement shall be governed by, and construed in accordance with the laws of Ireland; provided, however, that the Agreement of Restrictive Covenants and Other Obligations, if applicable, shall be governed by and construed in accordance with the laws specified in that agreement.
+Section 7.9 — Jurisdiction
+     The courts of Ireland shall have jurisdiction to hear and determine any suit, action or proceeding and to settle any disputes which may arise out of or in connection with this Agreement and, for such purposes, the parties hereto irrevocably submit to the jurisdiction of such courts; provided, however, where applicable, that with respect to the Agreement of Restrictive Covenants and Other Obligations the courts specified in such agreement shall have jurisdiction to hear and determine any suit, action or proceeding and to settle any disputes which may arise out of or in connection with that agreement.
+Section 7.10 — Electronic Delivery
+     The Company may, in its sole discretion, decide to deliver any documents related to current or future participation in the Plan by electronic means. The Associate hereby consents to receive such documents by electronic delivery and agrees to participate in the Plan through an on-line or electronic system established and maintained by the Company or a third party designated by the Company.
+Section 7.11 — Language
+     If the Associate has received this Agreement, or any other document related to the RSUs and/or the Plan translated into a language other than English and if the translated version is different than the English version, the English version will control.
+Section 7.12 — Severability
+     The provisions of this Agreement are severable and if any one or more provisions are determined to be illegal or otherwise unenforceable, in whole or in part, the remaining provisions shall nevertheless be binding and enforceable.
+12
+
+
+ 
+
+
+Section 7.13 — Schedule B
+     The RSUs shall be subject to any special provisions set forth in Schedule B for the Associate’s country of residence, if any. If the Associate relocates to one of the countries included in Schedule B during prior to the vesting of the RSUs, the special provisions for such country shall apply to the Associate, to the extent the Company determines that the application of such provisions is necessary or advisable in order to comply with local law or facilitate the administration of the Plan. Schedule B constitutes part of this Agreement.
+Section 7.14 — Imposition of Other Requirements
+     The Company reserves the right to impose other requirements on the RSUs and the Shares acquired upon vesting of the RSUs, to the extent the Company determines it is necessary or advisable in order to comply with local laws or facilitate the administration of the Plan, and to require the Associate to sign any additional agreements or undertakings that may be necessary to accomplish the foregoing.
+Section 7.15 — Counterparts.
+     This Agreement may be executed in any number of counterparts (including by facsimile), each of which shall be deemed to be an original and all of which together shall constitute one and the same instrument.
+     IN WITNESS WHEREOF, the Company and the Associate have each executed this Agreement.
+
+ 
+ 
+ 
+ 
+ 
+WILLIS GROUP HOLDINGS PUBLIC
+LIMITED COMPANY
+ 
+ 
+ 
+ 
+ 
+By:
+ 
+ 
+Name:
+ 
+ 
+Title:
+13

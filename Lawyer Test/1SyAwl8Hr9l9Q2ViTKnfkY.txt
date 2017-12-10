@@ -1,0 +1,707 @@
+﻿
+
+SECURITIES PURCHASE AGREEMENT
+This Securities Purchase Agreement (the “Agreement”) is dated as of December 29, 2009, by and among Osteologix, Inc., a Delaware corporation (the “Company”), and the purchasers named on the signature page hereto (each a “Purchaser” and collectively, the “Purchasers”).
+In consideration of the mutual covenants contained in this Agreement, and for other good and valuable consideration the receipt and adequacy of which are hereby acknowledged, the Company and each of the Purchasers agree as follows:
+1. Purchase and Sale. On the Closing Date, in accordance with and subject to the terms and conditions described in this Agreement relating to the offering (the “Offering”) by the Company of shares (the “Shares”) of Company common stock, $0.0001 par value per share (the “Common Stock”), for an aggregate purchase price equal to $1,000,000 (the “Aggregate Subscription Amount”), the Company agrees to sell to each of the Purchasers, and each of the Purchasers agrees to purchase from the Company, the number of Shares equal to (a) the Individual Subscription Amount set forth next to such Purchaser’s name on Exhibit A hereto divided by (b) the Per-Share Purchase Price (the number of Shares to be sold to each Purchaser shall be rounded down to the nearest whole number).
+Capitalized terms used but not otherwise defined herein shall have the respective meanings set forth in Section 7 hereof or elsewhere herein.
+2. Closing, Deliverables and Escrow.
+(a) Closing. On the Closing Date, each Purchaser shall purchase from the Company, and the Company shall issue and sell to each Purchaser, the number of Shares set forth next to such Purchaser’s name on Exhibit A hereto, and such Purchaser shall pay to the Company in consideration for the such Shares, the aggregate purchase price (equal to $0.5019 per Share) set forth next to such Purchaser’s name on Exhibit A hereto (such amount shall be referred to herein as such Purchaser’s “Subscription Amount”). On the Closing Date, the Closing shall occur at the offices of Morrison & Foerster LLP, 755 Page Mill Road, Palo Alto, California 94304, or such other time and location as the parties shall mutually agree.
+(b) Deliveries.
+(1) On or prior to the Closing Date, the Company shall deliver or cause to be delivered to each of the Purchasers the following:
+(i) this Agreement and the Registration Rights Agreement duly executed by the Company;
+(ii) a certificate evidencing the Shares registered in the name of each of the Purchasers; and
+ 
+ 
+
+
+ 
+
+
+(iii) the Opinion of Company counsel substantially in the form of Exhibit B, attached hereto.
+(2) On or prior to the Closing Date, each of the Purchasers shall deliver or cause to be delivered to the Company the following:
+(i) this Agreement and, the Registration Rights Agreement duly executed by such Purchaser;
+(ii) such Purchaser’s Subscription Amount by wire transfer of immediately available funds to an account designated in writing by the Company;
+(iii) the Investor Certification in the form of Appendix I attached hereto, completed by the Purchaser; and
+(iv) the Stock Certificate Questionnaire and Registration Statement Questionnaire in the form of Appendix II attached hereto, completed by the Purchaser.
+(c) Closing Conditions.
+(1) The obligations of the Company hereunder in connection with the Closing are subject to the following conditions being met:
+(i) the accuracy in all material respects on the Closing Date of the representations and warranties of each of the Purchasers contained herein;
+(ii) all obligations, covenants and agreements of each of the Purchasers required to be performed at or prior to the Closing Date shall have been performed;
+(iii) the delivery by the each of the Purchasers of the items set forth in Section 2(b)(2) of this Agreement; and
+(iv) the delivery by each of the Purchasers of a certificate, executed by an authorized officer of such Purchaser dated as of the Closing Date, certifying on behalf of such Purchaser that such Purchaser has satisfied the conditions specified in Sections 2(c)(1)(i) and 2(c)(1)(ii).
+(2) The obligations of each of the Purchasers in connection with the Closing are subject to the following conditions being met:
+(i) the accuracy in all material respects on the Closing Date of the representations and warranties of the Company contained herein;
+(ii) all obligations, covenants and agreements of the Company required to be performed at or prior to the Closing Date shall have been performed;
+(iii) the delivery by the Company of the items set forth in Section 2(b)(1) of this Agreement;
+ 
+2
+
+
+ 
+
+
+(iv) there shall have been no Material Adverse Effect with respect to the Company since the date hereof; and
+(v) the delivery by the Company of a certificate, executed by the President of the Company dated as of the Closing Date, certifying on behalf of the Company that the Company has satisfied the conditions specified in Sections 2(c)(2)(i), (ii) and (iv).
+3. Acceptance of Subscription. The Company shall have no obligation hereunder until the Company shall execute and deliver to each of the Purchasers an executed copy of this Agreement. If this subscription is rejected or the Offering is terminated, in each case, prior to execution and delivery of this Agreement by the Company, this Agreement and all other documents executed by each of the Purchasers shall thereafter be of no further force or effect.
+4. Purchaser Representations and Warranties. Each of the Purchasers hereby severally, and not jointly with any other Purchaser, represents, warrants, acknowledges and agrees as of the date hereof and as of the Closing Date to the Company as follows:
+(a) The Shares are not registered under the Securities Act of 1933, as amended (the “Securities Act”), or any state securities laws and, except as set forth in the Registration Rights Agreement, the Company has no present or future obligation to register the Shares under the Securities Act or any state securities laws. Such Purchaser understands that the offering and sale of the Shares is intended to be exempt from registration under the Securities Act, by virtue of Section 4(2) thereof and the provisions of Regulation D promulgated thereunder, or not subject to such requirement, by virtue of Regulation S promulgated under the Securities Act, based, in part, upon the representations, warranties and agreements of such Purchaser contained in this Agreement.
+(b) Such Purchaser has had access to the SEC Reports and has received all other documents requested by such Purchaser. Such Purchaser has carefully reviewed the SEC Reports and all such other documents and understands the information contained therein.
+(c) All documents, records and books pertaining to the investment in the Shares have been made available for inspection by such Purchaser and its representatives. Such Purchaser hereby acknowledges that all such information is confidential and such Purchaser shall not disclose any such confidential information to any third party other than as may be required by law.
+(d) Such Purchaser has had a reasonable opportunity to ask questions of and receive answers from a person or persons acting on behalf of the Company concerning the offering of the Shares and the business, financial condition, results of operations and prospects of the Company, and all such questions have been answered to the full satisfaction of such Purchaser. Neither such inquiries nor any other investigation conducted by or on behalf of such Purchaser or its representatives or counsel shall modify, amend or affect such Purchaser’s right to rely on the truth, accuracy and completeness of the Company’s representations and warranties contained in this Agreement.
+ 
+3
+
+
+ 
+
+
+(e) In evaluating the suitability of an investment in the Company, such Purchaser has not relied upon any representation or other information (oral or written) other than as stated in this Agreement.
+(f) Such Purchaser is unaware of, is in no way relying on, and did not become aware of the Offering through or as a result of, any form of general solicitation or general advertising as those terms are used in Regulation D under the Securities Act, including, without limitation, any article, notice, advertisement or other communication published in any newspaper, magazine or similar media or broadcast over television or radio, in connection with the Offering and is not subscribing for Shares and did not become aware of the Offering through or as a result of any seminar or meeting to which such Purchaser was invited by, or any solicitation of a subscription by, a person not previously known to such Purchaser.
+(g) Such Purchaser has taken no action which would give rise to any claim by any person for brokerage commissions, finders’ fees or the like relating to this Agreement or the transactions contemplated hereby.
+(h) Such Purchaser has such knowledge and experience in financial, tax and business matters, and, in particular, investments in securities similar to the Shares so as to enable such Purchaser to utilize the information made available to it in connection with the Offering to evaluate the merits and risks of an investment in the Shares and the Company and to make an informed investment decision with respect thereto.
+(i) Such Purchaser is not relying on the Company or any of its employees, officers or agents with respect to the legal, tax, economic and related considerations as to an investment in the Shares and such Purchaser has relied on the advice of, or has consulted with, only his own advisors.
+(j) Such Purchaser is acquiring the Shares solely for such Purchaser’s own account for investment and not with a view to resale, assignment or distribution thereof, in whole or in part in violation of the Securities Act or any applicable state securities laws. Such Purchaser has no agreement or arrangement, formal or informal, with any person to sell or transfer all or any part of the Shares in violation of the Securities Act or any state securities laws and such Purchaser has no plans to enter into any such agreement or arrangement. Such Purchaser will not engage in hedging transactions with respect to the Shares unless in compliance with the registration requirements of the Securities Act.
+(k) Such Purchaser must bear the substantial economic risks of the investment in the Shares indefinitely because none of the Shares may be sold, hypothecated or otherwise disposed of unless subsequently registered under the Securities Act and applicable state securities laws or an exemption from such registration is available. Subject to the terms hereunder, legends shall be placed on the Shares to the effect that they have not been registered under the Securities Act or applicable state securities laws and appropriate notations thereof will be made in the Company’s stock books.
+ 
+4
+
+
+ 
+
+
+(l) Such Purchaser has adequate means of providing for its current financial needs and foreseeable contingencies and has no need for liquidity of the investment in the Shares for an indefinite period of time.
+(m) Such Purchaser (i) meets the requirements of the suitability standards for an “accredited investor” because such Purchaser is a corporation, partnership, limited liability company, limited liability partnership, other entity or similar business trust, not formed for the specific purpose of acquiring the Shares, with total assets excess of $5,000,000 or (ii) is a “non-US Person” that is a “qualified investor” as defined in the European Union Prospective Directive. Such Purchaser further represents and warrants that it will notify and supply corrective information to the Company immediately upon the occurrence of any change occurring prior to the Company’s issuance of the Shares that renders the representation made in the immediately preceding sentence. Such Purchaser represents to the Company that any information which the undersigned has heretofore furnished under this Section 4(m) or furnishes to the Company pursuant to this Section 4(m) is complete and accurate and may be relied upon by the Company in determining the availability of an exemption from registration under Federal and state securities laws in connection with the Offering.
+(n) Such Purchaser represents that it is a corporation, partnership, limited liability company or partnership, association, joint stock company, trust, unincorporated organization or other entity, and that (A) such Purchaser was not formed for the specific purpose of acquiring the Shares, (B) such Purchaser is duly organized, validly existing and in good standing under the laws of the jurisdiction of its organization, (C) the consummation of the transactions contemplated hereby is authorized by, and will not result in a violation of law or the charter or other organizational documents of such Purchaser, (D) such Purchaser has full power and authority to execute and deliver this Agreement and all other related agreements or certificates and to carry out the provisions hereof and thereof and to purchase and hold the Shares, (E) the execution and delivery of this Agreement has been duly authorized by all necessary action of such Purchaser, (F) this Agreement has been duly executed and delivered on behalf of such Purchaser and constitutes a legal, valid and binding obligation of such Purchaser, enforceable against such Purchaser in accordance with its terms subject to applicable bankruptcy, insolvency, fraudulent conveyance, reorganization, moratorium and similar laws affecting creditors’ rights and remedies generally and general principles of equity and (G) the execution and delivery of this Agreement by such Purchaser will not violate or be in conflict with any order, judgment, injunction, agreement or controlling document to which such Purchaser is a party or by which such Purchaser is bound.
+(o) Such Purchaser is able to bear the economic risk of an investment in the Shares and, at the present time, has a sufficient net worth to sustain a complete loss of such investment in the Company in the event such a loss should occur. Such Purchaser’s overall commitment to investments which are not readily marketable is not excessive in view of its net worth and financial circumstances and the purchase of the Shares will not cause such commitment to become excessive.
+ 
+5
+
+
+ 
+
+
+(p) THE SECURITIES OFFERED HEREBY HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR THE SECURITIES LAWS OF CERTAIN STATES AND ARE BEING OFFERED AND SOLD IN RELIANCE ON EXEMPTIONS FROM, OR IN TRANSACTIONS NOT SUBJECT TO, THE REGISTRATION REQUIREMENTS OF SAID ACT AND SUCH LAWS. THE SECURITIES OFFERED HEREBY MAY NOT BE TRANSFERRED OR RESOLD EXCEPT AS PERMITTED UNDER THE SECURITIES ACT OF 1933 AS AMENDED AND SUCH LAWS PURSUANT TO REGISTRATION OR EXEMPTION THEREFROM. THE SECURITIES OFFERED HEREBY HAVE NOT BEEN APPROVED OR DISAPPROVED BY THE COMMISSION, ANY STATE SECURITIES COMMISSION OR ANY OTHER REGULATORY AUTHORITY, NOR HAVE ANY OF THE FOREGOING AUTHORITIES PASSED UPON OR ENDORSED THE MERITS OF THIS OFFERING. ANY REPRESENTATION TO THE CONTRARY IS UNLAWFUL.
+(q) Such Purchaser should check the Office of Foreign Assets Control (“OFAC”) website at http://www.treas.gov/ofac before making the following representations. Such Purchaser represents that the amounts invested by it in the Company in the Offering were not and are not directly or indirectly derived from activities that contravene federal, state or international laws and regulations, including anti-money laundering laws and regulations. Federal regulations and Executive Orders administered by OFAC prohibit, among other things, the engagement in transactions with, and the provision of services to, certain foreign countries, territories, entities and individuals. The lists of OFAC prohibited countries, territories, persons and entities can be found on the OFAC website at http://www.treas.gov/ofac. In addition, the programs administered by OFAC (the “OFAC Programs”) prohibit dealing with individuals1 or entities in certain countries regardless of whether such individuals or entities appear on the OFAC lists.
+(r) To such Purchaser’s knowledge, none of: (1) such Purchaser, (2) any person controlling or controlled by such Purchaser, (3) if such Purchaser is a privately-held entity, any person having a beneficial interest in such Purchaser or (4) any person for whom such Purchaser is acting as agent or nominee in connection with this investment is a country, territory, individual or entity named on an OFAC list, or a person or entity prohibited under the OFAC Programs. Please be advised that the Company may not accept any amounts from a prospective investor if such prospective investor cannot make the representation set forth in the preceding paragraph. Such Purchaser agrees to promptly notify the Company should such Purchaser become aware of any change in the information set forth in Sections 4(r) — (t) of these representations. Such Purchaser understands and acknowledges that, by law, the Company may be obligated to “freeze the account” of such Purchaser, either by prohibiting additional subscriptions from such Purchaser, declining any redemption requests and/or segregating the assets in the account in compliance with governmental regulations. Such Purchaser further acknowledges that the Company may, by written notice to such Purchaser, suspend the redemption rights, if any, of such Purchaser if the Company reasonably deems it necessary to do so to comply with anti-money laundering regulations applicable to the Company or any of the Company’s other service providers. These individuals include specially designated nationals, specially designated narcotics traffickers and other parties subject to OFAC sanctions and embargo programs.
+
+ 
+ 
+ 
+ 
+1
+ 
+These individuals include specially designated nationals, specially designated narcotics traffickers and other parties subject to OFAC sanctions and embargo programs.
+ 
+6
+
+
+ 
+
+
+(s) To such Purchaser’s knowledge, none of: (1) such Purchaser, (2) any person controlling or controlled by such Purchaser, (3) if such Purchaser is a privately-held entity, any person having a beneficial interest in such Purchaser or (4) any person for whom such Purchaser is acting as agent or nominee in connection with this investment is a senior foreign political figure2, or any immediate family3 member or close associate4 of a senior foreign political figure, as such terms are defined in the footnotes below.
+(t) If such Purchaser is affiliated with a non-U.S. banking institution (a “Foreign Bank”), or if such Purchaser receives deposits from, makes payments on behalf of, or handles other financial transactions related to a Foreign Bank, such Purchaser represents and warrants to the Company that: (1) the Foreign Bank has a fixed address, other than solely an electronic address, in a country in which the Foreign Bank is authorized to conduct banking activities, (2) the Foreign Bank maintains operating records related to its banking activities, (3) the Foreign Bank is subject to inspection by the banking authority that licensed the Foreign Bank to conduct banking activities, and (4) the Foreign Bank does not provide banking services to any other Foreign Bank that does not have a physical presence in any country and that is not a regulated affiliate.
+(u) Prior to the date hereof, the Purchaser has not taken, and prior to the public announcement of the transaction after the Closing the Purchaser shall not take, any action that has caused or will cause the Purchaser to have, directly or indirectly, sold or agreed to sell any shares of Common Stock, effected any short sale, whether or not against the box, established any “put equivalent position” (as defined in Rule 16a-1(h) under the Exchange Act with respect to the Common Stock, granted any other right (including, without limitation, any put or call option) with respect to the Common Stock or with respect to any security that includes, relates to or derived any significant part of its value from the Common Stock.
+5. Company Representations and Warranties. The Company hereby represents, warrants, acknowledges and agrees as of the date hereof and as of the Closing Date to such Purchaser as follows:
+(a) Subsidiaries. Except as disclosed in the SEC Reports, the Company has no direct or indirect subsidiaries.
+(b) Organization and Qualification. The Company is an entity duly incorporated or otherwise organized, validly existing and in good standing under the laws of the State of Delaware, with the requisite power and authority to own and use its properties and assets and to carry on its business as currently conducted. The Company is not in violation of any of the provisions of its Certificate of Incorporation or By-Laws.
+
+ 
+ 
+ 
+ 
+2
+ 
+A “senior foreign political figure” is defined as a senior official in the executive, legislative, administrative, military or judicial branches of a foreign government (whether elected or not), a senior official of a major foreign political party, or a senior executive of a foreign government-owned corporation. In addition, a “senior foreign political figure” includes any corporation, business or other entity that has been formed by, or for the benefit of, a senior foreign political figure.
+ 
+3
+ 
+“Immediate family” of a senior foreign political figure typically includes the figure’s parents, siblings, spouse, children and in-laws.
+ 
+4
+ 
+A “close associate” of a senior foreign political figure is a person who is widely and publicly known to maintain an unusually close relationship with the senior foreign political figure, and includes a person who is in a position to conduct substantial domestic and international financial transactions on behalf of the senior foreign political figure.
+ 
+7
+
+
+ 
+
+
+(c) Authorization; Enforcement. The Company has the requisite corporate power and authority to enter into and to consummate the Offering. The execution and delivery of this Agreement and the Registration Rights Agreement by the Company and the consummation by it of the transactions contemplated hereby and thereby have been duly authorized by all necessary action on the part of the Company and no further consent or action is required by the Company, other than the Required Approvals. The Charter Amendment has been duly authorized by all necessary action on the part of the Company and no further consent or action is required by the Company other than compliance with the requirements of Section 14 of the Exchange Act. This Agreement and the Registration Rights Agreement, when executed and delivered in accordance with the terms hereof, will each constitute the valid and binding obligation of the Company enforceable against the Company in accordance with their respective terms, subject to applicable bankruptcy, insolvency, fraudulent conveyance, reorganization, moratorium and similar laws affecting creditors’ rights and remedies generally and general principles of equity.
+(d) No Conflicts. The execution, delivery and performance of this Agreement and the Registration Rights Agreement by the Company and the consummation by the Company of the transactions contemplated hereby and thereby do not and will not: (i) conflict with or violate any provision of the Company’s Certificate of Incorporation or By-Laws, or (ii) conflict with, or constitute a default (or an event that with notice or lapse of time or both would become a default) under, or give to others any rights of termination, amendment, acceleration or cancellation (with or without notice or lapse of time or both) of, any agreement, credit facility, debt or other instrument (evidencing a Company debt or otherwise) or other understanding to which the Company is a party or by which any material property or asset of the Company is bound or affected, or (iii) subject to obtaining the Required Approvals, result in a violation of any law, rule, regulation, order, judgment, injunction, decree or other restriction of any court or governmental authority as currently in effect to which the Company is subject (including federal and state securities laws and regulations), or by which any material property or asset of the Company is bound or affected; except in the case of each of clauses (ii) and (iii), such as could not, individually or in the aggregate (a) adversely affect the legality, validity or enforceability of the Offering, (b) have or result in a material adverse effect on the results of operations, assets, prospects, business or condition (financial or otherwise) of the Company, taken as a whole, or (c) adversely impair the Company’s ability to perform fully on a timely basis its obligations under this Agreement (any of (a), (b) or (c), a “Material Adverse Effect”); provided, however, that, notwithstanding the foregoing, the parties agree that no change in the market price of the Company’s Common Stock shall be deemed to be a Material Adverse Effect for purposes of this Agreement.
+(e) Filings, Consents and Approvals. The Company is not required to obtain any consent, waiver, authorization or order of, give any notice to, or make any filing or registration with, any court or other federal, state, local or other governmental authority or other Person in connection with the execution, delivery and performance by the Company of this Agreement and the Registration Rights Agreement other than (i) the filing with the SEC of the registration statement required to be filed by the Company pursuant to the Registration Rights Agreement, (ii) the filing with the SEC of a Form D pursuant to Regulation D under the Securities Act and (iii) applicable Blue Sky filings (collectively, the “Required Approvals”).
+ 
+8
+
+
+ 
+
+
+(f) Issuance of the Shares. The Shares are duly authorized and, when issued and paid for in accordance with this Agreement, will be duly and validly issued, fully paid and nonassessable, free and clear of all Liens. Assuming the accuracy of the Purchasers’ representations and warranties set forth in Section 4, no registration under the Securities Act is required for the offer and sale of the Shares by the Company to each of the Purchasers as contemplated hereby. No shareholder approval is required for the Company to fulfill its obligations pursuant to this Agreement and the Registration Rights Agreement. As of the Closing, the Company will have reserved from its duly authorized capital stock the maximum number of shares of Common Stock issuable pursuant to this Agreement.
+(g) Capitalization. The number of shares of Common Stock and type of all authorized, issued and outstanding capital stock of the Company is as set forth in the SEC Reports. No Person has any right of first refusal, preemptive right, right of participation, or any similar right to participate in the Offering. Except as a result of the purchase and sale of the Shares which may be issued in connection with this Offering and, except as described in the SEC Reports, there are no outstanding options, warrants, script rights to subscribe to, calls or commitments of any character whatsoever relating to shares of Common Stock, or, rights or obligations convertible into or exchangeable for, or giving any Person any right to subscribe for or acquire, any shares of Common Stock, or contracts, commitments, understandings or arrangements by which the Company is or may become bound to issue additional shares of Common Stock or rights convertible or exchangeable into shares of Common Stock. The issuance and sale of the Shares will not obligate the Company to issue shares of Common Stock to any Person (other than the Purchasers) and will not result in a right of any holder of Company equity to adjust the exercise, conversion, exchange or reset price under any outstanding securities. All of the outstanding shares of capital stock of the Company issued on and after May 24, 2006 are validly issued, fully paid and non-assessable, have been issued in compliance with federal and state securities laws, and none of such outstanding shares was issued in violation of any preemptive rights or similar rights to subscribe for or purchase securities.
+(h) SEC Reports; Financial Statements. The Company has filed all reports, schedules, forms, statements and other documents required to be filed by it under the Securities Act and the Securities Exchange Act of 1934, as amended (the “Exchange Act”), including pursuant to Section 13(a) or 15(d) thereof, since January 1, 2007 (the foregoing materials, including the exhibits thereto and documents incorporated by reference therein, being collectively referred to herein as the “SEC Reports”) on a timely basis. As of their respective dates, the SEC Reports complied in all material respects with the requirements of the Securities Act and the Exchange Act and the rules and regulations of the SEC promulgated thereunder, and none of the SEC Reports, when filed, contained any untrue statement of a material fact or omitted to state a material fact required to be stated therein or necessary in order to make the statements therein, in the light of the circumstances under which they were made, not misleading. The financial statements of the Company included in the SEC Reports have been prepared in accordance with United States generally accepted accounting principles applied on a consistent basis during the periods involved (“GAAP”), except as may be otherwise specified in such financial statements or the notes thereto, and fairly present in all material respects the financial position of the Company as of and for the dates thereof and the results of operations and cash flows for the periods then ended.
+ 
+9
+
+
+ 
+
+
+(i) Material Changes. Except for the proposed Offering or as otherwise described in the SEC Reports, since the date of the latest financial statements included in the SEC Reports: (i) there has been no event, occurrence or development that has had or could reasonably be expected to result in a Material Adverse Effect, (ii) the Company has not incurred any liabilities (contingent or otherwise) other than (A) trade payables and accrued expenses incurred in the ordinary course of business consistent with past practice, and (B) liabilities not required to be reflected in the Company’s financial statements pursuant to GAAP or required to be disclosed in filings made with the SEC, (iii) the Company has not altered its method of accounting or the identity of its auditors, (iv) the Company has not declared or made any dividend or distribution of cash or other property to its stockholders except in the ordinary course of business consistent with prior practice, or purchased, redeemed or made any agreements to purchase or redeem any shares of its capital stock except consistent with prior practice or pursuant to existing Company stock option or similar plans, and (v) the Company has not issued any equity shares to any officer, director or affiliate, except pursuant to existing Company stock option, director compensation or similar plans.
+(j) Litigation. Except as disclosed in the SEC Reports, there is no action, suit, inquiry, notice of violation, Proceeding or investigation pending or, to the knowledge of the Company, threatened against or affecting the Company or its properties before or by any court, arbitrator, governmental or administrative agency or regulatory authority (federal, state, county, local or foreign) (collectively, an “Action”) which: (i) adversely affects or challenges the legality, validity or enforceability of this Agreement and the Registration Rights Agreement or the Offering or (ii) could, if there were an unfavorable decision, individually or in the aggregate, have or reasonably be expected to result in a Material Adverse Effect. The Company is not nor has it ever been the subject of any Action involving a claim of violation of or liability under federal or state securities laws. There has not been, and to the knowledge of the Company, there is not pending or contemplated, any investigation by the SEC involving the Company. The SEC has not issued any stop order or other order suspending the effectiveness of any registration statement filed by the Company under the Exchange Act or the Securities Act.
+(k) Compliance. Except as disclosed in the SEC Reports, the Company: (i) is not in default under or in violation of (and no event has occurred that has not been waived that, with notice or lapse of time or both, would result in a default by the Company under), nor has the Company received notice of a claim that it is in default under or that it is in violation of, any material indenture, loan or credit agreement or any other material agreement or instrument to which it is a party or by which it or any of its properties is bound (whether or not such default or violation has been waived), which default or violation would have, or would reasonably be expected to result in, a Material Adverse Effect, (ii) is not in violation of any order of any court, arbitrator or governmental body, and (iii) is not and has not been in violation of any statute, rule or regulation of any governmental authority, except in each case as, individually or in the aggregate, would not have and would not reasonably be expected to result in, a Material Adverse Effect.
+ 
+10
+
+
+ 
+
+
+(l) Regulatory Permits. Except as otherwise described in the SEC Reports, the Company possesses or has applied for all certificates, authorizations and permits issued by the appropriate federal, state, local or foreign regulatory authorities necessary to conduct its business as described in the SEC Reports, except where the failure to possess such permits would not, individually or in the aggregate, have a Material Adverse Effect (“Material Permits”), and the Company has not received any notice of Proceedings relating to the revocation or modification of any Material Permit.
+(m) Title to Assets. The Company and its subsidiaries have title in fee simple to all real property owned by them that is material to the business of the Company and its subsidiaries and title in all personal property owned by them that is material to the business of the Company and its subsidiaries, in each case free and clear of all Liens, except for Liens as do not materially affect the value of such property and do not materially interfere with the use made and proposed to be made of such property by the Company and its subsidiaries and Liens for the payment of federal, state or other taxes, and other statutory liens, the payment of which is neither delinquent nor subject to penalties. Any real property and facilities held under lease by the Company or its subsidiaries is held by them under valid leases of which the Company and its subsidiaries are in compliance, except as would not have a Material Adverse Effect.
+(n) Patents and Trademarks. The Company and its subsidiaries either own, or have rights to use, all patents, patent applications, trademarks, trademark applications, service marks, trade names, copyrights, licenses and other similar rights that are necessary or material for use in connection with their respective businesses as described in the SEC Reports and which the failure to so own or have could reasonably be expected to result in a Material Adverse Effect (collectively, the “Intellectual Property Rights”). The Company and its subsidiaries have not (i) received a written notice that the Intellectual Property Rights owned or used by the Company or its subsidiaries violates or infringes upon the rights of any Person, or (ii) received a written invitation to license any intellectual property rights of any Person in order to avoid such a violation or infringement. To the knowledge of the Company, there is no existing infringement of any of the Intellectual Property Rights by any Person.
+(o) Insurance. The Company and its subsidiaries are insured by insurers of recognized financial responsibility against such losses and risks, including, without limitation, products liability, and in such amounts as are prudent and customary in the businesses in which the Company and its subsidiaries are engaged. Neither the Company nor any of its subsidiaries has any reason to believe that it will not be able to renew its existing insurance coverage as and when such coverage expires or to obtain similar coverage from similar insurers as may be necessary to continue its business on terms consistent with market for the Company’s and each of its subsidiary’s respective lines of business.
+(p) Lack of Publicity. None of the Company, its subsidiaries or any person acting on its or their behalf have engaged or will engage in any form of general solicitation or general advertising as those terms are used in Regulation D under the Securities Act in the United States with respect to the Shares, including, without limitation, any article, notice, advertisement or other communication published in any newspaper, magazine or similar media or broadcast over television or radio, regarding the Offering, nor did any such person sponsor any seminar or meeting to which potential investors were invited by, or any solicitation of a subscription by, a person not previously known to such investor in connection with investments in the Shares generally. None of the Company, its subsidiaries or any person acting on its or their behalf have engaged or will engage in any form of directed selling efforts (as that term is used in Regulation S under the Securities Act) with respect to the Shares.
+ 
+11
+
+
+ 
+
+
+(q) Certain Fees. No brokerage commissions, finder’s fees or the like are or will be payable by the Company to any broker, financial advisor or consultant, finder, placement agent, investment banker, bank or other Person with respect to the transactions contemplated by this Agreement.
+(r) Registration Rights. Other than pursuant to (i) the Registration Rights Agreement, (ii) the Registration Rights Agreement dated March 27, 2008 by and among the Company and the holders signatory thereto, (iii) the Registration Rights Agreement dated as of June 4, 2007 by and among the Company and the holders signatory thereto and (iv) the Registration Rights Agreement dated as of May 24, 2006 by and among the Company and the purchasers signatory thereto, and other than the Purchasers, no Person has any right to cause the Company to effect the registration under the Securities Act of any securities of the Company.
+(s) Tax Status. Except for matters that would not, individually or in the aggregate, have or reasonably be expected to result in a Material Adverse Effect, the Company and each of its subsidiaries have filed all necessary federal, state and foreign income and franchise tax returns or have timely filed for valid extensions to the filing deadlines applicable to them with respect to such taxes and has paid or accrued all taxes shown as due thereon, and the Company has no knowledge of a tax deficiency which has been asserted or threatened against the Company or any of its subsidiaries.
+(t) Solvency. Based on the financial condition of the Company as of the Closing Date after giving effect to the receipt by the Company of the proceeds from the sale of the Shares hereunder, (i) the Company’s fair saleable value of its assets exceeds the amount that will be required to be paid on or in respect of the Company’s existing debts and other existing liabilities (including known contingent liabilities) as they mature; (ii) the Company’s assets do not constitute unreasonably small capital to carry on its business through March 31, 2010 as now conducted and as proposed to be conducted including its capital needs taking into account the particular capital requirements of the business conducted by the Company, and projected capital requirements and capital availability thereof; and (iii) the current cash flow of the Company, together with the proceeds the Company would receive, were it to liquidate all of its assets, after taking into account all anticipated uses of the cash, would be sufficient to pay all amounts on or in respect of its existing debt when such amounts are required to be paid. The Company does not intend to incur debts beyond its ability to pay such debts as they mature (taking into account the timing and amounts of cash to be payable on or in respect of its debt). The Company has no knowledge of any facts or circumstances which lead it to believe that it will file for reorganization or liquidation under the bankruptcy or reorganization laws of any jurisdiction before March 31, 2010. The SEC Reports set forth as of the dates thereof all outstanding secured and unsecured Indebtedness of the Company or any of its subsidiaries, or for which the Company or any of its subsidiaries has commitments. For the purposes of this Agreement, “Indebtedness” shall mean (a) any liabilities for borrowed money or amounts owed in excess of $50,000 (other than trade accounts payable incurred in the ordinary course of business), (b) all guaranties,
+ 
+12
+
+
+ 
+
+
+endorsements and other contingent obligations in respect of Indebtedness of others, whether or not the same are or should be reflected in the Company’s balance sheet (or the notes thereto), except guaranties by endorsement of negotiable instruments for deposit or collection or similar transactions in the ordinary course of business and (c) the present value of any lease payments in excess of $50,000 due under leases required to be capitalized in accordance with GAAP. Neither the Company nor any of its subsidiaries is in default with respect to any Indebtedness.
+(u) Foreign Corrupt Practices. Neither the Company, nor to the knowledge of the Company, any agent or other person acting on behalf of the Company, has (i) directly or indirectly, used any funds for unlawful contributions, gifts, entertainment or other unlawful expenses related to foreign or domestic political activity, (ii) made any unlawful payment to foreign or domestic government officials or employees or to any foreign or domestic political parties or campaigns from corporate funds, (iii) failed to disclose fully any contribution made by the Company (or made by any person acting on its behalf of which the Company is aware) which is in violation of law, or (iv) violated in any material respect any provision of the Foreign Corrupt Practices Act of 1977, as amended.
+(v) Shareholders Rights Plan; Investment Company Act. No claim will be made or enforced by the Company that any of the Purchasers is an “Acquiring Person” under any shareholders rights plan or similar plan or arrangement in effect or hereafter adopted by the Company, or that any Purchaser could be deemed to trigger the provisions of any such plan or arrangement, by virtue of receiving any Shares. The Company is not, and is not an Affiliate of, and immediately after receipt of payment for the Shares, will not be or be an Affiliate of, an “investment company” within the meaning of the Investment Company Act of 1940, as amended (the “Investment Company Act”).
+(w) Disclosure. The disclosure provided to each of the Purchasers regarding the Company, its business and the transactions contemplated hereby, furnished by or on behalf of the Company, including the SEC Reports, does not contain any untrue statement of a material fact or omit to state any material fact necessary in order to make the statements made therein, in light of the circumstances under which they were made, not misleading.
+6. Covenants of the Purchasers and the Company.
+(a) Transfer Restrictions.
+(1) The Shares may only be disposed of in compliance with state and federal securities laws. In connection with any transfer of such securities (or hedging activities involving such securities) other than pursuant to an effective registration statement or Rule 144, to the Company or to an affiliate of any Purchaser or in connection with a pledge as contemplated below, the Company may require the transferor thereof to provide to the Company an opinion of counsel selected by the transferor and reasonably acceptable to the Company, the form and substance of which opinion shall be reasonably satisfactory to the Company, to the effect that such transfer does not require registration of such transferred securities under the Securities Act. As a condition of transfer, any such transferee shall agree in writing to be bound by the terms of this Agreement and shall have the rights of a Purchaser under this Agreement.
+ 
+13
+
+
+ 
+
+
+(2) Each of the Purchasers agrees to the imprinting, so long as is required by this Section 6(a), of a legend on any of the Shares in the following form:
+THESE SECURITIES HAVE NOT BEEN REGISTERED WITH THE SECURITIES AND EXCHANGE COMMISSION OR THE SECURITIES COMMISSION OF ANY STATE IN RELIANCE UPON AN EXEMPTION FROM REGISTRATION UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE “SECURITIES ACT”), AND, ACCORDINGLY, MAY NOT BE OFFERED OR SOLD EXCEPT PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT OR PURSUANT TO AN AVAILABLE EXEMPTION FROM, OR IN A TRANSACTION NOT SUBJECT TO, THE REGISTRATION REQUIREMENTS OF THE SECURITIES ACT AND IN ACCORDANCE WITH APPLICABLE STATE SECURITIES LAWS AS EVIDENCED BY A LEGAL OPINION OF COUNSEL TO SUCH EFFECT, THE SUBSTANCE OF WHICH SHALL BE REASONABLY ACCEPTABLE TO THE COMPANY. ADDITIONALLY, HEDGING TRANSACTIONS IN RESPECT OF THESE SECURITIES MUST BE EFFECTED IN ACCORDANCE WITH THE REGISTRATION REQUIREMENTS OF THE SECURITIES ACT, IF APPLICABLE. THESE SECURITIES MAY BE PLEDGED IN CONNECTION WITH A BONA FIDE MARGIN ACCOUNT WITH A REGISTERED BROKER-DEALER OR OTHER LOAN WITH A FINANCIAL INSTITUTION THAT IS AN “ACCREDITED INVESTOR” AS DEFINED IN RULE 501(a) UNDER THE SECURITIES ACT OR OTHER LOAN SECURED BY SUCH SECURITIES.
+(3) Certificates evidencing Shares shall not contain any legend (including the legend set forth in Section 6(a)(2)): (i) following the resale of the Shares pursuant to an effective registration statement under the Securities Act covering the resale of such Shares, or (ii) following any resale of such Shares pursuant to Rule 144, or (iii) if such Shares are eligible for resale under Rule 144 without volume limitations, or (iv) if such legend is not required under applicable requirements of the Securities Act (including judicial interpretations and pronouncements issued by the Staff of the SEC). The Company agrees that following the time when a legend is no longer required under this Section 6(a)(3), it will, no later than five (5) trading days following the delivery by a Purchaser to the Company or the Company’s transfer agent of a certificate representing Shares issued with a restrictive legend (such date, the “Legend Removal Date”), deliver or cause to be delivered to such Purchaser or such Purchaser’s transferee, as applicable, a certificate representing such Shares that is free from all restrictive and other legends. The Company may not make any notation on its records or give instructions to any transfer agent of the Company that enlarge the restrictions on transfer set forth in this Section. Notwithstanding anything to the contrary contained herein, the Company shall not be required to effect a removal of a restrictive legend to the extent such legend is required under applicable requirements of the Securities Act, including any rule of the SEC promulgated thereunder, and judicial interpretations thereof.
+ 
+14
+
+
+ 
+
+
+(4) Each of the Purchasers agrees that the removal of the restrictive legend from certificates representing Shares as set forth in this Section 6(a)(3)(i) or (ii) is predicated upon the Company’s reliance that such Purchaser will sell any Shares pursuant to either the registration requirements of the Securities Act, including any applicable prospectus delivery requirements, or an exemption therefrom.
+(b) Furnishing of Information. As long as any Purchaser owns any Shares, the Company covenants to timely file all reports required to be filed by the Company after the date hereof pursuant to the Exchange Act. If the Company is not required to file reports pursuant to the Exchange Act, it will prepare and furnish to such Purchaser and make publicly available in accordance with Rule 144(c) such information as is required for such Purchaser to sell the Shares under Rule 144. The Company further covenants that it will take such further action as the Purchasers may reasonably request, all to the extent required from time to time to enable the Purchasers to sell such Shares without registration under the Securities Act within the limitation of the exemptions provided by Rule 144.
+(c) Integration. The Company shall not sell, offer for sale or solicit offers to buy or otherwise negotiate in respect of any security (as defined in Section 2 of the Securities Act) that would be integrated with the offer or sale of the Shares in a manner that would require the registration under the Securities Act of the sale of the Shares to the Purchasers. The Company shall conduct its business in a manner so that it will not become subject to registration under the Investment Company Act.
+(d) Disclosure; Publicity. No Purchaser shall issue any press release or otherwise make any such public statement with respect to the transactions contemplated hereby without the prior consent of the Company, except if such disclosure is required by law, in which case such Purchaser shall promptly provide the Company with prior written notice of such public statement or communication. The Company shall not publicly disclose the name of any Purchaser, or include the name of such Purchaser in any filing with the SEC or any regulatory agency or Trading Market, without the prior written consent of such Purchaser, except (i) as required by federal securities law in connection with the registration statement contemplated by the Registration Rights Agreement and (ii) to the extent such disclosure is required by law or Trading Market regulations, in which case the Company shall provide such Purchaser with prior notice of such disclosure permitted under sub clause (i) or (ii).
+(e) Indemnification of Purchasers. Subject to the provisions of this Section 6(e), the Company will indemnify and hold each Purchaser and its respective directors, officers, shareholders, partners, members, employees and agents (each, a “Purchaser Party”) harmless from any and all losses, liabilities, obligations, claims, contingencies, damages, costs and expenses, including all judgments, amounts paid in settlements, court costs and reasonable attorneys’ fees and costs of investigation that any such Purchaser Party may suffer or incur as a result of or relating to (i) any breach of any of the representations, warranties, covenants or agreements made by the Company in this Agreement or (ii) any action instituted against any Purchasers, Purchaser Party or their respective Affiliates, by any stockholder of the Company or other person who is not an Affiliate of any such Purchaser, with respect to any of the transactions contemplated by this Agreement (unless such action is based upon a breach of such Purchaser’s representation, warranties or covenants under this Agreement or any agreements or
+ 
+15
+
+
+ 
+
+
+understandings such Purchaser may have with any such stockholder or any violations by such Purchaser of state or federal securities laws). If any action shall be brought against any Purchaser Party in respect of which indemnity may be sought pursuant to this Agreement, such Purchaser Party shall promptly notify the Company in writing, and the Company shall have the right to assume the defense thereof with counsel of its own choosing. Any Purchaser Party shall have the right to employ separate counsel in any such action and participate in the defense thereof, but the fees and expenses of such counsel shall be at the expense of such Purchaser Party except to the extent that (A) the employment thereof has been specifically authorized by the Company in writing; (B) the Company has failed after a reasonable period of time to assume such defense and to employ counsel reasonably acceptable to such Purchaser Party or (C) in such action there is, in the reasonable opinion of such separate counsel, a material conflict on any material issue between the position of the Company and the position of such Purchaser Party. The Company will not be liable to any Purchaser Party under this Agreement (I) for any settlement by a Purchaser Party effected without the Company’s prior written consent, which shall not be unreasonably withheld, conditioned or delayed; or (II) to the extent, but only to the extent that a loss, claim, damage or liability is attributable to any Purchaser Party’s breach of any of the representations, warranties, covenants or agreements made by such Purchaser in this Agreement.
+(f) Indemnification of Company. Subject to the provisions of this Section 6(f), each Purchaser, will indemnify and hold the Company and its directors, officers, shareholders, partners, members, employees and agents (each, a “Company Party”) harmless from any and all losses, liabilities, obligations, claims, contingencies, damages, costs and expenses, including all judgments, amounts paid in settlements, court costs and reasonable attorneys’ fees and costs of investigation that any such Company Party may suffer or incur as a result of or relating to (i) any breach of any of the representations, warranties, covenants or agreements made by such Purchaser in this Agreement or (ii) any action instituted against the Company, or any Company Party or their respective Affiliates, by any stockholder of the Company or other person, with respect to any of the transactions contemplated by this Agreement if such action is based upon a breach of the representation, warranties or covenants of such Purchaser under this Agreement or any violation by such Purchaser of state or federal securities laws. If any action shall be brought against any Company Party in respect of which indemnity may be sought pursuant to this Agreement, such Company Party shall promptly notify the applicable Purchaser in writing, and such Purchaser shall have the right to assume the defense thereof with counsel of its own choosing. Any Company Party shall have the right to employ separate counsel in any such action and participate in the defense thereof, but the fees and expenses of such counsel shall be at the expense of such Company Party except to the extent that (A) the employment thereof has been specifically authorized by such Purchaser in writing; (B) such Purchaser has failed after a reasonable period of time to assume such defense and to employ counsel reasonably acceptable to such Company Party or (C) in such action there is, in the reasonable opinion of such separate counsel, a material conflict on any material issue between the position of such Purchaser and the position of such Company Party. No Purchaser will be liable to any Company Party under this Agreement (I) for any settlement by a Company Party effected without such Purchaser’s prior written consent, which shall not be unreasonably withheld, conditioned or delayed; or (II) to the extent, but only to the extent that a loss, claim, damage or liability is attributable to any Company Party’s breach of any of the representations, warranties, covenants or agreements made by the Company in this Agreement.
+ 
+16
+
+
+ 
+
+
+(g) Amendment to Charter. The Company shall use commercially reasonable efforts to cause its Certificate of Incorporation, as amended, to be further amended within ninety (90) days following the Closing, to (a) reduce the number of authorized shares of Preferred Stock to zero, (b) reduce the number of authorized shares of Common Stock to an amount equal to 110% of the sum of (i) the number of shares of Common Stock issued and outstanding immediately following the consummation of the Offering and (ii) the number of shares of Common Stock reserved for issuance under the Company’s 2006 Stock Option Plan and for issuance upon exercise of all other stock options or warrants outstanding immediately following the consummation of the Offering (the “Charter Amendment”). In connection with such Charter Amendment, Nordic Biotech Opportunity Fund K/S (“Nordic”) shall execute a written stockholder consent (“Nordic Consent”) to such Charter Amendment, in form and substance reasonably satisfactory to the Company, within fifteen (15) days following the Closing. Provided that the Company has received the Nordic Consent, the Company shall use commercially reasonable efforts to file or cause to be filed an Information Statement with respect to the Charter Amendment and the Nordic Consent on Schedule 14C with the SEC no later than the later of (i) thirty (30) days following the Closing or (ii) fifteen (15) days following the Company’s receipt of the Nordic Consent. Until the Charter Amendment becomes effective, the Company shall not take any action and the Board of Directors shall not approve any action that would violate or be inconsistent with the Charter Amendment.
+(h) Board of Directors. The Company and Nordic agree that for so long as the Nordic and its Affiliates are the beneficial owners (as determined pursuant to Rule 13d-3 under the Exchange Act) of at least twenty percent (20%) of the outstanding shares of Common Stock the Board of Directors of the Company shall consist of no more than seven (7) persons and Nordic shall have the right to cause the appointment up to three (3) members of the Board of Directors of the Company designated by Nordic in writing to the Company (each a “Nordic Designee”). As promptly as practicable following receipt of written notice from Nordic designating one or more Nordic Designees, and in any event within three (3) business days after receipt of any such notice, the Company shall take all action necessary (including, without limitation, the calling of a special meeting of the Board of Directors) to (i) increase, as needed, the size of the Board of Directors to up to seven (7) persons, and (ii) approve the appointment of such Nordic Designee(s) to the Board of Directors.
+7. Definitions. In addition to the terms defined elsewhere in this Agreement, the following terms have the meanings indicated in this Section 7:
+(a) “Affiliate” means any Person that, directly or indirectly through one or more intermediaries, controls or is controlled by or is under common control with a Person, as such terms are used in and construed under Rule 144 under the Securities Act. With respect to each Purchaser, any investment fund or managed account that is managed on a discretionary basis by the same investment manager as such Purchaser will be deemed to be an Affiliate of such Purchaser.
+(b) “Business Day” means any day except Saturday, Sunday and any day which shall be a Federal holiday or a day on which banking institutions in the State of New York are authorized or required by law or other governmental action to close.
+ 
+17
+
+
+ 
+
+
+(c) “Closing Date” means January 7, 2009, or such later Trading Day when this Agreement and the Registration Rights Agreement have been executed and delivered by the applicable parties thereto, and all conditions precedent to (i) the Purchasers’ respective obligations to pay their respective Subscription Amounts have been satisfied or waived and (ii) the Company’s obligations to deliver the Shares have been satisfied or waived.
+(d) “Individual Subscription Amount” means, with respect to a particular Purchaser, the aggregate purchase price of Shares to be purchased by such Purchaser pursuant to this Agreement.
+(e) “Liens” means a lien, charge, security interest, encumbrance, right of first refusal, preemptive right or other restriction.
+(f) “Per-Share Purchase Price” means the Ten Day VWAP as of the Closing Date.
+(g) “Person” means an individual or corporation, partnership, trust, incorporated or unincorporated association, joint venture, limited liability company, joint stock company, government (or an agency or subdivision thereof) or other entity of any kind.
+(h) “Proceeding” means an action, claim, suit, investigation or proceeding (including, without limitation, an investigation or partial proceeding, such as a deposition).
+(i) “Registration Rights Agreement” shall mean that certain Registration Rights Agreement dated as of December 29, 2009, by and among the Company and certain of the Purchasers who are parties thereto.
+(j) “SEC” means the Securities and Exchange Commission.
+(k) “Subscription Amount” shall mean, with respect to each Purchaser, the amount set forth next to such Purchaser’s name on Exhibit A hereto.
+(l) “Ten Day VWAP” means, as of a particular date, the volume weighted average closing price of the Company’s Common Stock on the Trading Market for the ten trading days immediately prior to, but excluding, such date.
+(m) “Trading Market” means the following markets or exchanges on which the Common Stock is listed or quoted for trading on the date in question: the American Stock Exchange, the New York Stock Exchange, the NASDAQ Global Market, the NASDAQ Global Select Market, the NASDAQ Capital Market or the OTC Bulletin Board.
+8. Successors and Assigns. Each of the Purchasers hereby acknowledges and agrees that this Agreement shall be binding upon and inure to the benefit of the parties and their heirs, executors, administrators, successors, legal representatives and permitted assigns.
+9. Modification. This Agreement shall not be modified or waived except by an instrument in writing signed by the party against whom any such modification or waiver is sought.
+ 
+18
+
+
+ 
+
+
+10. Notices. Any notice or other communication required or permitted to be given hereunder shall be in writing and shall be mailed by certified mail, return receipt requested, sent by nationwide overnight courier or delivered against receipt to the party to whom it is to be given (a) if to Company, at the address set forth above, or (b) if to any of the Purchasers, at the respective addresses set forth on the signature page hereof (or, in either case, to such other address as the party shall have furnished in writing in accordance with the provisions of this Section). Any notice or other communication given by certified mail shall be deemed given at the time that it is signed for by the recipient except for a notice changing a party’s address which shall be deemed given at the time of receipt thereof. Any notice or other communication given by nationwide overnight courier shall be deemed given the next business day following being deposited with such courier.
+11. Assignability. Except as otherwise provided in this Agreement, this Agreement and the rights, interests and obligations hereunder are not transferable or assignable by any Purchaser. This Agreement and the rights, interests and obligations hereunder are not transferable or assignable by the Company.
+12. Applicable Law. All questions concerning the construction, validity, enforcement and interpretation of this Agreement shall be governed by and construed and enforced in accordance with the internal laws of the State of New York, without regard to the principles of conflicts of law thereof, except to the extent that the application of the General Corporation Law of the State of Delaware is mandatorily applicable. Each party hereby irrevocably submits to the exclusive jurisdiction of the state and federal courts sitting in the City of New York, borough of Manhattan for the adjudication of any dispute hereunder or in connection herewith or with any transaction contemplated hereby or discussed herein (including with respect to the enforcement of this Agreement), and hereby irrevocably waives, and agrees not to assert in any suit, action or Proceeding, any claim that it is not personally subject to the jurisdiction of any such court, that such suit, action or Proceeding is improper or inconvenient venue for such Proceeding. Each party hereby irrevocably waives personal service of process and consents to process being served in any such suit, action or Proceeding by mailing a copy thereof via registered or certified mail or overnight delivery (with evidence of delivery) to such party at the address in effect for notices to it under this Agreement and agrees that such service shall constitute good and sufficient service of process and notice thereof. Nothing contained herein shall be deemed to limit in any way any right to serve process in any manner permitted by law. The parties hereby waive to the fullest extent permitted by applicable law, all rights to a trial by jury in any legal proceeding arising out of or relating to this Agreement or the transactions contemplated hereby. If either party shall commence an action or Proceeding to enforce any provisions of this Agreement, then the prevailing party in such action or Proceeding shall be reimbursed by the other party for its attorneys’ fees and other costs and expenses incurred with the investigation, preparation and prosecution of such action or Proceeding.
+13. Use of Pronouns. All pronouns and any variations thereof used herein shall be deemed to refer to the masculine, feminine, neuter, singular or plural as the identity of the person or persons referred to may require.
+ 
+19
+
+
+ 
+
+
+14. Miscellaneous.
+(a) This Agreement shall terminate if the Closing has not been consummated on or before January 22, 2010.
+(b) This Agreement and its exhibits and schedules constitutes the entire agreement between the Purchasers and the Company with respect to the subject matter hereof and supersedes all prior oral or written agreements and understandings, if any, relating to the subject matter hereof. The terms and provisions of this Agreement may be waived, or consent for the departure therefrom granted, only by a written document executed by the party entitled to the benefits of such terms or provisions.
+(c) The respective covenants, agreements, representations and warranties made in this Agreement by each of the Purchasers and the Company shall survive the execution and delivery hereof and delivery of the Shares.
+(d) At the Closing and any time after the Closing promptly after Nordic’s request therefore, the Company shall reimburse Nordic up to $25,000 for its actual, out-of-pocket legal fees and expenses related to the transactions contemplated by this Agreement. Except as expressly set forth in this Agreement to the contrary, each of the parties hereto shall pay its own fees and expenses (including the fees of any attorneys, accountants, appraisers or others engaged by such party) in connection with this Agreement and the transactions contemplated hereby whether or not the transactions contemplated hereby are consummated. The Company shall pay all transfer agent fees, stamp taxes and other taxes and duties levied in connection with the delivery of the Shares.
+(e) This Agreement may be executed in one or more counterparts, each of which shall be deemed an original, but all of which shall together constitute one and the same instrument.
+(f) Each provision of this Agreement shall be considered separable and, if for any reason any provision or provisions hereof are determined to be invalid or contrary to applicable law, such invalidity or illegality shall not impair the operation of or affect the remaining portions of this Agreement.
+(g) Section titles are for descriptive purposes only and shall not control or alter the meaning of this Agreement as set forth in the text.
+ 
+20
+
+
+ 
+
+
+(h) The Company acknowledges that the obligations of each Purchaser under this Agreement are several and not joint with the obligations of any other Purchaser, and no Purchaser shall be responsible in any way for the performance of the obligations of any other Purchaser under this Agreement. The decision of each Purchaser to enter into this Agreement has been made by such Purchaser independently of any other Purchaser. The Company further acknowledges that nothing contained in this Agreement, and no action taken by any Purchaser pursuant hereto, shall be deemed to constitute the Purchasers as a partnership, an association, a joint venture of any other kind of entity, or create a presumption that the Purchasers are in any way acting in concert or as a group with respect to such obligations or the transactions contemplated hereby. Each Purchaser shall be entitled to independently protect and enforce its rights, including without limitation, the rights arising out of this Agreement, and it shall not be necessary for any other Purchaser to be joined as an additional party in any proceeding for such purpose. Each Purchaser has been represented by its own separate legal counsel in their review and negotiation of this Agreement and with respect to the transactions contemplated hereby. The Company has elected to provide all Purchasers with the same terms and Agreement for the convenience of the Company and not because it was required or requested to do so by the Purchasers. The Company acknowledges that such procedure with respect to this Agreement in no way creates a presumption that the Purchasers are in any way acting in concert or as a group with respect to this Agreement or the transactions contemplated hereby or thereby.
+[Remainder of page left intentionally blank.]
+ 
+21
+
+
+ 
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Securities Purchase Agreement to be duly executed by their respective authorized signatories as of the date first indicated above.
+ 
+ 
+ 
+ 
+ 
+OSTEOLOGIX, INC. 
+ 
+ 
+By:  
+/s/ Phillip J. Young  
+ 
+ 
+ 
+Name:  
+Phillip J. Young 
+ 
+ 
+ 
+Title:  
+CEO 
+ 
+ 
+ 
+[Signature page to Securities Purchase Agreement]
+ 
+ 
+
+
+ 
+
+
+
+ 
+ 
+ 
+PURCHASERS:
+ 
+ADDRESS FOR NOTICE:
+ 
+ 
+ 
+NORDIC BIOTECH OPPORTUNITY
+FUND K/S
+ 
+c/o Nordic Biotech Advisors
+Ostergade 5, 3rd Floor
+DK-1100 Copenhagen K
+Denmark
+
+ 
+ 
+ 
+ 
+ 
+By:  
+/s/ Christian Hansen  
+ 
+ 
+ 
+Name:  
+C. Hansen 
+ 
+ 
+ 
+Title:  
+Partner 
+ 
+ 
+ 
+ 
+ 
+By:  
+/s/ Christian Hansen  
+ 
+ 
+ 
+Name:  
+for F. Schönharting by POA 
+ 
+ 
+ 
+Title:  
+Partner 
+ 
+ 
+ 
+[Signature page to Securities Purchase Agreement]
+ 
+ 
+
+
+ 
+
+
+EXHIBIT A
+PURCHASERS
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Individual
+ 
+Name
+ 
+Subscription Amount
+ 
+Nordic Biotech Opportunity Fund K/S
+ 
+$
+1,000,000.00
+ 
+ 
+ 
+
+
+ 
+
+
+EXHIBIT B
+FORM OF OPINION OF COMPANY COUNSEL
+
+(a)
+ 
+The Company is a corporation duly incorporated, validly existing and in good standing under the laws of the State of Delaware, and has the corporate power and authority to conduct its business as presently conducted. The Company is duly qualified to do business as a foreign corporation in the State of California.
+ 
+(b)
+ 
+The Company has the corporate power and authority to execute and deliver, and to perform and observe the provisions of, the Documents, and to issue, sell and deliver the Shares.
+ 
+(c)
+ 
+The Documents have each been duly authorized, executed and delivered by the Company. The Documents constitute valid and binding obligations of the Company enforceable against the Company in accordance with their respective terms.
+ 
+(d)
+ 
+The Shares have been duly authorized. Upon payment and delivery in accordance with the Purchase Agreement, the Shares will be validly issued, fully paid and nonassessable.
+ 
+(e)
+ 
+Except as disclosed by the Company in the Purchase Agreement, no person is entitled to any pre-emptive right or right of first refusal with respect to the issuance of the Shares pursuant to (i) the terms of the Company’s Certificate of Incorporation or By-laws, as in effect on the date of this opinion, (ii) the provisions of the Delaware General Corporation Law (the “DGCL”) or any New York law known to us or (iii) any agreement, contract or other arrangement identified as a material agreement of the Company filed as an exhibit (or incorporated by reference therein) in the Company’s Annual Report on Form 10-K for the year ended December 31, 2008 (each a “Material Agreement”) filed by the Company with the Securities and Exchange Commission (the “SEC”).
+ 
+(f)
+ 
+The execution, delivery and performance of the Documents by the Company will not violate or result in a material breach of any of the terms of or constitute a material default under or (except as contemplated in the Documents) result in the creation of any lien, charge or encumbrance on any property or assets of the Company, pursuant to the terms of any Material Agreement. As to agreements which by their terms are or may be governed by the laws of a jurisdiction other than New York, we assume that such agreements are governed by the laws of New York for purposes of the opinion expressed in this paragraph. In addition, we exclude from the scope of such opinion any potential violation of financial covenants contained in such agreements.
+ 
+(g)
+ 
+The execution, delivery and performance of the Documents by the Company (i) are not in violation of its certificate of incorporation or by-laws, (ii) does not violate any federal or New York law applicable to the Company, or the DGCL, and (iii) does not violate any judgment, injunction, order or decree disclosed in the Company’s Annual Report on Form 10-K for the year ended December 31, 2008 filed by the Company with the SEC.
+
+ 
+ 
+
+
+ 
+
+
+
+
+(h)
+ 
+No authorization, approval or consent of any court or governmental authority or agency is required in connection with the transactions contemplated by the Purchase Agreement, except such as may be required under federal and state securities or blue sky laws in connection with the offer and sale of the Shares to the Purchasers.
+ 
+(i)
+ 
+Assuming that the representations and warranties of the Purchasers and the Company set forth in the Documents (including the questionnaires attached to the Purchase Agreement and completed by each of the Purchasers) are true and correct and subject to the timely filing by the Company of a Form D pursuant to Regulation D promulgated by the SEC under the Securities Act of 1933, as amended (the “Act”), the offer, sale and delivery to the Purchasers of the Shares, in the manner contemplated by the Documents, are exempt from the registration requirements of the Act, it being understood that no opinion is expressed as to the subsequent resale of the Shares.
+ 
+(j)
+ 
+The Company is not an “investment company” within the meaning of the Investment Company Act of 1940, as amended.
+ 
+ 
+
+
+ 
+
+
+Appendix I
+Investor Certification
+NAME OF INVESTOR:                                         
+Initial or Check the appropriate item(s)
+US INVESTORS — The undersigned further represents and warrants as indicated below by the undersigned’s initials:
+
+A.
+ 
+Individual investors: (Please initial one or more of the following statements)
+ 
+1.  _____   
+ 
+I certify that I am an accredited investor because I have had individual income (exclusive of any income earned by my spouse) of more than $200,000 in each of the most recent two years and I reasonably expect to have an individual income in excess of $200,000 for the current year.
+ 
+2.  _____   
+ 
+I certify that I am an accredited investor because I have had joint income with my spouse in excess of $300,000 in each of the most recent two years and reasonably expect to have joint income with my spouse in excess of $300,000 for the current year.
+ 
+3.  _____   
+ 
+I certify that I am an accredited investor because I have an individual net worth, or my spouse and I have a joint net worth, in excess of $1,000,000.
+ 
+4.  _____   
+ 
+I am a director or executive officer of Osteologix, Inc.
+ 
+B.  _____   
+ 
+Partnerships, corporations, trusts or other entities: (Please initial one of the following seven statements). The undersigned hereby certifies that it is an accredited investor because it is:
+ 
+1.  _____   
+ 
+an employee benefit plan whose total assets exceed $5,000,000;
+ 
+2.  _____   
+ 
+an employee benefit plan whose investments decisions are made by a plan fiduciary which is either a bank, savings and loan association or an insurance company (as defined in Section 3(a) of the Securities Act) or an investment adviser registered as such under the Investment Advisers Act of 1940;
+ 
+3.  _____   
+ 
+a self-directed employee benefit plan, including an Individual Retirement Account, with investment decisions made solely by persons that are accredited investors;
+ 
+4.  _____   
+ 
+an organization described in Section 501(c)(3) of the Internal Revenue Code of 1986, as amended, not formed for the specific purpose of acquiring the Shares, with total assets in excess of $5,000,000;
+ 
+ 
+
+
+ 
+
+
+
+5.  _____   
+ 
+a corporation, partnership, limited liability company, limited liability partnership, other entity or similar business trust, not formed for the specific purpose of acquiring the Shares, with total assets excess of $5,000,000;
+ 
+6.  _____   
+ 
+a trust, not formed for the specific purpose of acquiring the Shares, with total assets exceed $5,000,000, whose purchase is directed by a person who has such knowledge and experience in financial and business matters that he is capable of evaluating the merits and risks of an investment in the Shares; or
+ 
+7.  _____   
+ 
+an entity (including a revocable grantor trust but other than a conventional trust) in which each of the equity owners qualifies as an accredited investor.
+NON-US INVESTORS — The undersigned further represents and warrants as indicated below by the undersigned’s initials:
+
+A.
+ 
+Please initial the following statement:
+ 
+1.  _____   
+ 
+I certify that I am not a “U.S. person” (as defined in Regulation S) or purchasing for the account or benefit of a “U.S. person” and am purchasing Shares in an “offshore transaction” in accordance with Regulation S and am a “qualified investor” as defined in the European Union Prospectus Directive.
+ 
+ 
+
+
+ 
+
+
+
+Appendix II
+(Page 1 of 3)
+OSTEOLOGIX, INC.
+STOCK CERTIFICATE QUESTIONNAIRE
+NAME OF INVESTOR:                                         
+Pursuant to Section 2 of the Agreement, please provide us with the following information:
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.
+ 
+ 
+The exact name that your Shares are to be registered in (this is the name that will appear on your stock certificate(s)). You may use a nominee name if appropriate:
+ 
+                                                  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.
+ 
+ 
+The relationship between the Purchaser of the Shares and the Registered Holder listed in response to item 1 above:
+ 
+                                                  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.
+ 
+ 
+The mailing address of the Registered Holder listed in response to item 1 above:
+ 
+                                                  
+ 
+ 
+ 
+ 
+ 
+ 
+                                                  
+ 
+ 
+ 
+ 
+ 
+ 
+                                                  
+ 
+ 
+ 
+ 
+ 
+ 
+                                                  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.
+ 
+ 
+The Social Security Number or Tax Identification Number of the Registered Holder listed in response to item 1 above:
+ 
+                                                  
+ 
+ 
+
+
+ 
+
+
+Appendix II
+(Page 2 of 3)
+OSTEOLOGIX, INC.
+REGISTRATION STATEMENT QUESTIONNAIRE
+In connection with the preparation of the Registration Statement, please provide us with the following information:
+SECTION 1. PURSUANT TO THE “SELLING STOCKHOLDER” SECTION OF THE REGISTRATION STATEMENT, PLEASE STATE YOUR OR YOUR ORGANIZATION’S NAME EXACTLY AS IT SHOULD APPEAR IN THE REGISTRATION STATEMENT:
+
+ 
+
+ 
+SECTION 2. PLEASE PROVIDE THE NUMBER OF SHARES THAT YOU OR YOUR ORGANIZATION WILL OWN IMMEDIATELY AFTER CLOSING, INCLUDING THOSE SHARES PURCHASED BY YOU OR YOUR ORGANIZATION PURSUANT TO THIS PURCHASE AGREEMENT AND THOSE SHARES PURCHASED BY YOU OR YOUR ORGANIZATION THROUGH OTHER TRANSACTIONS AND PROVIDE THE NUMBER OF SHARES THAT YOU HAVE OR YOUR ORGANIZATION HAS THE RIGHT TO ACQUIRE WITHIN 60 DAYS OF CLOSING:
+
+ 
+
+ 
+SECTION 3. HAVE YOU OR YOUR ORGANIZATION HAD ANY POSITION, OFFICE OR OTHER MATERIAL RELATIONSHIP WITHIN THE PAST THREE YEARS WITH THE COMPANY OR ITS AFFILIATES?
+o Yes o No
+If yes, please indicate the nature of any such relationships below:
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+
+ 
+
+
+SECTION 4. ARE YOU (I) A FINRA MEMBER (SEE DEFINITION), (II) A CONTROLLING (SEE DEFINITION) SHAREHOLDER OF A FINRA MEMBER, (III) A PERSON ASSOCIATED WITH A MEMBER OF THE FINRA (SEE DEFINITION), OR (IV) AN UNDERWRITER OR A RELATED PERSON (SEE DEFINITION) WITH RESPECT TO THE PROPOSED OFFERING; OR (B) DO YOU OWN ANY SHARES OR OTHER SECURITIES OF ANY FINRA MEMBER NOT PURCHASED IN THE OPEN MARKET; OR (C) HAVE YOU MADE ANY OUTSTANDING SUBORDINATED LOANS TO ANY FINRA MEMBER?
+Answer: o Yes o No If “yes,” please describe below
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+
+ 
+
+
+Appendix II
+(Page 3 of 3)
+FINRA Member. The term “FINRA member” means either any broker or dealer admitted to membership in the Financial Industry Regulatory Authority (“FINRA”). (NASD Manual, By-laws of NASD Regulation, Inc. Article I, Definitions)
+Control. The term “control” (including the terms “controlling,” “controlled by” and “under common control with”) means the possession, direct or indirect, of the power, either individually or with others, to direct or cause the direction of the management and policies of a person, whether through the ownership of voting securities, by contract, or otherwise. (Rule 405 under the Securities Act of 1933, as amended)
+Person Associated with a member of the FINRA. The term “person associated with a member of the FINRA” means every sole proprietor, partner, officer, director, branch manager or executive representative of any FINRA Member, or any natural person occupying a similar status or performing similar functions, or any natural person engaged in the investment banking or securities business who is directly or indirectly controlling or controlled by a FINRA Member, whether or not such person is registered or exempt from registration with the FINRA pursuant to its bylaws. (NASD Manual, By-laws of NASD Regulation, Inc. Article I, Definitions)
+Underwriter or a Related Person. The term “underwriter or a related person” means, with respect to a proposed offering, underwriters, underwriters’ counsel, financial consultants and advisors, finders, members of the selling or distribution group, and any and all other persons associated with or related to any of such persons. (FINRA Interpretation)
+1883458.4
+ 
+ 

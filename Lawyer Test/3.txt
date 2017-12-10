@@ -1,0 +1,60 @@
+﻿Non-disclosure agreement
+ DATE [Date] PARTIES 1.[[INDIVIDUAL NAME] of [address]] OR [[COMPANY NAME], a company incorporated in [England and Wales] (registration number [registration number]) having its registered office at [address]] OR [[PARTNERSHIP NAME], a partnership established under the laws of [England and Wales] having its principal place of business at [address]] (the "Disclosor"); and
+
+2.[[INDIVIDUAL NAME] of [address]] OR [[COMPANY NAME], a company incorporated in [England and Wales] (registration number [registration number]) having its registered office at [address]] OR [[PARTNERSHIP NAME], a partnership established under the laws of [England and Wales] having its principal place of business at [address]] (the "Recipient").
+ AGREEMENT 1. Definitions 1.1 Except to the extent expressly provided otherwise, in this Agreement: "Agreement" means this agreement, and any amendments to this agreement from time to time; "Business Day" means any weekday other than a bank or public holiday in [England]; "Disclosor Confidential Information" means: (a)any information disclosed by [or on behalf of ]the Disclosor to the Recipient [during the Term] OR [at any time before the termination of this Agreement] (whether disclosed in writing, orally or otherwise) that at the time of disclosure was marked[ or described] as "confidential" or should have been understood by the Recipient (acting reasonably) to be confidential; and(b)[the terms of this Agreement]; [additional list items] "Effective Date" means [the date of execution of this Agreement]; "Permitted Purpose" means [specify purpose or purposes]; and "Term" means the term of this Agreement, commencing in accordance with Clause 3.1 and ending in accordance with Clause 3.2. 2.Credit 
+2.1This document was created using a template from SEQ Legal (http://www.seqlegal.com).
+
+You must retain the above credit. Use of this document without the credit is an infringement of copyright. However, you can purchase from us an equivalent document that does not include the credit.
+ 3.Term 
+3.1This Agreement shall come into force upon the Effective Date.
+
+3.2This Agreement shall continue in force [indefinitely] OR [until [date], at the beginning of which this Agreement shall terminate automatically] OR [until [event], upon which this Agreement shall terminate automatically], subject to termination in accordance with Clause 7.
+ 4.Consideration 
+4.1The Recipient has entered into this Agreement, and agrees to the provisions of this Agreement, in consideration for [the payment by the Disclosor to the Recipient of the sum of [GBP 1.00], receipt of which the Recipient now acknowledges] OR [[specify consideration]].
+ 5.Recipient's confidentiality obligations 5.1The Recipient must: (a)keep the Disclosor Confidential Information strictly confidential; / (b)not disclose the Disclosor Confidential Information to any person without the Disclosor's prior written consent[, and then only under conditions of confidentiality [approved in writing by the Disclosor] OR [no less onerous than those contained in this Agreement]]; (c)use the same degree of care to protect the confidentiality of the Disclosor Confidential Information as the Recipient uses to protect the Recipient's own confidential information of a similar nature, being at least a reasonable degree of care; (d)[act in good faith at all times in relation to the Disclosor Confidential Information]; and (e)[not use any of the Disclosor Confidential Information for any purpose other than the Permitted Purpose]. 
+5.2Notwithstanding Clause 5.1, the Recipient may disclose the Disclosor Confidential Information to the Recipient's [officers, employees, professional advisers, insurers, agents and subcontractors] [who have a need to access the Disclosor Confidential Information for the performance of their work with respect to the Permitted Purpose and ]who are bound by a written agreement or professional obligation to protect the confidentiality of the Disclosor Confidential Information.
+ 5.3This Clause 5 imposes no obligations upon the Recipient with respect to Disclosor Confidential Information that: (a)is known to the Recipient before disclosure under this Agreement and is not subject to any other obligation of confidentiality; (b)is or becomes publicly known through no act or default of the Recipient; or (c)[is obtained by the Recipient from a third party in circumstances where the Recipient has no reason to believe that there has been a breach of an obligation of confidentiality]. 
+5.4The restrictions in this Clause 5 do not apply to the extent that any Disclosor Confidential Information is required to be disclosed by any law or regulation, by any judicial or governmental order or request, or pursuant to disclosure requirements relating to the listing of the stock of the Recipient on any recognised stock exchange.
+
+5.5Upon the termination of this Agreement, the Recipient must immediately cease to use the Disclosor Confidential Information.
+
+5.6[Following the termination of this Agreement, and within [5 Business Days] following the date of receipt of a written request from the Disclosor] OR [Within [5 Business Days] following the date of termination of this Agreement], the Recipient must destroy or return to the Disclosor (at the Disclosor's option) all media containing Disclosor Confidential Information, and must irrevocably delete the Disclosor Confidential Information from its computer systems.
+
+5.7The provisions of this Clause 5 shall continue in force [indefinitely following the termination of this Agreement] OR [for a period of [5 years] following the termination of this Agreement, at the end of which period they will cease to have effect].
+ 6.Warranties 
+6.1The Disclosor warrants to the Recipient that it has the legal right and authority to enter into this Agreement and to perform its obligations under this Agreement.
+
+6.2The Recipient warrants to the Disclosor that it has the legal right and authority to enter into this Agreement and to perform its obligations under this Agreement.
+
+6.3All of the parties' warranties and representations in respect of the subject matter of this Agreement are expressly set out in this Agreement. To the maximum extent permitted by applicable law, no other warranties or representations concerning the subject matter of this Agreement will be implied into this Agreement or any related contract.
+ 7.Termination 
+7.1Either party may terminate this Agreement [forthwith by giving written notice of termination to the other party] OR [by giving [at least 7 days'] written notice of termination to the other party].
+ 8.Effects of termination 
+8.1Upon the termination of this Agreement, all of the provisions of this Agreement shall cease to have effect, save that the following provisions of this Agreement shall survive and continue to have effect (in accordance with their express terms or otherwise indefinitely): [Clauses 1, 5, 8 and 9].
+
+8.2Except to the extent that this Agreement expressly provides otherwise, the termination of this Agreement shall not affect the accrued rights of either party.
+ 9.General 
+9.1No breach of any provision of this Agreement shall be waived except with the express written consent of the party not in breach.
+
+9.2If any provision of this Agreement is determined by any court or other competent authority to be unlawful and/or unenforceable, the other provisions of this Agreement will continue in effect. If any unlawful and/or unenforceable provision would be lawful or enforceable if part of it were deleted, that part will be deemed to be deleted, and the rest of the provision will continue in effect (unless that would contradict the clear intention of the parties, in which case the entirety of the relevant provision will be deemed to be deleted).
+
+9.3This Agreement may not be varied except by a written document signed by or on behalf of each of the parties.
+
+9.4Neither party may without the prior written consent of the other party assign, transfer, charge, license or otherwise deal in or dispose of any contractual rights or obligations under this Agreement.
+
+9.5This Agreement is made for the benefit of the parties, and is not intended to benefit any third party or be enforceable by any third party. The rights of the parties to terminate, rescind, or agree any amendment, waiver, variation or settlement under or relating to this Agreement are not subject to the consent of any third party.
+
+9.6Nothing in this Agreement shall exclude or limit any liability of a party for fraud or fraudulent misrepresentation, or any other liability of a party that may not be excluded or limited under applicable law.
+
+9.7Subject to Clause 9.6, this Agreement shall constitute the entire agreement between the parties in relation to the subject matter of this Agreement, and shall supersede all previous agreements, arrangements and understandings between the parties in respect of that subject matter.
+
+9.8This Agreement shall be governed by and construed in accordance with [English law].
+
+9.9The courts of [England] shall have exclusive jurisdiction to adjudicate any dispute arising under or in connection with this Agreement.
+ EXECUTION 
+The parties have indicated their acceptance of this Agreement by executing it below.
+
+SIGNED BY [[individual name] on [...............], the Disclosor] OR [[individual name] on [...............], duly authorised for and on behalf of the Disclosor]:........................................
+
+SIGNED BY [[individual name] on [...............], the Recipient] OR [[individual name] on [...............], duly authorised for and on behalf of the Recipient]:........................................

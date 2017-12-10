@@ -1,0 +1,159 @@
+﻿
+SUBSCRIPTION AGREEMENT
+        THIS SUBSCRIPTION AGREEMENT (this "Agreement") is made and entered into as of September 17, 2009, by and between AerCap Holdings N.V., a Netherlands public limited liability company ("AerCap") and Citigroup Global Markets Inc., a New York incorporated company ("Subscriber").
+RECITALS:
+        WHEREAS, Genesis Lease Limited, a Bermuda exempted company ("Genesis"), AerCap and AerCap International Bermuda Limited, a Bermuda exempted company and a wholly-owned subsidiary of AerCap ("AerCap International") are parties to an Agreement and Plan of Amalgamation, dated as of September 17, 2009 (the "Amalgamation Agreement"), pursuant to which (i) Genesis will be amalgamated with AerCap International and the Amalgamated Company shall continue after the Amalgamation and (ii) each Genesis Common Share (other than Dissenting Shares) shall be cancelled and converted into the right to receive one (1) AerCap Common Share;
+        WHEREAS, Genesis and Subscriber are party to that certain letter agreement, dated as of July 3, 2008, as amended on September 7, 2009 (collectively, the "Engagement Letter"), pursuant to which Subscriber has agreed to act as a financial advisor to Genesis in connection with the Amalgamation, and Genesis has agreed, among other things, to pay to Subscriber certain fees in connection therewith; and
+        WHEREAS, AerCap and Subscriber desire to set forth their agreement with respect to certain matters arising in connection with the transactions contemplated by the Amalgamation Agreement, including the agreement by Subscriber to purchase AerCap Common Shares, as and to the extent described below.
+        NOW, THEREFORE, in consideration of the foregoing recitals and the mutual covenants and conditions contained herein, the parties agree as follows:
+AGREEMENT:
+        1.    Defined Terms.    All capitalized terms used but not defined herein shall have the meanings ascribed to them in the Amalgamation Agreement, except that for purposes of this Agreement, (i) "Closing AerCap Share Price" shall mean the closing per share sales price of AerCap Common Shares on the business day immediately preceding the Closing Date (as reported on the NYSE Transaction Reporting System), and (ii) "Subject Shares" shall mean the AerCap Common Shares to be purchased by Subscriber pursuant to this Agreement.
+        2.    Subscription for Shares.    (a) Subject to the terms and conditions set forth or referenced below, Subscriber hereby agrees to purchase, and AerCap hereby agrees to issue and sell to Subscriber, at a price per share equal to the Closing AerCap Share Price, that number of registered, freely tradable AerCap Common Shares as is equal to the lesser of (i) 50% of the total number of Dissenting Shares and (ii) a number of AerCap Common Shares having an aggregate purchase price equal to the quotient obtained by dividing (x) the transaction fee payable to Subscriber under clauses (a) and (b) of the section titled "Fees and Expenses" of the Engagement Letter (such fee, the "Transaction Fee") by (y) the Closing AerCap Share Price. To the extent the formula in this Section 2(a) requires the issuance of a fraction of an AerCap Common Share, the amount of Subject Shares issued pursuant thereto shall be rounded up to the next whole number.
+        (b)   AerCap will promptly prepare and file with the SEC a Registration Statement on Form F-3 or Form F-4 (or such other applicable form as may be necessary to permit the unrestricted sale by
+
+Subscriber of the Subject Shares, together with all amendments and supplements thereto, the "Share Registration Statement") in order to effect the registration under the Securities Act of the offer and resale by Subscriber of the Subject Shares. AerCap shall use its reasonable best efforts to cause such Share Registration Statement to become effective and remain effective until the earlier of (i) such time as Subscriber no longer holds any Subject Shares and (ii) the date that is six months following the Subscription Closing (as defined in paragraph (a) of Section 3 below). In the event the Subject Shares are included in the Form F-4 to be filed by AerCap in connection with the Amalgamation, AerCap represents to Subscriber that upon the effectiveness of the Form F-4, the offer and sale to Subscriber of the Subject Shares and the resale thereof by Subscriber will be duly and properly registered under the Securities Act. In the event that the Subject Shares are included instead in a resale Form F-3 filed by Austin, AerCap represents to Subscriber that upon effectiveness of such Form F-3, the offer and resale of the Subject Shares by Subscriber will be duly and properly registered under the Securities Act and that no registration under the Securities Act is necessary in connection with the initial issue and sale by AerCap to Subscriber of the Subject Shares.
+        3.    Subscription Closing.    (a) The issuance and sale by AerCap of the Subject Shares pursuant to this Agreement (the "Subscription Closing") shall take place on the Closing Date, subject to the prior satisfaction or waiver by Subscriber, and to the other provisions set forth in this Agreement and to the satisfaction or waiver (as permitted by the Amalgamation Agreement) of the conditions precedent set forth in Article VII (Conditions Precedent), including, without limitation, Section 7.1(b) (NYSE Listing) and 7.1(d) (Form F-4) of the Amalgamation Agreement, to the same extent as if such conditions precedent were set forth in this Agreement with respect to the Subject Shares. At the Subscription Closing, AerCap will issue and sell to Subscriber the Subject Shares as agreed hereunder by way of execution of a private deed of issue and AerCap shall register the Subject Shares in the name of the Subscriber in its shareholders' register and, at the request of the Subscriber, issue share certificates (aandeelbewijzen) for the Subject Shares, against payment in cash of the purchase price set forth herein in United States dollars.
+        (b)   If for any reason the Subject Shares to be delivered to Subscriber at the Subscription Closing are not covered by an effective Share Registration Statement in accordance with the provisions of this Agreement or are not approved for listing and quotation on the NYSE (subject to official notice of issuance), in each case as of the Closing Date, then Subscriber shall have no right or obligation under this Agreement to purchase the Subject Shares.
+        4.    Engagement Letter.    (a) Austin, on behalf of the Amalgamated Company (as successor in interest following consummation of the Amalgamation to Genesis's obligations under the Engagement Letter), and Subscriber agree that (i) Genesis (or, if the Closing occurs, the Amalgamated Company) shall remain obligated to pay the Transaction Fee in accordance with the terms of the Engagement Letter and (ii) nothing in this Agreement shall limit, affect or supersede Genesis's (or, if the Closing occurs, the Amalgamated Company's) obligations set forth in the Engagement Letter, including, without limitation, those relating to payment of the Transaction Fee, expense reimbursement, confidentiality, indemnification and contribution.
+        (b)   Subscriber's obligation to purchase the Subject Shares pursuant to this Agreement shall be subject to, and conditioned upon, Genesis's payment in full of the Transaction Fee in accordance with the terms of the Engagement Letter.
+        5.    Representations and Warranties.    (a) In order to induce AerCap to accept the subscription made hereby, Subscriber hereby represents and warrants to AerCap that it has all requisite power and authority to execute and deliver this Agreement and consummate the transactions contemplated hereby, and the execution, delivery and performance by Subscriber of this Agreement have been duly authorized by all requisite action by Subscriber and, assuming the due authorization execution and delivery of this Agreement by Austin, this Agreement constitutes a valid and binding obligation of
+2
+
+
+Subscriber enforceable against Subscriber in accordance with its terms, subject to applicable bankruptcy, insolvency, reorganization, fraudulent conveyance, moratorium or other similar laws and subject to general principles of equity.
+        (b)   In order to induce Subscriber to acquire the Subject Shares hereunder, AerCap hereby represents and warrants to Subscriber as follows:
+          (i)  AerCap is a public limited liability company validly existing under the laws of The Netherlands;         (ii)  AerCap has all requisite power and authority to execute and deliver this Agreement and consummate the transactions contemplated hereby, and the execution, delivery and performance by AerCap of this Agreement, including, but not limited to, the offering and issuance of the Subject Shares pursuant to this Agreement, have been duly authorized by all requisite action of AerCap and this Agreement constitutes a valid and binding obligation of AerCap enforceable against AerCap in accordance with its terms, subject to applicable bankruptcy, insolvency, reorganization, fraudulent conveyance, moratorium or other similar laws and subject to general principles of equity;        (iii)  Upon issuance and delivery of the Subject Shares hereunder, such shares will be duly and validly issued and fully paid. The issuance of the Subject Shares to Subscriber at the Subscription Closing will transfer good and valid title to the Subject Shares to Subscriber;        (iv)  The information to be supplied by or on behalf of AerCap for inclusion or incorporation by reference in the Share Registration Statement, at the time the Share Registration Statement is filed with the SEC and at the time it becomes effective under the Securities Act, will not contain any untrue statement of a material fact or omit to state any material fact required to be stated therein or necessary to make the statements therein, in light of the circumstances under which they were made, not misleading. The Share Registration Statement shall comply as to form in all material respects with the requirements of the Exchange Act and the Securities Act, as the case may be, and the rules and regulations of the SEC thereunder; and         (v)  Subscriber shall be entitled to rely on the representations and warranties made by AerCap in Article III of, and any covenants relating to the F-4 set forth in, the Amalgamation Agreement as if such representations, warranties and covenants were made by AerCap to Subscriber herein.
+        6.    NYSE Listing.    AerCap shall use its reasonable best efforts to cause the Subject Shares to be approved for listing and quotation on the NYSE, subject to official notice of issuance.
+        7.    Termination.    This Agreement shall automatically terminate, without any required action on the part of either party hereto, upon the termination of the Amalgamation Agreement prior to the completion of the Amalgamation. Following any such termination, (a) this Agreement shall forthwith become void, and there shall be no liability or obligation on the part of either party hereto and (b) the Engagement Letter shall continue in full force and effect in accordance with its terms (without taking into account any of the provisions of this Agreement).
+        8.    Registration Procedures.    In connection with the Share Registration Statement contemplated by Section 2 hereof, the following provisions shall apply:
+        (a)   AerCap shall furnish to Subscriber, prior to the filing thereof with the SEC, a copy of the Share Registration Statement and each amendment thereof and each supplement, if any, to the prospectus included therein and shall not make any such filing without providing Subscriber with a reasonable opportunity to review such Share Registration Statement, amendment or supplement, as the case may be.
+3
+
+        (b)   AerCap shall promptly notify Subscriber in writing:
+          (i)  when the Share Registration Statement and any amendment thereto has been filed with the SEC and when the Share Registration Statement or any post-effective amendment thereto has become effective;         (ii)  of any request by the SEC for amendments or supplements to the Share Registration Statement or the prospectus included therein or for additional information;        (iii)  of the issuance by the SEC of any stop order suspending the effectiveness of the Share Registration Statement or the initiation of any proceedings for that purpose; and        (iv)  upon discovery that, or upon the discovery of the happening of any event as a result of which, the Share Registration Statement or the prospectus contains an untrue statement of a material fact or omits any material fact necessary to make the statements therein not misleading in the light of the circumstances under which they were made.
+        (c)   AerCap shall, in the event of the issuance of any stop order suspending the effectiveness of the Share Registration Statement, or of any order suspending or preventing the use of any related prospectus or ceasing trading of the Subject Shares, use its reasonable best efforts promptly to obtain the withdrawal of such order.
+        (d)   AerCap shall, as promptly as reasonably practicable, prepare a post-effective amendment to the Share Registration Statement or a supplement to the related prospectus or file any other required document so that the prospectus will not contain an untrue statement of a material fact or omit to state any material fact necessary to make the statements therein not misleading in the light of the circumstances under which they were made.
+        (e)   AerCap shall deliver to Subscriber, without charge, as many copies of the Share Registration Statement, any post-effective amendment thereto, including financial statements and schedules, and, if requested, all exhibits (including those incorporated by reference), and the prospectus (including each preliminary prospectus) included in the Share Registration Statement and any amendment or supplement thereto as Subscriber reasonably requests. AerCap consents to the use by Subscriber of the prospectus or any amendment or supplement thereto in connection with the offering and resale of the Subject Shares covered by the prospectus, or any amendment or supplement thereto, included in such Share Registration Statement.
+        (f)    AerCap shall use its reasonable best efforts to register or qualify the Subject Shares under such other securities or "blue sky" laws of such jurisdictions as Subscriber shall reasonably request, except that AerCap shall not for any such purpose be required to qualify generally to do business as a foreign corporation in any jurisdiction where, but for the requirements of this Section 8(f), it would not be obligated to be so qualified, to subject itself to taxation in any such jurisdiction, or to consent to general service of process in any such jurisdiction.
+        (g)   AerCap shall use its reasonable best efforts to cause all Subject Shares covered by the Share Registration Statement to be registered with or approved by such governmental agencies, authorities or self-regulatory bodies as may be necessary or appropriate to enable Subscriber to consummate the resale of the Subject Shares.
+        (h)   AerCap shall enter into such other agreements and take all other actions reasonably necessary or appropriate to expedite or facilitate the resale of the Subject Shares by Subscriber as Subscriber may reasonably request.
+        (i)    AerCap shall bear all expenses incurred in connection with this Agreement and the performance of its obligations hereunder and shall reimburse Subscriber for all expenses, including fees
+4
+
+
+and expenses of Subscriber's external legal counsel, reasonably incurred by Subscriber in connection with this Agreement.
+        9.    Indemnification; Contribution.    (a) In connection with any registration of the Subject Shares pursuant to this Agreement, AerCap shall indemnify Subscriber and its affiliates and each of their respective officers, directors, members, partners, stockholders, employees and agents against all expenses (including legal fees and expenses), claims, losses, damages or liabilities (or actions in respect thereof), including any of the foregoing incurred in settlement of any litigation, commenced or threatened, arising out of or based on any untrue statement (or alleged untrue statement) of a material fact contained in any registration statement, prospectus, offering circular or other document, or any amendment or supplement thereto, incident to any registration, qualification or compliance, or based on any omission (or alleged omission) to state therein a material fact required to be stated therein or necessary to make the statements therein, in light of the circumstances in which they were made, not misleading, or any violation (or alleged violation) by AerCap of the Securities Act, the Exchange Act or any other United States federal or state securities law or any rule or regulation promulgated thereunder applicable to AerCap in connection with any such registration, qualification or compliance, and AerCap will reimburse Subscriber and its affiliates and each of their respective officers, directors, members, partners, stockholders, employees and agents for any legal and any other expenses reasonably incurred in connection with investigating, preparing or defending any claim, loss, damage, liability or action.
+        (b)   If the indemnification provided for in this Section 9 is unavailable to an indemnified party hereunder in respect of any expenses, claims, losses, damages or liabilities referred to therein, then AerCap shall contribute to the amount paid or payable by such indemnified party as a result of such expenses, claims, losses, damages or liabilities in such proportion as is appropriate (i) to reflect the relative benefits received (or anticipated to be received) by Austin, on the one hand, and received by Subscriber, on the other hand, from the transactions contemplated by the Amalgamation Agreement and this Agreement and (ii), if the allocation provided by clause (i) above is unavailable for any reason, to reflect not only the relative benefits, but also the relative fault of AerCap and the indemnified party in connection with the actions or omissions which resulted in such expenses, claims, losses, damages or liabilities as well as any other relevant equitable considerations. Benefits received (or anticipated to be received) by AerCap shall be deemed to be equal to the Transaction Value (as defined in the Engagement Letter) and the aggregate value of the Subject Shares sold to Subscriber under this Agreement, and benefits received by Subscriber shall be deemed to be equal to the Transaction Fee paid to Subscriber. The relative fault of AerCap and the indemnified party shall be determined by reference to, among other things, the parties' relative intent, knowledge, access to information and opportunity to correct or prevent such action or omission. The parties hereto agree that it would not be just and equitable if contribution were determined by pro rata allocation or by any other method of allocation that does not take account of the equitable considerations referred to above in this Section 9(b). Notwithstanding anything to the contrary, in no event shall any indemnified party be responsible under this paragraph for any amounts in excess of the Transaction Fee actually received by Subscriber.
+        (c)   The indemnification provided by this Section 9 shall survive the resale by Subscriber of the Subject Shares.
+        10.    Miscellaneous.    
+        (a)    Further Assurances.    Each party hereto agrees to perform any further acts and execute and deliver any documents which may be reasonably necessary to carry out the intent of this Agreement.
+        (b)    Notices.    All notices, requests, consents and other communications hereunder to any party shall be sufficient if contained in a written instrument delivered in person or sent by telecopy, nationally-recognized overnight courier or first class registered or certified mail, return receipt
+5
+
+
+requested, postage prepaid, addressed to such party at the address set forth below or such other address as may hereafter be designated in writing by such party to the other parties:
+if to AerCap, to:AerCap Holdings N.V.
+AerCap House
+Stationsplein 965
+1117 CE Schiphol Airport Amsterdam
+The Netherlands
+Attention:        Chief Legal Officer
+Facsimile:        +31 20 655 9100with a copy to:Milbank, Tweed, Hadley & McCloy LLP
+One Chase Manhattan Plaza
+New York, NY 10005
+Attention:        Robert S. Reder, Esq.
+                          Alexander M. Kaye, Esq.
+Facsimile:        (212) 530-5219if to Subscriber, to:Citigroup Global Markets Inc.
+388 Greenwich Street
+New York, NY 10013
+Attention: General Counsel Office
+Facsimile: (212) 816-7912with a copy to:Dewey & LeBoeuf LLP
+1301 Avenue of the Americas
+New York, NY 10019
+Attention:        Denise A. Cerasani, Esq.
+                          Donald J. Murray, Esq.
+Facsimile:        (212) 259-6333
+        (c)    Amendments.    This Agreement may be amended only by a written agreement executed by the parties hereto.
+        (d)    Governing Law.    This Agreement shall be governed in all respects, including as to validity, interpretation and effect, by the Laws of the State of New York, without giving effect to its principles or rules of conflict of laws.
+        (e)    Submission to Jurisdiction.    Each party irrevocably and unconditionally consents, agrees and submits to the exclusive jurisdiction of any state or federal court sitting in the Borough of Manhattan, New York, New York, for the purposes of any litigation, action, suit or other proceeding arising out of or relating to this Agreement or any transaction contemplated hereby. Each party agrees to commence any litigation, action, suit or proceeding relating hereto only in such courts. Each party irrevocably and unconditionally waives any objection to the laying of venue of any litigation, action, suit or proceeding arising out of this Agreement or the transactions contemplated hereby in such courts, and hereby further irrevocably and unconditionally waives and agrees not to plead or claim in any such court that any such action, suit or proceeding brought in any such court has been brought in an inconvenient forum. Each party further irrevocably consents to and grants any such court jurisdiction over the person
+6
+
+
+of such parties and, to the extent legally effective, over the subject matter of any such dispute and agrees that mailing of process or other papers in connection with any such action or proceeding in the manner provided in Section 10(b) or in such other manner as may be permitted by law, shall be valid and sufficient service thereof. The parties agree that a final judgment in any such suit, action or proceeding shall be conclusive and may be enforced in other jurisdictions by suit on the judgment or in any other manner provided by law.
+        (f)    Waiver of Jury Trial.    EACH OF AERCAP AND SUBSCRIBER HEREBY IRREVOCABLY AND UNCONDITIONALLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, THE RIGHT TO A TRIAL BY JURY IN ANY ACTION, SUIT, COUNTERCLAIM OR OTHER PROCEEDING (WHETHER BASED ON CONTRACT, TORT OR OTHERWISE) ARISING OUT OF, CONNECTED WITH OR RELATING TO THIS AGREEMENT, THE TRANSACTIONS CONTEMPLATED HEREBY, OR THE ACTIONS OF AERCAP OR SUBSCRIBER IN THE NEGOTIATION, ADMINISTRATION, PERFORMANCE OR ENFORCEMENT THEREOF, REGARDLESS OF WHICH PARTY INITIATES SUCH ACTION OR ACTIONS.
+        (g)    Entire Agreement.    This Agreement, together with the Engagement Letter, constitutes the entire agreement and supersedes all prior agreements and understandings, both written and oral, between the parties with respect to the subject matter hereof.
+        (h)    Successors and Assigns.    Except as otherwise provided herein, the terms and conditions of this Agreement shall inure to the benefit of and be binding upon the respective successors and assigns of the parties. Nothing in this Agreement, express or implied, is intended to confer upon any party other than the parties hereto or their respective successors and assigns any rights, remedies, obligations, or liabilities under or by reason of this Agreement, except as expressly provided in this Agreement.
+        (i)    Descriptive Headings.    The descriptive headings herein have been inserted for convenience only and shall not be deemed to limit or otherwise affect the construction of any provisions hereof.
+        (j)    Counterparts; Facsimile Signatures.    This Agreement may be executed in any number of counterparts, and each such counterpart hereof shall be deemed to be an original instrument, but all such counterparts together shall constitute but one agreement. Facsimile counterpart signatures to this Agreement shall be acceptable and binding.
+IN WITNESS WHEREOF, the parties hereto have duly executed this Agreement as of the day and year first above written.
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+AERCAP HOLDINGS N.V.:
+ 
+ 
+
+By:
+ 
+
+/s/ KLAUS HEINEMANN
+
+ 
+ 
+ 
+ 
+Name:
+ 
+KLAUS HEINEMANN
+
+ 
+ 
+ 
+ 
+Title:
+ 
+Chief Executive Officer
+
+ 
+ 
+
+Citigroup Global Markets Inc.:
+ 
+ 
+
+By:
+ 
+
+/s/ JOHN GRIER
+
+ 
+ 
+ 
+ 
+Name:
+ 
+JOHN GRIER
+
+ 
+ 
+ 
+ 
+Title:
+ 
+Managing Director
+
+7
+
+
+
+QuickLinks
+Exhibit 10.1

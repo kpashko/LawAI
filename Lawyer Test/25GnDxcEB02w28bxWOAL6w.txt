@@ -1,0 +1,346 @@
+﻿
+
+PUT RIGHTS AGREEMENT
+          This Put Rights Agreement (this “Agreement”), dated as of December 31, 2009, is entered into by and among Henry Schein, Inc., a Delaware corporation, or its successor (“HSI”), Burns Veterinary Supply Inc., a New York corporation (“Burns”) and, solely for purposes of Sections 2.5(d) and 2.5(e) of this Agreement, Butler Animal Health Holding Company, LLC, a Delaware limited liability company, or its successor (the “Company”).
+          WHEREAS, as a condition to the consummation of the transactions contemplated by the Omnibus Agreement (as defined below), the parties have agreed to enter into this Agreement.
+          NOW, THEREFORE, in consideration of the promises and of the covenants and agreements hereinafter set forth and for other good and valuable consideration, the receipt and adequacy of which are hereby acknowledged, the parties hereby agree as follows:
+ARTICLE I
+DEFINITIONS
+     1.1. Definitions.
+          (a) Capitalized terms used but not defined herein shall have the respective meanings given to such terms in the Operating Agreement (as defined below).
+          (b) For the purposes of this Agreement, each of the following terms shall have the following respective meanings:
+               “30-Day True-Up Period” means a 30-day period commencing on the day that HSI provides notice to Burns that either (a) an Oak Hill Put Closing has occurred and the Oak Hill Put Price has been paid to Oak Hill or (b) no Oak Hill Put Notice was given during a Put Year; provided, however, that a 30-day True-Up Period shall only commence from and after the fifth anniversary of the Closing Date.
+               “Agreement” shall have the meaning set forth in the Preamble.
+               “Annual Burns Put Limitation Amount” means, (i) for any Pre Divestiture Put Year, the lesser of (x) the number of BAHHC Common Shares valued (in accordance with Section 2.2) at an amount equal to the difference between $150,000,000 and any Oak Hill Put Price paid by HSI to Oak Hill with respect to an Oak Hill Put Notice delivered during such Pre Divestiture Put Year, and (y) 41,127.14 BAHHC Common Shares, and (ii) for any Post Divestiture Put Year, 41,127.14 BAHHC Common Shares. Notwithstanding the foregoing, in no event shall the Annual Burns Put Limitation Amount exceed an amount equal to the difference between $150,000,000 and any Oak Hill Put Price paid by HSI to Oak Hill during the twelve month period immediately prior to any Burns Put Closing.
+               “BAHHC Common Shares” means the “Common Shares” or, following an Initial Public Offering, the “Successor Common Stock” (each as defined in the Operating Agreement), in each case, as adjusted for any reclassification, recapitalization, distribution, split, combination, exchange or similar adjustment thereof.
+               “Burns” shall have the meaning set forth in the Preamble.
+ 
+
+
+ 
+
+
+               “Burns Put Closing” shall have the meaning set forth in Section 2.4(a).
+               “Burns Put Closing Date” shall have the meaning set forth in Section 2.4(a).
+               “Burns Put Price” means the aggregate amount payable to Burns in connection with the exercise of a Burns Put Right, calculated by multiplying either (1) the Put Interest Percentage and the Fair Market Value in the case of Sections 2.2(a) and 2.2(b)(ii) or (2) the Market Price and the number of BAHHC Common Shares designated as Put Securities in the case of Section 2.2(b)(i), as applicable; provided, that, in the case of Section 2.2(a), the Burns Put Price shall equal (w) the amount as provided in clause (1) above plus (x) the Excess Tax Distribution Adjustment Amount, if it is positive, or minus (y) the Excess Tax Distribution Adjustment Amount, if it is negative, and minus (z) the LIFO Tax Adjustment Amount, and on the Put Closing Date (A) Burns shall transfer to HSI the entitlement with respect to the amounts in clause (x) and (B) HSI shall assume from Burns the obligations with respect to the amounts in clauses (y) and (z).
+               “Burns Put Right” shall have the meaning set forth in Section 2.1(a).
+               “Closing Date” shall have the meaning set forth in the Omnibus Agreement.
+               “Commission” means the United States Securities and Exchange Commission, or any other federal agency administering the Securities Act and the Exchange Act at the time.
+               “Company” shall have the meaning set forth in the Preamble.
+               “Convertible Security” means any capital stock, equity or debt security convertible into, exchangeable for or representing any rights to subscribe for or acquire any BAHHC Common Shares. For purposes of clarification, “Convertible Security” shall not include any options.
+               “Darby” means the Darby Group Companies, Inc., a New York corporation.
+               “Decision Period” shall have the meaning set forth in Section 2.2(a)(ii)(2).
+               “Designated Investment Banker” shall have the meaning set forth in Section 2.2(a)(ii)(1).
+               “Discount Rate” means the National Municipal Bond Yields for AAA Rated Tax Exempt General Obligations Bonds as reported by Bloomberg for the nearest period of time remaining with respect to the tax liabilities to the FIFO tax adjustment, which as of November 29, 2009 is 0.66% for the two (2) year bond.
+               “Enterprise Value Methodology” means a methodology to be considered by the Designated Investment Banker in connection with its determination of Fair Market Value, whereby first, the enterprise value of the Company is calculated by multiplying (i) normalized EBITDA by (ii) an appropriate multiple as determined by the Designated Investment Banker, and second, total cash and cash equivalents of the Company and its subsidiaries as of the most
+2
+
+
+ 
+
+
+recent full month-end balance sheet date immediately preceding the applicable Put Notice Date would be added thereto, and third, from the enterprise value so calculated, the total indebtedness of the Company and its subsidiaries for borrowed monies as of the most recent full month-end balance sheet date immediately preceding the applicable Put Notice Date would be subtracted.
+               “Excess Tax Distribution Adjustment Amount” means an amount equal to the difference between (i) the aggregate net amount that would have been received by Burns with respect to the Put Securities if on the day immediately preceding the Burns Put Closing Date the Company had made a distribution to its members in the minimum amount sufficient to eliminate the distribution advances to all members (including accrued amounts in the nature of interest) provided for in Section 6.6(a)(ii) of the Operating Agreement outstanding as of that day (the “First Distribution”) and then redistributed the amount of distribution advances treated as repaid pursuant to Section 6.6(a)(ii), and (ii) the aggregate amount that would have been received by Burns with respect to the Put Securities if on the day immediately preceding the Burns Put Closing Date the Company had made a distribution to its members in the amount of the First Distribution but on that date the amount of the distribution advances provided for in that Section 6.6(a)(ii) for all members had been zero (in both cases not taking account of any adjustments relating to tax liabilities resulting from the change by the Company from the LIFO to the FIFO inventory accounting method). To the extent the amount determined under clause (i) of the immediately preceding sentence exceeds the amount determined under clause (ii) of that sentence the Excess Tax Distribution Adjustment Amount shall be considered “positive”; to the extent the amount determined under that clause (ii) exceeds the amount determined under that clause (i) the Excess Tax Distribution Adjustment Amount shall be considered “negative”. Attached hereto as Exhibit A is an example of the Excess Tax Distribution Adjustment Amount calculation set forth above.
+               “Fair Market Value” means the fair market value of 100% of the equity interests of the Company, calculated as of the relevant Put Notice Date (except as specifically provided in the definition of Enterprise Value Methodology), determined pursuant to Section 2.2(a) or Section 2.2(b)(ii), as applicable.
+               “Final Determination” shall have the meaning set forth in Section 2.2(a)(ii)(1).
+               “Final Notice” shall have the meaning set forth in Section 2.2(a)(ii)(2).
+               “Governmental Authority” shall mean any government or any agency, bureau, board, commission, court, department, official, political subdivision, tribunal or other instrumentality of any government, whether federal, state or local.
+               “HSI” shall have the meaning set forth in the Preamble.
+               “In the Money Options” means (i) all issued and outstanding options for BAHHC Common Shares for which the applicable exercise price is less than the Put Price and which are either vested as of the applicable Put Closing Date or may become vested in accordance with their terms within six (6) months after the applicable Put Closing Date, and (ii) any BAHHC Common Shares issued upon exercise of any options at any time on or after the applicable Put Notice Date through the date immediately preceding the applicable Put Closing Date.
+               “Initial Public Offering” means the initial underwritten public offering of common stock by the Company pursuant to an effective registration statement on Form S-1 (or any successor form) under the Security Act.
+               “Lien” means any pledge, hypothecation, right of others, claim, security interest, encumbrance, adverse claim or interest, voting trust agreement, interest, equity, option, lien, right of first refusal, charge or other restriction or limitation.
+3
+
+
+ 
+
+
+               “LIFO Tax Adjustment Amount” means, with respect to the tax distributions to be made by the Company on or after the Burns Put Closing Date with regard to the income already recognized, and to be recognized, for tax purposes by the Company as a result of the change from the LIFO to the FIFO inventory accounting method in accordance with Section 4.1 of the Operating Agreement, the amount calculated by multiplying (x) the present value (discounted at the Discount Rate) of the amount of tax liability to be borne by Burns with regard to that income pursuant to the last sentence of Section 4.1 of the Operating Agreement, based on the Corporate Tax Rate (as defined in the Operating Agreement, based on the operations of the Company as of the day immediately preceding the Burns Put Closing Date for the purpose of determining allocation and apportionment) in effect for the relevant periods on the day immediately preceding the Burns Put Closing Date, by (y) a fraction, (i) the denominator of which shall be the Effective Percentage Interest (as defined in the Operating Agreement) of Burns immediately following the consummation of the transactions contemplated by the Omnibus Agreement, and (ii) the numerator of which shall be the Effective Percentage Interest represented by the Put Securities as of immediately following the consummation of the transactions contemplated by the Omnibus Agreement.
+               “Market Price” means the closing sale price per BAHHC Common Share on the applicable Put Notice Date (or the nearest preceding business day).
+               “Notice” shall have the meaning set forth in Section 3.2.
+               “Oak Hill” means OHCM together with OHCP.
+               “Oak Hill Divestiture Date” means the date upon which Oak Hill no longer owns any “Securities”, as that term is defined in the Oak Hill Put Rights Agreement.
+               “Oak Hill Put Closing” means the occurrence of a Put Closing (as defined in the Oak Hill Put Rights Agreement) pursuant to the Oak Hill Put Rights Agreement.
+               “Oak Hill Put Notice” means the Put Notice as defined in the Oak Hill Put Rights Agreement.
+               “Oak Hill Put Price” means the Put Price (as defined in the Oak Hill Put Rights Agreement).
+               “Oak Hill Put Rights Agreement” means the Put Rights Agreement, dated as of the date hereof, between HSI, Oak Hill and the Company.
+               “OHCM” means Oak Hill Capital Management Partners II, L.P., a Delaware limited partnership.
+               “OHCP” means Oak Hill Capital Partners II, L.P., a Delaware limited partnership.
+               “Omnibus Agreement” means the Omnibus Agreement, dated as of November 29, 2009, by and among HSI, National Logistics Services, LLC, Oak Hill, WABC, Darby, Burns, the Company and the other Persons party thereto.
+               “Operating Agreement” means the Third Amended and Restated Limited Liability Company Operating Agreement of the Company, dated as of the date hereof, between
+4
+
+
+ 
+
+
+WABC, OHCM, HSI, OHCP, Darby, Burns and the other members party thereto, as amended from time to time in accordance with the terms thereof.
+               “Person” means an individual, a corporation, a partnership, a joint venture, a trust, an unincorporated organization, a limited liability company or partnership, a government and any agency or political subdivision thereof.
+               “Post Divestiture Put Year” means any Put Year following the Oak Hill Divestiture Date. For purposes of clarification, if such date occurs during any Put Year, then the first Post Divestiture Put Year shall be the following Put Year.
+               “Pre Divestiture Put Year” means any Put Year beginning prior to the first Post Divestiture Put Year.
+               “Put Interest Percentage” means a percentage equal to the number of BAHHC Common Shares designated as Put Securities in the relevant Put Notice divided by the total number of BAHHC Common Shares and Convertible Securities then issued and outstanding determined on a fully diluted as-converted basis taking into account option dilution for In the Money Options, in each case as calculated as of the Put Notice Date (except as indicated in the definition of In the Money Options).
+               “Put Notice” shall have the meaning set forth in Section 2.1(b).
+               “Put Notice Date” means, with respect to each Put Notice, the date on which such Put Notice is delivered to HSI.
+               “Put Securities” shall have the meaning set forth in Section 2.1(b).
+               “Put Year” means the one year period commencing on the fifth anniversary of the Closing Date and ending on the date immediately prior to the sixth anniversary of the Closing Date and each successive one year period thereafter.
+               “Qualified Initial Public Offering” has the meaning given to such term in the Registration Rights Agreement.
+               “Securities Act” means the Securities Act of 1933, as amended, or any similar successor federal statute, and the rules and regulations of the Commission thereunder, all as the same shall be in effect at the time.
+               “WABC” means W.A. Butler Company, a Delaware corporation, or its successor.
+5
+
+
+ 
+
+
+ARTICLE II
+PUT RIGHTS
+     2.1. Burns Put Right Grants and Mechanics.
+          (a) HSI hereby grants to Burns the right (a “Burns Put Right”), at any time and from time to time on or after the fifth anniversary of the Closing Date, to require HSI to purchase all or any portion of the 205,635.72 BAHHC Common Shares owned by Burns on the date hereof, on the terms and subject to the conditions set forth in this Agreement.
+          (b) Subject to Sections 2.5(a) through (c), Burns may exercise its Burns Put Right by delivery of a written Notice (a “Put Notice”) to HSI, which Put Notice shall state that Burns is exercising its Burns Put Right to require HSI to purchase the number and type of BAHHC Common Shares specified in such Put Notice (the “Put Securities”) and may, if such Put Notice is being delivered at any time prior to the first anniversary of the Oak Hill Divestiture Date, state the minimum number of Put Securities that would be acceptable to Burns if all such Put Securities are greater than the Annual Burns Put Limitation Amount.
+     2.2. Determination of Fair Market Value. For purposes of calculating Burns Put Price payable in connection with the exercise of any Burns Put Right, the Fair Market Value shall be determined as follows:
+       (a) Pre-QPO. If the Put Notice is delivered prior to a Qualified Initial Public Offering, the Burns Put Price payable in connection with the exercise of any Burns Put Right shall be determined as follows:
+     (i) Mutual Agreement. Burns and HSI shall use all reasonable efforts and negotiate in good faith to agree upon the Fair Market Value. If Burns and HSI agree upon the Fair Market Value, then, subject to the conditions to closing set forth in Section 2.4 below, Burns shall sell, transfer and convey, and HSI shall purchase and accept, the Put Securities free and clear of all Liens at the Burns Put Closing for the Burns Put Price calculated based on such agreed-upon Fair Market Value.
+     (ii) Dispute Procedures. (1) If Burns and HSI are unable to agree upon the Fair Market Value pursuant to Section 2.2(a)(i) within twenty-one (21) days of the Put Notice Date, then either party may request, by delivery of a written Notice to the other party, an independent investment bank retained by the Company, or, if such investment bank is not acceptable to Burns or HSI, another reputable independent nationally recognized investment bank as to which HSI and Burns mutually agree (the “Designated Investment Banker”), that the Designated Investment Banker determine the Fair Market Value. If HSI and Burns are unable to agree upon the selection of the Designated Investment Banker, then each shall select one nationally recognized investment bank and the Designated Investment Banker shall be selected by those two investment banks, whose determination of the Designated Investment Banker will constitute an arbitral award that is final, binding and non-appealable and upon which a judgment may be entered by a court with jurisdiction thereover. The Designated Investment Banker shall determine the Fair Market Value, using such method or methods of determining Fair Market Value as it, in its sole discretion, shall determine; provided, however, that in determining Fair Market Value, the Designated Investment Banker shall (A) not include a discount for lack of control, minority interests, lack of a public market in the Company’s securities or leverage levels, block sale discounts or
+6
+
+
+ 
+
+
+otherwise take into account any contractual restrictions on the Company’s ability to operate anywhere in the world or limiting HSI’s ability to consummate the Burns Put Closing (other than as set forth in this Agreement), (B) consider, among other things, the value that could be realized by a sophisticated seller seeking to maximize the consideration to be received for the Put Securities, whether through a private sale of 100% of the Company or a strategic combination or in an Initial Public Offering (determined on a fully distributed basis) and assuming, for purposes of the valuation, that the capital stock of the Company is widely held and no one shareholder holds a control position), without taking into consideration any initial public offering discount or underwriter’s discount or any other costs or expenses of sale, and (C) consider, in addition to any other methods deemed by the Designated Investment Banker, in its sole discretion, to be customary or appropriate, the Enterprise Value Methodology. For the avoidance of doubt, the Designated Investment Banker shall not consider or attribute any value (or negative value) to any distribution advances by the Company provided for in Section 6.6(a)(ii) of the Operating Agreement or tax liabilities relating to the change from the LIFO to the FIFO inventory accounting method, which is the subject of the last sentence of Section 4.1 of the Operating Agreement. Upon reasonable notice, the Designated Investment Banker shall provide each of Burns and HSI the opportunity to make one presentation (with representatives of the non-presenting party present) of reasonable length to the Designated Investment Banker regarding their respective views on the determination of Fair Market Value; provided that any materials provided by any party to the Designated Investment Banker in connection with such presentation shall be simultaneously provided to the other party. The Designated Investment Banker shall issue its determination in writing to Burns and HSI (the “Final Determination”) within forty-five (45) days of delivery of the initial Notice to the Designated Investment Banker requesting such determination and will constitute an arbitral award that is final, binding and non-appealable and upon which judgment may be entered by a court with jurisdiction thereover.
+     (2) Burns shall have fifteen (15) days after delivery of the Final Determination (the “Decision Period”) to decide whether to (A) withdraw its Put Notice or (B) require HSI to purchase the Put Securities indicated in its Put Notice for a price equal to the Burns Put Price calculated based on the Fair Market Value set forth in the Final Determination, which decision shall be furnished to HSI by written Notice delivered prior to the expiration of the Decision Period, notifying HSI of such decision (the “Final Notice”). If the Final Notice indicates that Burns is withdrawing its Put Notice or if Burns fails to deliver a Final Notice prior to the expiration of the Decision Period, then the Put Notice shall be deemed to be irrevocably withdrawn and HSI shall not be required to purchase the Put Securities specified in such Put Notice. Any Put Notice that is withdrawn pursuant to this Section 2.2(a)(ii)(2) shall continue to be deemed to have been delivered for purposes of Section 2.5(c).
+          (b) Post-QPO. If the Put Notice is delivered after a Qualified Initial Public Offering: (i) if the BAHHC Common Shares are then listed or quoted on NASDAQ or NYSE,
+7
+
+
+ 
+
+
+the Burns Put Price shall be equal to the Market Price, and (ii) if the BAHHC Common Shares are not then listed or quoted on NASDAQ or NYSE, the Fair Market Value shall be determined in accordance with Section 2.2(a). In lieu of exercising a Burns Put Right hereunder, Burns may, subject to any restriction set forth in the Registration Rights Agreement and any applicable securities law restrictions, sell any or all of their respective BAHHC Common Shares on the open market pursuant to Rule 144 of the Securities Act or the Registration Rights Agreement.
+     2.3. Payment of Burns Put Price. The Burns Put Price payable by HSI at the Burns Put Closing shall be payable in a single cash payment by wire transfer of immediately available funds to an account designated by Burns in writing at least two (2) days prior to the Burns Put Closing.
+     2.4. Burns Put Closing; Conditions Precedent.
+          (a) HSI and Burns shall consummate the sale of the Put Shares (the “Burns Put Closing”) as soon as reasonably practicable after the delivery of the Final Notice to HSI, but in no event later than thirty (30) days after delivery of the Final Notice (the “Burns Put Closing Date”), subject in all respects to the satisfaction of the conditions set forth in Sections 2.4(b) and 2.4(c).
+          (b) HSI’s obligations to purchase the Put Securities at a Burns Put Closing shall be expressly subject to the fulfillment or express written waiver by HSI of the following conditions on or prior to the applicable Burns Put Closing Date:
+     (i) HSI shall have received from Burns certificates or other instruments representing the Put Securities, together with unit, stock or other appropriate powers duly endorsed with respect thereto, if applicable, together with and any other documentation reasonably requested by HSI in order to confirm that such Put Shares, and all rights in respect thereof (including, without limitation, all economic and voting rights) are being transferred to HSI free and clear of all Liens.
+     (ii) There shall not be any order of any Governmental Authority restraining or invalidating the transactions which are the subject of this Agreement.
+     (iii) The purchase and sale of the Put Securities at the Burns Put Closing would not violate the Securities Act or any state securities or “blue sky” laws applicable to Burns, HSI, the Company or the Put Securities.
+          (c) Burns’s obligations to sell the Put Securities at a Burns Put Closing shall be expressly subject to the fulfillment or express written waiver by Burns of the following conditions on or prior to the applicable Burns Put Closing Date:
+     (i) HSI shall have paid the Burns Put Price.
+8
+
+
+ 
+
+
+     (ii) There shall not be any order of any Governmental Authority restraining or invalidating the transactions which are the subject of this Agreement.
+     (iii) The purchase and sale of the Put Securities at the Burns Put Closing would not violate the Securities Act or any state securities or “blue sky” laws applicable to Burns, HSI, the Company or the Put Securities.
+          (d) If any of the conditions set forth in Section 2.4(b) and 2.4(c) are not or are not reasonably expected to be satisfied on the Burns Put Closing Date, HSI and Burns shall cooperate in good faith to cause such conditions to be satisfied.
+     2.5. Additional Terms and Conditions Applicable to Burns Put Rights.
+          (a) During any Pre Divestiture Put Year, Burns shall only be permitted to exercise its Burns Put Right during the 30-Day True-Up Period.
+          (b) In any Put Year, HSI shall not be required to pay, in the aggregate, Burns Put Prices or acquire, in the aggregate, that number of Put Securities, as applicable, in excess of the applicable Annual Burns Put Limitation Amount. If the Burns Put Price otherwise payable by HSI, or the number of Put Securities otherwise to be acquired by HSI, on a Burns Put Closing Date, when combined with all other Burns Put Prices and Oak Hill Put Prices paid by HSI during the Put Year in which such Burns Put Closing Date is to occur, would exceed the Annual Burns Put Limitation Amount, then HSI shall only be obligated to purchase that portion of the Put Securities so that, when combined with all other Burns Put Prices paid by HSI and Put Securities acquired by HSI during the Put Year in which such Burns Put Closing Date is to occur (or deemed to occur), the Annual Burns Put Limitation Amount is not exceeded, and the number of Put Securities to be acquired on such Burns Put Closing Date shall be reduced accordingly. If Burns exercises its Burns Put Right during a 30-Day True-Up Period pursuant to sub-section (b) of the definition of 30-Day True-Up Period, then the prior year’s Annual Burns Put Limitation Amount shall be applicable; provided, however, that, if Oak Hill delivers an Oak Hill Put Notice following the delivery of a Put Notice by Burns but prior to the applicable Put Closing therefor, then (x) the Put Closing in respect of such Put Notice from Burns shall be delayed so that such Put Closing shall occur immediately following the applicable Oak Hill Put Closing, (y) the Fair Market Value or Market Price, as applicable, shall equal the value or price used in connection with the applicable Oak Hill Put Closing and (z) if, after giving effect to such Oak Hill Put Closing, the number of Put Securities that would be within the applicable Annual Burns Put Limitation Amount is less than the minimum number specified in the Put Notice, then Burns may withdraw such Put Notice and the next Put Notice delivered by Burns during the remainder of such Put Year shall not be subject to the provisions of Section 2.5(c).
+          (c) No Put Notice may be delivered if a Put Notice has already been delivered during the immediately preceding twelve (12) month period, and any such Put Notice shall be void ab initio; provided, however, if a Put Notice is withdrawn pursuant to Sections 2.2(a)(ii)(2) then Burns may deliver a Put Notice after the date that is six (6) months following the expiration of the applicable Decision Period in the case of Section 2.2(a)(ii)(2).
+          (d) The Company shall, and HSI and Burns shall cause the Company to, provide the Designated Investment Banker with access, upon reasonable notice and during normal business hours, to management of the Company and to such documents and information as it shall reasonably request, including, without limitation, the most recently approved Company Budget and projections for the Company’s next fiscal year presented by Company management to the Company Board. Any access under this Section 2.5(d) shall be subject to such limitations
+9
+
+
+ 
+
+
+as the Company may reasonably require to prevent the disclosure of non-public information and/or the material disruption of the business of the Company, including, without limitation, the execution of a non-disclosure agreement by the Designated Investment Banker in form and substance reasonably satisfactory to the Company. The Company shall provide reasonable prior written notice to HSI and Burns of any access to be provided by the Company to the Designated Investment Banker. HSI, Burns and their respective representatives shall have the right to accompany the Designated Investment Banker on any visits to Company’s facilities or in any meetings between the Designated Investment Banker and management of the Company.
+          (e) All fees, costs and expenses of the Designated Investment Banker incurred in connection with the determination of the Burns Put Price hereunder shall be borne by the Company.
+          (f) The Burns Put Rights granted hereunder are personal to Burns and may not be transferred or assigned by Burns other than in accordance with Section 3.8 hereof.
+ARTICLE III
+MISCELLANEOUS
+     3.1. Choice of Law; Forum; Waiver of Jury Trial. This Agreement and all claims and controversies hereunder (whether based on contract, tort or any other theory) shall be governed by and construed in accordance with the internal laws of the state of New York, without regard to the choice of law provisions thereof. Any proceeding arising out of or relating to this Agreement shall be brought in the courts of the state of New York sitting in the County of New York, State of New York, or, if it has or can acquire jurisdiction, in the United States District Court for the Southern District of New York. Each party hereby expressly submits to the personal jurisdiction and venue of such courts as provided above for the purposes thereof and expressly waives any claim of improper venue and any claim that such courts are an inconvenient forum. Each party hereby irrevocably consents to the service of process of any of the aforementioned courts in any such suit, action or proceeding by the mailing of copies thereof by registered or certified mail, postage prepaid, to the address set forth or referred to in Section 3.2. EACH PARTY HERETO HEREBY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN ANY LEGAL PROCEEDING DIRECTLY OR INDIRECTLY ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY (WHETHER BASED ON CONTRACT, TORT OR ANY OTHER THEORY). EACH PARTY HERETO (A) CERTIFIES THAT NO REPRESENTATIVE, AGENT OR ATTORNEY OF ANY OTHER PARTY HAS REPRESENTED, EXPRESSLY OR OTHERWISE, THAT SUCH OTHER PARTY WOULD NOT, IN THE EVENT OF LITIGATION, SEEK TO ENFORCE THE FOREGOING WAIVER AND (B) ACKNOWLEDGES THAT IT AND THE OTHER PARTIES HERETO HAVE BEEN INDUCED TO ENTER INTO THIS AGREEMENT BY, AMONG OTHER THINGS, THE MUTUAL WAIVERS AND CERTIFICATIONS IN THIS SECTION.
+     3.2. Notices. All notices, requests, demands, approvals, consents, waivers and other communications required or permitted to be given under this Agreement (each, a “Notice”) shall be in writing and delivered in person, by facsimile transmission (with a Notice
+10
+
+
+ 
+
+
+contemporaneously given by another method specified in this Section 3.2) or by overnight courier service, at the following addresses (or at such other address for a party as shall be specified to the other parties by like Notice). All such Notices shall only be duly given and effective upon receipt (or refusal of receipt).
+
+ 
+(a)
+ 
+If to HSI, to:
+
+Henry Schein, Inc.
+135 Duryea Road
+Melville, NY 11747
+Facsimile: (631) 843-5660
+Attn: General Counsel
+
+With a copy (which shall not constitute notice) to:
+
+Proskauer Rose LLP
+1585 Broadway
+New York, NY 10036
+Facsimile: (212) 969-2900
+Attn: Steven Kirshenbaum, Esq.
+
+ 
+(b)
+ 
+If to Burns, to:
+
+c/o Darby Group Companies, Inc.
+300 Jericho Quadrangle
+Jericho, NY 11753
+Facsimile: (516) 688-2813
+Attn: President
+
+with a copy (which shall not constitute notice) to:
+
+Salon, Marrow, Dyckman Newman & Broudy LLP
+292 Madison Avenue
+New York, NY 10017
+Facsimile: (212) 661-3339
+Attn: Joel Salon, Esq.
+     3.3. Amendments. Any provision of this Agreement may be modified, amended or waived only by a writing signed by each of the parties hereto. For the purposes of this Agreement and all agreements executed pursuant hereto, no course of dealing between or among any of the parties hereto and no delay on the part of any party hereto in exercising any rights hereunder or thereunder shall operate as a waiver of the rights hereof and thereof.
+     3.4. Severability. If any provision of this Agreement shall be held to be illegal, invalid or unenforceable, such illegality, invalidity or unenforceability shall attach only to such provision and shall not in any manner affect or render illegal, invalid or unenforceable any other
+11
+
+
+ 
+
+
+provision of this Agreement, and this Agreement shall be carried out as if any such illegal, invalid or unenforceable provision were not contained herein.
+     3.5. Integration. This Agreement, including the exhibits, documents and instruments referred to herein or therein, constitutes the entire agreement among the parties with respect to the subject matter hereof.
+     3.6. Construction. The Article and Section headings used or contained in this Agreement are for convenience of reference only and shall not affect the construction of this Agreement. The parties have participated jointly in the negotiation and drafting of this Agreement with counsel sophisticated in investment transactions. In the event an ambiguity or question of intent or interpretation arises, this Agreement shall be construed as if drafted jointly by the parties and no presumption or burden of proof shall arise favoring or disfavoring any party by virtue of the authorship of any provisions of this Agreement.
+     3.7. Counterparts. This Agreement may be executed in two or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument.
+     3.8. Successors and Assigns. The provisions of this Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and permitted assigns; provided, that no party may directly or indirectly assign, delegate or otherwise transfer any of its rights or obligations under this Agreement without the prior written consent of HSI and Burns. Notwithstanding the foregoing, (a) HSI shall be entitled to assign its rights and obligations under this Agreement, without the consent of any other party hereto, to any Affiliate of HSI; and (b) Burns shall be entitled to assign its rights and obligations under this Agreement, without the consent of any other party hereto to its Permitted Primary Transferees; provided, however, that (i) one Person reasonably acceptable to HSI, shall be appointed as agent with full power and authority to act conclusively and timely for and on behalf of all such Permitted Primary Transferees with respect to their rights and obligations hereunder, on terms and conditions reasonably satisfactory to HSI and (ii) HSI shall not incur or become subject to any additional obligations as a result of any such assignment. For the avoidance of doubt, in the event that HSI (i) consolidates with or merges into any other person and shall not be the continuing or surviving entity in such consolidation or merger or (ii) transfers all or substantially all of its properties and assets to any person, then, in each case, the successors and purchasers of HSI or HSI’s properties and assets, as appropriate, shall agree to fulfill and comply with the obligations set forth in this Agreement. Notwithstanding any assignment by any party of its obligations hereunder, such assigning party shall remain primarily liable for all obligations so assigned.
+[Signature Page Follows.]
+12
+
+
+ 
+
+
+     IN WITNESS WHEREOF, the parties hereto have duly executed and delivered this Agreement on the date first above written.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+HENRY SCHEIN, INC.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By:
+ 
+/s/ Michael Ettinger 
+ 
+ 
+ 
+ 
+Name:
+ 
+Michael Ettinger
+ 
+ 
+ 
+ 
+Title:
+ 
+Senior Vice President and Secretary 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BURNS VETERINARY SUPPLY, INC.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By:
+ 
+/s/ Michael Caputo
+ 
+ 
+ 
+ 
+Name:
+ 
+Michael Caputo 
+ 
+ 
+ 
+ 
+Title:
+ 
+President 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BUTLER ANIMAL HEALTH HOLDING COMPANY, LLC
+(solely with respect to Sections 2.5(d)
+and 2.5(e) of this Agreement)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By:
+ 
+/s/ Kevin R. Vasquez 
+ 
+ 
+ 
+ 
+Name:
+ 
+Kevin R. Vasquez 
+ 
+ 
+ 
+ 
+Title:
+ 
+CEO and President 
+ 
+ 
+[Signature Page to Burns Put Rights Agreement]
+

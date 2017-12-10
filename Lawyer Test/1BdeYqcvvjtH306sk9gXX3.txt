@@ -1,0 +1,351 @@
+﻿
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DRUG DISCOUNT CARD AGREEMENT
+
+Exhibit 10.5 This Prescription Drug Discount Card Agreement effective as of ____________, 2009 (“Effective Date”) is between Paramount Rx Inc. ("Paramount Rx") located at 2054 Kildaire Farm Rd., #403 Cary, North Carolina  27518 and Free For All, Inc. (“Client”), with its principal place of business located at 303 Lippincott Drive, Suite 320, Marlton, NJ 08053.
+ 
+RECITALS
+ 
+A.           Client provides a prescription drug discount program, through which individuals may utilize identification cards entitling them and their dependents access to contracted, discount pricing for prescription drugs and drug products dispensed at participating pharmacies;
+ 
+B.           Paramount Rx has agreed to provide Client access to its national pharmacy network, claims processing, contracted drug pricing and other related services in connection with the Program.  Paramount Rx has represented that it has contractual agreements with all major pharmacy chains in the U.S. and Puerto Rico that will enable it to appropriately service clients discount card programs.  The major pharmacy chains include but are not limited to Wal-mart, Target, CVS, Walgreens, Kroger, K-mart, Albertsons, Sav-on, Osco, Safeway, and Rite-Aid.  The contracted chains have agreed to accept Paramount Rx’s MAC list as well as a competitive Brand discount as defined in Exhibit B. Paramount Rx agrees to provide an “ OPEN” network while it continues to contract with independent pharmacies utilizing the program.   Discount rates for chain pharmacies in Puerto Rico will not be subject to the performance guarantees defined in Exhibit B.
+ 
+In consideration of the mutual promises in this Agreement, Paramount Rx and Client agree as follows:
+ 
+ARTICLE 1. DEFINITIONS
+ 
+All capitalized terms shall have the meanings given them in Exhibit A to this Agreement.
+ 
+ARTICLE 2. PROGRAM DESCRIPTION AND DUTIES
+ 
+2.01           Client Representations and Covenants.  Client represents that its Program is a Prescription Drug discount program made available to consumers who wish to receive access to contracted, discount pricing for Prescription Drugs dispensed at Participating Pharmacies and is not an insured benefit.  Client acknowledges and agrees that it is solely responsible for disclosing to prospective and current Members all Program information legally required to be disclosed, including, but not limited to, information related to the calculation of amounts to be paid by Members, coverage and exclusions and enrollment requirements.
+ 
+2.02           Purchase of Prescription Drugs.  Members, at their own expense, may purchase Prescription Drugs at Participating Pharmacies, upon presentation of a Program identification card designed by client and a prescription order.   Client understands and agrees that its Members are responsible for 100% of the contracted price of the Prescription Drugs dispensed at the point of sale.  Paramount Rx shall have no liability or obligation whatsoever (whether in contract, tort, equity or otherwise) to pay for such Prescription Drugs.
+
+1
+
+2.03           Cooperation.  Client agrees to cooperate with Paramount Rx for the purpose of enabling Paramount Rx to perform its services in connection with this Agreement.  Client represents and warrants that all Program information provided by or on behalf of Client to Paramount Rx shall be true, accurate and complete.  Client further agrees to provide Paramount Rx with all information and the data necessary, in such form as Paramount Rx may reasonably require, enabling Paramount Rx to review and process each claim and to provide its services in connection with this Agreement.
+ 
+ARTICLE 3. SALES AND MARKETING MATERIALS
+ 
+Client, at its own expense, shall produce and distribute all advertising, sales, marketing and enrollment materials (including, but not limited to, Member brochures, applications and when required by the Program, identification cards) for promotion of the Program.  Client will submit identification card templates and all related material templates for written approval by Paramount Rx, any cards or materials that are produced using the approved templates will not need further approval by Paramount Rx.  Client further agrees that without Paramount Rx’s prior written approval which will not be unreasonable with held all such materials shall state the Program is not insurance.  Client shall not, directly or indirectly, advertise, market or sell the Program as any form of insurance or “funded health benefit”, except to the extent the Program is implemented in connection with Flexible Spending Arrangements, Health Savings Accounts, Health Reimbursement Arrangements or other funded or insured health benefits.  As the Client is using its own BIN for processing no names or logos of Paramount Rx will be required to be added to the cards or marketing materials, unless required by state or industry regulations.
+ 
+ARTICLE 4. IMPLEMENTATION AND SUPPORT
+ 
+4.01           Implementation.  Paramount Rx agrees to facilitate the implementation of Client’s Program by taking the following actions:  (a) loading Member enrollment files, within three (3) business days of receipt, according to Paramount Rx’s system specifications; (b) encoding Client’s Program specifications within information services and claims processing systems; within seven (7) business days of receipt, according (c) creating and encoding Client’s Program specifications within the Participating Pharmacy network within seven (7) business days of receipt, according; and (d) providing other agreed upon services.  Paramount Rx has represented that it currently has the technological capabilities to service the clients discount cards and to assure the discount card transactions and discounts are properly calculated and recorded under the client’s bin number. Paramount Rx will provide a group level report .
+ 
+4.02           Toll-Free Telephone Access.  Paramount Rx agrees to maintain at its sole expense a toll- free telephone line for access by Participating Pharmacies for the resolution of claims processing adjudication.
+
+2
+
+ARTICLE 5. ENROLLMENT
+ 
+5.01           Enrollment.  If Member participation in the Program is defined by eligibility criteria, then Client shall provide Paramount Rx a complete enrollment file in electronic media identifying all Members.  Client also shall provide Paramount Rx regular electronic updates of changes in enrollment, including, but not limited to, changes in enrollment status, additions and deletions of Members, and termination of Program participation, together with the effective date of any such changes.  Each enrollment file and update shall be provided by Client in a mutually acceptable format and shall be true, accurate and complete and shall include all information reasonably requested by Paramount Rx to process claims for Prescription Drugs.
+ 
+5.02           Maintenance of Enrollment Files.  Subject to Client’s written request, Paramount Rx shall establish and maintain enrollment files related to Members and their Prescription Drug utilization.  Maintenance of enrollment files (additions, terminations and updates) will be performed within three (3) business days of Paramount Rx’s receipt of Client’s submission of enrollment files and updates that satisfy the requirements of this Agreement.
+ 
+ARTICLE 6. PROGRAM AND PHARMACY NETWORK MANAGEMENT
+ 
+6.01           Claims Processing.  Paramount Rx agrees to receive and process from Participating Pharmacies contractual claims (in National Council of Prescription Drug Program required electronic format) for pricing of Prescription Drugs dispensed at those pharmacies to Members.  Paramount Rx will provide all personnel, equipment and facilities necessary to perform the claims processing operations for all claims submitted under this agreement.  Paramount Rx shall have no duty or obligation to process claims received directly from Members.  Paramount Rx shall accurately calculate the Transaction Fee and all other fees when a claim is adjudicated and add the sum of all those fees to the price returned to the Participating Pharmacy. When the total price (including those fees) is less than the Participating Pharmacy’s Usual and Customary Price the card holder will pay the calculated discount price and the Client will receive the Transaction Fee as defined in Exhibit B. Paramount Rx will make its best efforts to calculate the discounted price and fees accurately and compare to the Usual and Customary Price correctly.
+ 
+6.02           Participating Pharmacy Listings.  Paramount Rx agrees to maintain complete, current and accurate listings of Participating Pharmacies.  Paramount Rx will deliver a full Participating Pharmacy list to the Client in a machine readable format, on a monthly basis, via automated export and FTP transfer.  The Participating Pharmacy list will include but not be limited to the following fields of data: NPI, NCPDP, Name, Address 1, Address 2, City, State, Zip Code, Retail Phone Number, Chain Identifier, Chain Name Delivery Service Flag, Drive Up Flag, Twenty Four Hour Flag, and Hours as provided by NCPDP and in accordance with our licensing agreement.  Failure of Paramount Rx to maintain pharmacy provider agreements with all of the major pharmacy chains in the U.S. and Puerto Rico shall be a breach of this agreement entitling client to terminate the agreement.
+ 
+6.03           Website.  Paramount Rx agrees to maintain Prescription Drug pricing and a Participating Pharmacy locator on Paramount Rx’s website and reserves the right, in Paramount Rx’s sole discretion, to modify that website and the information on that website from time to time.  Paramount grants to Client a non-exclusive right to establish a link to Paramount Rx’s website and to post on Client’s website information related to Paramount Rx, solely for the purposes of allowing Members to access the Prescription Drug pricing listed on the website, to locate Participating Pharmacies and to access Paramount Rx’s services.  Client agrees to incorporate the link (i.e., the graphical image file) provided by Paramount Rx into the HTML files located at Client’s website for the duration of this Agreement.  Client further agrees that all information on, and modifications to, Client’s website related to Paramount Rx or its website shall be subject to its prior written approval, which shall not be unreasonably withheld.  Client further agrees to remove that link and all information related to Paramount Rx contemporaneously with the expiration or termination of this Agreement.
+
+3
+
+6.04           Reports.  Paramount Rx agrees to provide to Client, within thirty (30) days of the end of each calendar month, a report of all claims received during the month for which the report is prepared.  Paramount Rx agrees to provide to Client, within thirty (30) days of the end of each calendar month, a utilization summary report of all claims received during the month for which the report is prepared.  A right to audit is granted to client as set forth in subsequent paragraphs herein.
+
+6.05           Claim Export.  Paramount Rx agrees to provide to Client, at its sole cost and expense, full claim files, in a machine readable format on a daily basis, via automated export and FTP transfer.  Providing the following claim data is available to Paramount Rx from the adjudication system the claim file will include but not be limited to the following fields of data: Unique Claim Identifier, Claim Sequence Number, Claim Status Code (Paid, Reversed, Reversal), Date Submitted, Date Filled, Group Identifier, Member Identifier, Prescription Number, Drug NDC11, Drug GPI, Drug Label Name,  Brand / Generic Indicator, Single / Multiple Source Indicator, Metric Decimal Quantity, Days Supply, Price List Used (AWP, MAC, U&C), Pharmacy Usual and Customary Price, Pharmacy Submitted Amount, Pharmacy Paid Amount, AWP Unit Cost, AWP Total Cost, Discounted Ingredient Cost, Pharmacy Dispensing Fee, Tax Amount, Total Cost, Member Copay Amount, Pharmacy Identifier (NCPDP or NPI), Cycle Identifier, Date Prescription Written, Person Code, Relationship Code, Member First Name, Member Last Name, Member Gender, Member Birth Date,  New/Refill Code, DAW Code, COB Code, Pharmacy Name, Pharmacy Address 1, Pharmacy Address 2, Pharmacy City, Pharmacy State, Pharmacy Zip Code, Pharmacy Chain Identifier, Pharmacy Chain Name, Prescriber Identifier (NPI or DEA), Prescriber Name, BIN, and PCN.
+
+6.06           Group Load Confirmation.  Paramount Rx agrees to provide to Client, at its sole cost and expense, full group load confirmation/exception reports within 24 hours after group load implementation.
+
+6.07           Eligibility Load Confirmation.  Paramount Rx agrees to provide to Client, at its sole cost and expense, full eligibility load confirmation/exception reports within 24 hours after eligibility load implementation.
+
+4
+
+6.08           Drug Search Web Service.  Paramount Rx agrees to provide to Client, at its sole cost and expense, a real-time server based drug lookup, returning XML or another machine readable format upon request from the Client’s server.  This web service will have functionality comparable to the Filtered Partial Product Name Search Web Service provided by SXC.  SXC defines this web service as follows: The Filtered Partial Product Name Search web service accepts a partial drug name-extension and searches for distinct combinations of name-extension, GPI-10, unit dose/unit use, OTC indicator, route of administration, dosage form, maintenance indicator, third party exception indicator, and active indicator.
+
+6.09           Pricing Web Service.  Paramount Rx agrees to provide to Client, at its sole cost and expense, a real-time server based drug price lookup, returning XML or another machine readable format upon request from the Client’s server.  This web service will have functionality comparable to the User Trial Adjudication Web Service provided by SXC.  SXC defines this web service as follows: The User Trial Adjudication web service allows you to submit a transaction to trial adjudication using client logical security. The input supplies the web service with the drug, pharmacy, and member information, which then returns a copayment quote based on the submitted information.
+
+6.10           Generic Web Service.  Paramount Rx agrees to provide to Client, at its sole cost and expense, a real-time server based generic lookup, returning XML or another machine readable format upon request from the Client’s server.  This web service will have functionality comparable to the Filtered GPI-10 Product Search Web Service provided by SXC.  SXC defines this web service as follows: The Filtered GPI-10 Product Search web service accepts a GPI-10 and provides a distinct combination of name extension, GPI-10, unit dose/unit use, OTC indicator, rank, route of administration, dosage form, maintenance indicator, label, repackager code, third party exception indicator, active indicator, strength, strength unit of measure, dosage form, and brand/generic indicator.
+
+6.11            Pharmacy Web Service.  Paramount Rx agrees to provide to Client, at its sole cost and expense, a real-time server based pharmacy lookup, returning XML or another machine readable format upon request from the Client’s server.  This web service will have functionality comparable to the Get Pharmacy Web Service provided by SXC.  SXC defines this web service as follows: The Get Pharmacy web service supports both address and zip code search criteria. The result is a listing of pharmacies within a certain distance of the center of the zip code provided (or determined from the address).  An additional feature of this web service is that it returns both the NCPDP and NPI ID's.
+
+6.12           Drug Details Web Service.  Paramount Rx agrees to provide to Client, at its sole cost and expense, a real-time server based pharmacy lookup, returning XML or another machine readable format upon request from the Client’s server.  web service will have functionality comparable to the Filtered GPI-14 Product Search Web Service provided by SXC.  SXC defines this web service as follows: The Filtered GPI-14 Product Search web service accepts a GPI-14 and provides a distinct combination of name extension, GPI-14, unit dose/unit use, OTC indicator, rank, route of administration, dosage form, maintenance indicator, label, repackager code, third party exception indicator, active indicator, strength, strength unit of measure, dosage form, and brand/generic indicator.
+
+5
+
+6.13           Security.  Paramount Rx agrees to provide physical and electronic security for all data related to the Client programs and card holders.  Paramount Rx will ensure that this data is only accessed by Paramount Rx employees required to complete the responsibilities of Paramount Rx under this agreement.  Paramount Rx certifies that all Paramount Rx employees and delegates have signed a non-disclosure and confidentiality agreement protecting the data.
+
+6.14           Maintenance of Group Files.  Subject to Client’s written request, Paramount Rx shall establish and maintain group files related to Client’s programs.  Maintenance of group files (additions, deletions and updates) will be performed within three (3) business days of Paramount Rx’s receipt of Client’s submission of group files.
+
+6.15           Network Compliance.  Paramount Rx, at its sole cost and expense, will ensure to the best of its ability that all participating pharmacies accept the discount prescription card using Client provided BIN numbers.  This will include pharmacy payer sheet announcements to pharmacies.
+
+6.16           Drug Price Access.  Paramount Rx will maintain, at its sole cost and expense, access to First Data Bank or MediSpan price file subscription that is updated no less than monthly.  This price data will be utilized in the daily adjudication of the medications as well as in the data services above.
+
+6.17           MAC Price Maintenance.  Paramount Rx will maintain, at its sole cost and expense, an industry competitive MAC price file. The MAC price file will perform as defined in Exhibit B.  This MAC price file will be utilized in the daily adjudication of the medications as well as in the data services.  The MAC pricing will apply to over 90% of generics, as defined by First Data Bank or MediSpan, excluding single source generics.
+
+6.18           Group Setup.  Paramount Rx will provide three types of group program setups.  1) Static ID number program – one Member Identifier printed on multiple cards that can be used by anyone with different names and birth dates.  2) On-the-fly registration – Member Identifier may not exist in the system at the time of processing, Member Identifier and member demographics are captured as submitted by the pharmacy.  3) Positive eligibility – Client loads a full eligibility file which lists Member Identifiers and demographics for the specified group.
+
+6.19           DMPO Compliance.  Both Parties agree they will, at its sole cost and expense, maintain Discount Medical Plan Organization registration or licensing as required by each state Law.
+
+6
+
+6.20
+Cardholder Benefits.  All Prescription Drugs are covered.  There are no quantity dispensing limits.  There are no “refill to soon limits”.  When possible and particularly with eligibility based groups, each Prescription will be subject to DUR based on the prescription utilization history.
+
+6.21
+Real Time access.   Paramount Rx agrees to provide to Client, at its sole cost and expense, access to a read only real time adjudication system for the resolution of member call inquiries.  This access will include but not be limited to viewing the claim details in the system and viewing the groups loaded in the system.  Write access will be granted for maintaining eligibility when needed.
+
+6.22
+Web Service Access.  Paramount will absorb all web service costs up to an including 75% of the previous months paid claim total for writes to the database and 225% of the previous months paid claim total for reads to the database.  Anything above these levels will be billed at .045 per write and .03 per read.  This will not apply for technology provided directly by Paramount Rx, and only apply to web services directly provided by SXC. Example:  100,000 paid claims would result in 75,000 free writes and 225,000 free reads.  All MAC generic pricing, currently between 70-80% of all utilization, will be priced using a Paramount Rx internal pricing service.
+
+6.23
+MAC Generic Pricing Web Service.  Paramount Rx agrees to provide to Client, at its sole cost and expense, a real-time server based drug price lookup, returning XML or another machine readable format upon request from the Client’s server.  The input supplies the web service with the generic drug (GPI-14), pharmacy (NCPDP), and quantity, which then returns a copayment quote based on the submitted information.
+
+ARTICLE 7. PAYMENT
+ 
+7.01           Paramount Rx agrees to pay Client a Transaction Fee as described in Exhibit B for all collected Program Claims on a twice monthly basis. Paramount Rx shall have no duty or obligation whatsoever (whether in contract, tort, equity or otherwise) to pay Client Transaction Fees on Program Claims that are not received from Participating Pharmacies.  Paramount Rx agrees to produce and deliver to Client a twice monthly machine readable transaction summary correlating back to the claims file via automated export and FTP transfer.
+ 
+ 
+ARTICLE 8. TERM AND TERMINATION
+ 
+8.01           Initial Term and Renewal Terms.  The initial term of this Agreement shall be for a period of one year (2) years, commencing on the Effective Date and shall automatically renew for additional terms of one (1) year each, unless either party provides not less than sixty (60) days’ prior written notice of its decision not to terminate this Agreement.  In the event of a breach, termination can be effectuated in 30 days as set forth below.
+
+7
+
+8.02           Termination for Breach.  If either party commits a material breach of any provision of this Agreement, the other party shall have the right to notify the breaching party in writing of the alleged breach.  The breaching party shall have thirty (30) days in which to cure such breach.  If the alleged breach is not cured within that time period, the other party shall have the right to terminate on the 30th day.   Notice of breach via email is acceptable.
+ 
+8.03           Effect of Termination.  A party’s right to terminate this Agreement shall not be exclusive of any other remedies available to that party under this Agreement, at law or in equity.  In the event of a termination Client shall be paid all transaction fees due it upon collection by Paramount Rx.
+ 
+8.04           Notice to Other Persons of Termination.  This Agreement may be terminated without the consent of, or notice to, any Member, any Participating Pharmacy or other person.  Paramount Rx shall have the right to advise Participating Pharmacies and Members of a pending or actual termination of this Agreement, only upon request.
+ 
+ARTICLE 9. NON-SOLICITATION
+ 
+The parties have agreed that this agreement shall be exclusive for the first two years. The client shall process all non funded discount transactions through Paramount Rx . During this exclusive term, the client shall not have a network pharmacy sign a contract to effectively replace Paramount Rx’s services under this agreement.  It is understood that the exclusivity clause herein shall terminate in the event of a material breach by Paramount that is not properly cured.
+ 
+ARTICLE 10. CONFIDENTIALITY AND OWNERSHIP OF INFORMATION
+ 
+10.01        Confidential Information.  No party shall disclose or use any of the other party’s Confidential Information, except as expressly allowed in this Agreement.  “Confidential Information” means, with respect to Paramount Rx, all confidential, proprietary or trade secret information related to its business plans; accounting procedures and records; operations and strategies; software, reporting packages, user documentation and related information; agreements with Participating Pharmacies, pharmaceutical manufacturers, vendors and other persons and information related to any of the foregoing; the Participating Pharmacy network or networks; data and information owned or licensed by Paramount Rx; and the terms and conditions of this Agreement. “Confidential Information” means, with respect to Customer, all confidential, proprietary or trade secret information related to its business plans, operations and strategies.  “Confidential Information” excludes, (a) information that becomes publicly available through no fault of the receiving party or its representatives, (b) information that is necessary or appropriate in making any filing or obtaining any consent or approval related to the transactions contemplated by the parties, or (c) information that is required by, or is necessary or appropriate to be disclosed in connection with, a court or administrative order or legal proceeding, or is required to be disclosed by Law.  Upon expiration or termination of this Agreement, the receiving party shall promptly return to the disclosing party or destroy all Confidential Information in its possession and shall certify to the disclosing party that it has done so.  Each party shall be responsible and liable for the breach of this provision by its agents, employees, representatives and subcontractors.  Notwithstanding anything else to the contrary in this Agreement, Paramount Rx shall have the right to disclose the Program terms and conditions to Participating Pharmacies, manufacturers, Members and their representatives and to identify Client as a customer of Paramount Rx, as needed to provide services to the Client.
+
+8
+
+ 
+10.02        Trademarks and Service Marks.  Both parties retain all rights, title, and interest in and reserve the right to control the use of their respective names, logos, symbols, trademarks or service marks presently existing or hereafter established.  Notwithstanding the foregoing, Client shall have the right to list Paramount Rx and use its trade name and marks in Member, promotional and other materials approved in advance and in writing by Paramount Rx, and Paramount Rx shall have the right to use Client’s logo, marks, name, address and Program information in materials distributed to Participating Pharmacies and pharmaceutical manufacturers and prospective and current Members in connection with the services provided by Paramount Rx under this Agreement, only with the express written permission from Client.
+ 
+10.03        Survival.  This Article shall survive the expiration or termination of this Agreement for any reason whatsoever.
+ 
+ARTICLE 11. BOOKS AND RECORDS; MEMBER INFORMATION
+ 
+11.01        Maintenance of Records; Audits.  Paramount Rx shall maintain true and complete records related to all Program Claims and Transaction Fees paid to Client.  Client shall have the right, at its own expense, to audit those records up to one (1) year immediately following the close of each calendar year, in which the transactions underlying those Program Claims and Transaction Fees arise.  Upon not less than fifteen (15) business days’ prior written notice, Paramount Rx shall make such records available electronically via FTP and physically at its principal place of business, for inspection by Client during normal business hours.  Client may designate an accounting firm of its choice to conduct such audit on its behalf so long as that firm has not provided, and does not provide, accounting or other services to Paramount Rx or any of its competitors.  Client and its designee shall enter into a confidentiality agreement, reasonably acceptable to the parties and Client’s auditor, to maintain the confidentiality of, (a) all information to which Client or its designee will have access during the course of the audit, (b) the fact that Client or its auditor audited Paramount Rx, and (c) the audit results.
+ 
+11.02        Confidentiality and Security of PHI.  Client and Paramount Rx shall maintain the confidentiality and security of PHI in accordance with HIPAA regulations, applicable Law, and any other industry standard.  Client acknowledges and agrees that PHI will be obtained by Paramount Rx in providing services in connection with this Agreement (e.g., through processing of Prescription Drug claims) and such PHI may be obtained from and/or distributed to Client, Participating Pharmacies, manufacturers, Members and their physicians for purposes related to the Program services provided by Paramount Rx.  Client hereby permits Paramount Rx and its designee to use such data in connection with its obligations under this Agreement.
+ 
+ 
+ 
+
+ 
+9
+
+ 
+ 
+ARTICLE 12. LIMITATION OF LIABILITY; INDEMNIFICATION
+ 
+12.01        DISCLAIMER.  THE SERVICES PROVIDED BY PARAMOUNT RX ARE NOT INTENDED TO SUBSTITUTE FOR OR SUPPLEMENT THE KNOWLEDGE, EXPERTISE, SKILL, AND JUDGMENT OF PHYSICIANS, PHARMACISTS, PRACTITIONERS OR OTHER HEALTH CARE PROFESSIONALS IN PRESCRIBING, DISPENSING OR SUGGESTING PRESCRIPTION DRUGS OR OTHER PRODUCTS.  THE ABSENCE OF A WARNING FOR A GIVEN DRUG, DRUG DOSAGE, OR DRUG COMBINATION SHALL NOT BE CONSTRUED TO INDICATE THAT THE DRUG, DRUG DOSAGE, OR DRUG COMBINATION IS SAFE, APPROPRIATE, OR EFFECTIVE FOR ANY PERSON.
+ 
+12.02        No Liability for Certain Damages.  Neither party shall be liable to the other, or its associates, agents, brokers, consultants, designees or representatives for any indirect, special, consequential, exemplary, punitive or liquidated damages or for any damages for lost profits related to a relationship with another person, however caused or arising, whether or not the party has been informed of the possibility of their occurrence.  Liability of either party to the other in the event of any material breach of this Agreement shall be limited to recovery of the loss of any revenues occasioned by any such breach.
+ 
+12.03        Limitation of Liability for Acts of Others.  Paramount Rx shall under no circumstances be liable for any negligence, wrongful act, error or omission of any health care provider, physician, practitioner, pharmacy, pharmacist or pharmaceutical manufacturer, wholesaler or distributor.  Nor shall Paramount Rx have any liability or obligation whatsoever (whether in contract, tort, equity or otherwise) for any actions, claims, damages, losses or expenses including attorneys’ fees and costs, sustained by any person, as a result of the providing or the failure to provide prescription drugs or pharmacy services or in connection with the advertising, sale or marketing of the Program.
+ 
+12.04         Indemnification.  Subject to the remaining provisions of this Agreement, Paramount Rx agrees to indemnify, defend and hold Client harmless from any and all actions, claims, damages, losses and expenses, including attorneys’ fees and costs (together, “Losses”) arising from a material breach by Paramount Rx of this Agreement or a material inaccuracy of its representations and warranties in this Agreement.  Client agrees to indemnify, defend and hold Paramount Rx harmless from any and all Losses arising from, (a) a material breach by Client of this Agreement, (b) a material inaccuracy of its representations and warranties in this Agreement, and (c) any act or omission of Client in connection with the advertising, sale or marketing of the Program.
+ 
+12.05        Survival.  This Article shall survive the expiration or termination of this Agreement for any reason whatsoever.
+ 
+ 
+ 
+ 
+
+ 
+10
+
+ 
+ 
+ 
+ARTICLE 13. ARBITRATION
+ 
+Any and all controversies related to this Agreement, whether based in tort or contract or statutory or common law, shall be exclusively settled by arbitration in accordance with the Federal Arbitration Act, except when either party seeks injunctive relief, specific performance or other equitable relief pursuant to Section 15.05 (Injunctive Relief).  All fees and expenses of the arbitration shall be borne by the parties equally.  However, each party shall bear the expense of its own counsel, experts, witnesses and preparation and presentation of proofs.  The arbitration hearing shall be held in a neutral location mutually agreed to by the parties.  The arbitrator shall be mutually agreed upon by the parties and selected from a panel of persons having experience with and knowledge of pharmaceutical discount card industry issues, unless such qualification is waived in writing by both parties.  The arbitrator has the discretion to award legal fees to either party. The award of the arbitrator shall be final and binding on the parties, and judgment upon such award may be entered in any court having jurisdiction thereof.  This Article shall survive the expiration or termination of this Agreement for any reason whatsoever.
+ 
+ARTICLE 14. COMPLIANCE WITH LAW
+ 
+The parties agree to comply with all Law applicable to the services provided by Paramount Rx in connection with this Agreement, and the parties further agree to enter into such other amendments and agreements as are reasonably necessary to comply with applicable Law.  Without limiting the foregoing, Client further agrees to comply with all Laws applicable to the Program and represents and warrants that Client has, and shall continue to maintain, all approvals, permits, licenses and registrations required for the advertising, sale, marketing and operation of the Program.
+ 
+ARTICLE 15. GENERAL PROVISIONS
+ 
+15.01        Other Providers.  Client agrees that Paramount Rx shall be the exclusive provider of Program services for all Clients’ Members.  Paramount Rx may perform similar services for other organizations, and this Agreement is not intended, and shall not be construed, to prevent Paramount Rx from performing such similar services
+ 
+15.02         Independent Contractors.  The parties are independent contractors of each other.  Neither party, nor any of its employees or contractors or designees, is intended or shall be construed to be the agent, employee, fiduciary or representative of the other party.
+ 
+15.03        No Third Party Beneficiaries.  This Agreement is not intended, and shall not be construed, to create third party beneficiary rights in any person, including, but not limited to, any Member or Participating Pharmacy.
+ 
+15.04        Delegation of Services.  Paramount Rx shall have the right to delegate to other persons contracted to Paramount Rx certain administrative functions and services including, but not limited to, claims processing services.  Paramount Rx shall retain full responsibility for the performance of the delegated service.
+
+11
+
+15.05         Injunctive Relief.  Each party acknowledges that any breach or threatened breach of the agreement may result in substantial, continuing and irreparable injury to the other party.  Therefore, each party agrees that, in addition to any other available remedy, the other party shall be entitled to injunctive relief, specific performance or other equitable relief in the event of any breach or threatened breach of one or more of those Articles without the necessity of proving irreparable harm or injury as a result of such breach or threatened breach.
+ 
+15.06        Entire Agreement.  This Agreement, together with its exhibits and attachments, constitutes the entire agreement between the parties and supersedes any prior understanding or representation of any kind.
+ 
+15.07        Severability.   If any provision of this Agreement is held invalid or unenforceable by a court of competent jurisdiction, the other provisions of this Agreement shall remain in full force and effect.  Any provision of this Agreement held invalid or unenforceable only in part or degree shall remain in full force and effect to the extent not held invalid or unenforceable, and the parties authorize and request the court to revise any invalid, unenforceable or unreasonable provision in a manner that results in the provision being enforceable while remaining as similar as legally possible to the purpose and intent of the original.
+ 
+15.08        Amendment.  Any amendment or modification to this Agreement shall be binding only if evidenced in a writing signed by each party or an authorized representative of each party.
+ 
+15.09        Waiver.  No failure or delay by a party to exercise any right under this Agreement shall operate as a waiver of that right, nor shall any single or partial exercise of any such right preclude any other or further exercise thereof, or the exercise of any other right.  The waiver of any breach of any provision of this Agreement shall not be deemed or construed as a waiver of any other breach of the same or different provision.
+ 
+15.10        Governing Law and Choice of Forum.  The laws of the State of New Jersey, shall govern this Agreement and all related controversies, whether based in tort or contract or statutory or common law.  Subject to Article 13 (Arbitration), any and all claims or controversies related to this Agreement shall be brought in New Jersey.  Each party consents to the jurisdiction of such courts (and the appropriate appellate courts) and waives all objections to such courts based upon venue, forum non conveniens, personal jurisdiction or similar grounds.  This provision shall survive the expiration or termination of this Agreement for any reason whatsoever.
+ 
+15.11        Force Majeure.  Neither party shall be liable in any manner for any delay in performance of its obligations under this Agreement beyond the party’s reasonable control, including, but not limited to, any delay or failure due to strikes, labor disputes, riots, earthquakes, storms, floods, or other extreme weather conditions, fires, explosions, acts of God, embargoes, terrorist acts, war or other outbreak of hostilities, government acts or regulations, or the failure or inability of carriers, suppliers, delivery services or communication providers to provide services necessary to enable a party to perform its obligations hereunder.
+
+12
+
+15.12        Authority to Enter Agreement.  Each party warrants and represents that it has full power and authority to execute this Agreement and understands the provisions of this Agreement.  Each party represents and acknowledges that it has read this Agreement and understands the Agreement and has entered into this Agreement voluntarily.
+ 
+ 
+IN WITNESS WHEREOF, the parties have signed this Prescription Drug Discount Card Agreement.
+ 
+Client:
+ 
+Paramount Rx Inc.
+ 
+ 
+ 
+By: _______________________
+Name:_____________________
+Title:______________________
+ 
+By:________________________
+Name:_____________________
+Title:______________________
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+13
+
+Exhibit A to Prescription Drug Discount Card Agreement
+ 
+ 
+Definitions
+ 
+The following terms shall have the meanings given them in the attached Prescription Drug Discount Card Agreement.
+ 
+“Client” means the corporation, limited liability company, limited or general partnership, other legal entity and any other controlled or affiliated service groups operating bin number 013824,  and any other bin numbers utilized by client during the term of this agreement, that is identified in the introductory paragraph of this Agreement.
+ 
+“Confidential Information” shall have the meaning given in Section 10.01 (Confidential Information).
+ 
+“Law” means the combination of federal, state, local and tribal statutes, ordinances, regulations and guidance, and administrative and judicial interpretations thereof.
+ 
+"Member" means each individual identified by Client to Paramount Rx, in accordance with this Agreement, as enrolled in the Program.
+ 
+“MAC” means the maximum allowable cost limit for generic prescription drugs.  The designation of a product as generic and/or subject to MAC is determined by an industry standard database such as First Data Bank or MediSpan.
+ 
+"Participating Pharmacy" means each pharmacy that enters into an agreement, directly or indirectly, with Paramount Rx to provide pharmacy services to individuals, including, but not limited to, Client’s Members.
+ 
+“PHI” means individually identifiable health information related to the past, present, or future physical or mental health or condition of a Member; the provision of pharmacy services or other health care to a Member; or the past, present or future payment for the provision of pharmacy services or other health care to a Member, as protected under Law.
+ 
+“Prescription Drug” means a federal or state, restricted drug or bulk medicinal substance that by federal or state Law cannot be dispensed without a prescription.  A Prescription Drug may include a compound prescription drug containing at least one drug which by Law cannot be dispensed without a prescription.
+ 
+“Program” means the prescription drug discount card program provided by Client, directly or indirectly, to its Members.
+ 
+"Program Claim" means each claim for pricing transmitted by a Participating Pharmacy to Paramount Rx related to a Prescription Drug dispensed to a Member using Client’s identification card, when the Prescription Drug purchase price inclusive of the Transaction Fee and all other fees and charges at the point of sale to the Member is less than the Usual and Customary Price and for which Paramount Rx is to provide the services described in this Agreement.
+ 
+
+ 
+14
+
+ 
+“Transaction Fee” means the fee paid to Client on each collected Program Claim.
+ 
+"Usual and Customary Price" means the price for a Prescription Drug a Participating Pharmacy would charge to an individual who does not hold an identification card and does not participate in any plan or program that provides coverage for drugs or drug products.
+ 
+“AWP” means the Average Wholesale Price for a pharmaceutical product as provided in First Data Bank or MediSpan and updated no less than monthly.
+ 
+“DUR” means concurrent Drug Utilization Review.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+15
+
+ 
+Exhibit B to Prescription Drug Discount Card Agreement
+ 
+Fees and Charges
+ 
+1.           All implementation and setup fees have been waived.
+ 
+
+2.           All programming provided by Paramount Rx in connection with Client’s Program shall be mutually agreed to, in writing, by both parties prior to commencement of any project or work.  Client agrees to pay Paramount Rx for all such programming at the following rate:
+
+Programming Rate: No charge
+
+3.           Paramount Rx agrees to pay Client the Transaction Fee described below, solely from monies received by Paramount Rx from Participating Pharmacies in connection with Program Claims.  Transaction fees will be paid at the rate according to the schedule below, regardless of claim volume the first 100,000 paid program claims are paid at $2.50.
+
+
+0 – 100,000 paid program claims
+$2.50 per Program Claim
+100,001 and above paid program claims
+$2.85 per Program Claim
+ 
+4.           Client acknowledges and agrees that Paramount Rx shall have the right to collect and to retain for its own account, (a) fees and charges (other than the Transaction Fee) from each Participating Pharmacy.  Paramount Rx will operate in a transparent manner and disclose all fees and charges to Client upon request.
+ 
+             All discounts, rebates, financial incentives and other compensation in connection with this Agreement shall be divided 70% to client, 30% to Paramount after any rebate administration fees.  Paramount shall collect all such rebates/discounts and tender the above percentage to client.
+
+
+5.
+Paramount Rx shall perform at or better than the rates listed below for all claims processed:
+ 
+Brand Drugs: AWP-10
+ 
+Generic Drugs (MAC and non-MAC): AWP-55 (blended average)
+ 
+Paramount Rx will maintain an industry standard U&C rate
+
+
+16
+

@@ -1,5 +1,5 @@
-﻿The Company
-This agreement governs the partnership between the Founders, doing business as [[COMPANY NAME]] (the “Company”). The Company will continue perpetually, unless dissolved in accordance with this agreement. The Founders will cause the Company to register its fictitious name in the jurisdiction where it conducts its business, as soon as reasonably practicable after the date hereof. The Company’s principal office address will be set by a majority of Founders, and initially is: [[ADDRESS]].
+﻿Founders Agreement
+The Company This agreement governs the partnership between the Founders, doing business as [[COMPANY NAME]] (the “Company”). The Company will continue perpetually, unless dissolved in accordance with this agreement. The Founders will cause the Company to register its fictitious name in the jurisdiction where it conducts its business, as soon as reasonably practicable after the date hereof. The Company’s principal office address will be set by a majority of Founders, and initially is: [[ADDRESS]].
 The Founders
 The following individuals are hereby admitted as partners in the Company (“Founders”)
 [[FOUNDER ONE]]

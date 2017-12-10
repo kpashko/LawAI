@@ -1,0 +1,178 @@
+﻿LOAN FACILITY AGREEMENT
+
+Exhibit 10.4 FIRST AMENDMENT TO TERM LOAN FACILITY AGREEMENT
+ 
+FIRST AMENDMENT, dated as of December 28, 2009 (this “Amendment”) to the Term Loan Facility Agreement, dated as of February 25, 2009 (as further amended, supplemented or otherwise modified through the date hereof, the “Term Loan Facility Agreement”), between The Talbots, Inc., a Delaware corporation (the “Borrower”) and Aeon (U.S.A.), Inc., a Delaware corporation (the “Lender”).
+ 
+WITNESSETH
+ 
+WHEREAS, the parties hereto are parties to the Term Loan Facility Agreement and wish to amend the Term Loan Facility Agreement;
+ 
+NOW, THEREFORE, in consideration of the premises and the covenants and agreements contained herein, the parties hereto agree as follows:
+ 
+1.       	   Defined Terms. Unless otherwise defined herein, capitalized terms defined in the Term Loan Facility Agreement shall have such defined meanings when used herein.
+ 
+2.    	      Amendment to Section 1 of the Term Loan Facility Agreement.  Section 1 of the Term Loan Facility Agreement is hereby amended by:
+ 
+ 
+a.
+deleting in its entirety the definition of “Maturity Date” and inserting in lieu thereof the following new definition:
+ 
+“Maturity Date” shall mean the earliest of (i) August 31, 2009, or, if such day is not a Business Day, the next succeeding Business Day; provided, that , the Borrower shall be permitted, in its sole discretion, to extend such date for successive six-month periods upon prior written notice to the Lender no later than five Business Days prior to the last day of such six-month period; provided , further, that, in no event shall the Maturity Date extend past February 27, 2012, (ii) the date of the consummation of a Qualified Transaction and (iii) such earlier date on which the Term Loan become due and payable (whether at stated maturity, by mandatory prepayment, by acceleration or otherwise) in accordance with the terms hereof.
+ 
+ 
+b.
+(i) deleting the phrase “; and” set forth in clause (f) of the definition of “Permitted Indebtedness”, (ii) deleting the period at the end of clause (g) of such definition and inserting in lieu thereof the phrase “; and” and (iii) inserting the following new clause (h) immediately after clause (g) of such definition:
+ 
+“(h)           Indebtedness under the Secured Revolving Loan Agreement in a principal amount not to exceed $250,000,000 and guaranties of such Indebtedness.”
+ 
+ 
+c.
+(i) deleting the period at the end of clause (g) of the definition of “Permitted Liens” and inserting a semicolon in lieu thereof, (ii) deleting the period at the end of clause (h) of such definition and inserting in lieu thereof the phrase “; and” and (iii) inserting the following new clause (i) immediately after clause (h) of such definition:
+ 
+“(i)           Liens securing the obligations under the Secured Revolving Loan Agreement and any guaranties of such obligations.”
+ 
+ 
+d.
+Adding the following new definitions in the appropriate alphabetical order in such Section 1:
+ 
+“Aeon Agreement” shall mean the Repurchase, Repayment and Support Agreement, dated as of December 8, 2009, by and between the Borrower, BPW Acquisition Corp., a Delaware corporation, Aeon (U.S.A.), Inc., a Delaware corporation, and the Lender, as amended, supplemented or otherwise modified from time to time.
+ 
+
+
+1
+
+ 
+
+ 
+ 
+
+“Qualified Transaction” shall collectively refer to (i) the merger of BPW Acquisition Corp. with and into Talbots Acquisition, Inc. pursuant to the terms and conditions of the BPW Merger Agreement and (ii) the Stock Repurchase and Debt Repayment (as such terms are defined in, and contemplated by, the Aeon Agreement); provided, such transactions, together with any concurrent financing, will result in sufficient net cash proceeds to the Borrower to enable the Borrower to repay, in full, all of its then outstanding obligations under the Secured Revolving Loan Agreement and all then outstanding Indebtedness described in Schedule 4.17 thereto upon the closing of such transactions.
+ 
+“Secured Revolving Loan Agreement” means the Amended and Restated Secured Revolving Loan Agreement, dated as of December 28, 2009 (as amended, supplemented or otherwise modified from time to time), between the Borrower and the Lender.
+ 
+“Secured Revolving Loan Agreement” means the Amended and Restated Secured Revolving Loan Agreement, dated as of December 28, 2009 (as amended, supplemented or otherwise modified from time to time), between the Borrower and the Lender.
+ 
+3.   	      Amendment to Section 4.1 of the Term Loan Facility Agreement.  Section 4.1(aa) of the Term Loan Facility Agreement is hereby amended by deleting the phrase “and (iii)” set forth therein and inserting in lieu thereof the phrase “, (iii) the Secured Revolving Loan Agreement and the Term Loan Agreement, dated as of July 16, 2008, between the Borrower and the Lender and (iv)”.
+ 
+4. 	        Amendment to Section 8 of the Term Loan Facility Agreement.  Section 8 of the Term Loan Facility Agreement is hereby amended by inserting the following new Section 8.13 immediately after Section 8.12:
+ 
+“8.13           Confidentiality.  The Lender agrees to maintain the confidentiality of the Information (as defined below), except that Information may be disclosed (a) to its Affiliates and to its and its Affiliates’ respective directors, officers, employees, agents, advisors and representatives, in each case, who have a need to know as a result of their being involved in the execution or performance of this agreement and the transactions contemplated hereby (it being understood that the Persons to whom such disclosure is made will be informed of the confidential nature of such Information and instructed to keep such Information confidential), (b) to the extent requested by any regulatory authority purporting to have jurisdiction over it, (c) to the extent required by applicable laws or regulations or by any subpoena or similar legal process, (d) to any other party to a Loan Document, (e) in connection with the exercise of any remedies hereunder or under any other Loan Document or any action or proceeding relating to this Credit Agreement or any other Loan Document or the enforcement of rights hereunder or thereunder, (f) subject to an agreement containing provisions substantially the same as those of this Section 8.13, to any Assignee of or participant in, or any prospective Assignee of or participant in, any of its rights or obligations under this Credit Agreement or any pledgee referred to in Section 8.3, (g) with the consent of the Borrower or (h) to the extent such Information becomes publicly available other than as a result of a breach of this Section or becomes available to the Lender or any of its Affiliates on a non-confidential basis from a source other than the Borrower.  For purposes of this Section 8.13, “Information” means all information received from the Borrower relating to the Borrower or any Subsidiary or their respective businesses, other than any such information that is available to the Lender on a non-confidential basis prior to disclosure by the Borrower or any Subsidiary.  Any Person required to maintain the confidentiality of Information as provided in this Section shall be considered to have complied with its obligation to do so if such Person has exercised the same degree of care to maintain the confidentiality of such Information as such Person would accord to its own confidential information.
+ 
+
+
+2
+
+ 
+5.     	    Reaffirmation of Guaranty.
+ 
+ 
+a.
+Each Guarantor hereby acknowledges that it has reviewed the terms and provisions of the Credit Agreement and this Amendment and consents to the amendment of the Credit Agreement effected pursuant to this Amendment.  Each Guarantor hereby confirms that each Loan Document to which it is a party (including, without limitation, the Guaranty) will continue to guarantee the payment and performance of all obligations of the Borrower under the Credit Agreement as amended by this Amendment.
+ 
+ 
+b.
+Each Guarantor acknowledges and agrees that any of the Loan Documents to which it is a party or otherwise bound (including, without limitation, the Guaranty) shall continue in full force and effect and that all of its obligations thereunder shall be valid and enforceable and shall not be impaired or limited by the execution or effectiveness of this Amendment.
+ 
+ 
+c.
+Each Guarantor acknowledges and agrees that nothing in the Credit Agreement, this Amendment or any other Loan Document shall be deemed to require the consent of such Guarantor to this Amendment or any future amendments to the Credit Agreement.
+ 
+6.      	    No other Amendments; Confirmation. On and after the date hereof, each reference in the Credit Agreement to “this Credit Agreement”, “hereunder”, “hereof’, “herein” or words of like import referring to the Credit Agreement, and each reference in the other Loan Documents to the “Credit Agreement”, “thereunder”, “thereof’ or words of like import referring to the Credit Agreement shall mean and be a reference to the Credit Agreement as amended by this Amendment.  Except as expressly set forth herein, the provisions of the Term Loan Facility Agreement are and shall remain in full force and effect.  The execution, delivery and performance of this Amendment shall not constitute a waiver of any provision of, or operate as a waiver of any right, power or remedy of the Lender under the Credit Agreement or any of the other Loan Documents.
+ 
+7.      	    Governing Law. This Amendment shall be governed by, and construed and interpreted in accordance with, the laws of the State of New York.
+ 
+8.        	  Counterparts. This Amendment may be executed by the parties hereto on any number of counterparts, and all of said counterparts taken together shall be deemed to constitute one and the same instrument. This Amendment may be delivered by facsimile or electronic mail transmission of the relevant signature pages hereof.
+ 
+[The rest of this page is intentionally left blank]
+ 
+ 
+ 
+
+
+3
+
+
+ 
+IN WITNESS WHEREOF, the parties have caused this Amendment to be duly executed and delivered by their proper and duly authorized officers as of the day and year first above written.
+ 
+ 
+ 
+ 
+ 
+ 
+THE TALBOTS, INC.
+  
+ 
+ 
+By:  
+/s/ Richard T. O’Connell, Jr.
+ 
+ 
+ 
+Name:  
+Richard T. O’Connell, Jr.
+ 
+ 
+ 
+Title:  
+Secretary
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Signed in:
+ 
+ 
+ 
+ 
+ 
+AEON (U.S.A.), INC.
+ 
+  
+ 
+ 
+By:  
+/s/ Isao Tsuruta
+ 
+ 
+ 
+Name:  
+Isao Tsuruta
+ 
+ 
+ 
+Title:  
+Executive Vice President & GM
+ 
+ 
+ 
+Signed in: New York, NY
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[First Amendment to Term Loan Facility Agreement]
+
+
+
+
+ 
+ 
+ 
+ 
+ 
