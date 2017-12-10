@@ -78,7 +78,7 @@ def TrainClassifiers(data):
 
 def Classify(classes, test):
     maxWeight = -999999.0
-    resultClass = "NO_CLASS"
+    resultClass = []
 
     X, Y = [], []
 
@@ -99,7 +99,10 @@ def Classify(classes, test):
         print(className, classWeight)
         if classWeight > maxWeight:
             maxWeight = classWeight
-            resultClass = className
+            resultClass = []
+            resultClass.append(className)
+        elif classWeight == maxWeight:
+            resultClass.append(className)
     return resultClass
 
 if __name__ == '__main__':
@@ -109,5 +112,6 @@ if __name__ == '__main__':
 
     classes = TrainClassifiers(trainData)
 
-    test1Class = Classify(classes, ReadData(["test1_LOAN_AGREEMENT.txt"]))
-    print('\nResult: ', test1Class)
+    print('\nResult: ', Classify(classes, ReadData(["test1_LOAN_AGREEMENT.txt"])), '\n')
+    print('\nResult: ', Classify(classes, ReadData(["test2_CREDIT_AGREEMENT.txt"])), '\n')
+    print('\nResult: ', Classify(classes, ReadData(["test3_PURCHASE_CONTRACT.txt"])), '\n')

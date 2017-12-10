@@ -1,0 +1,1836 @@
+_TITLE_
+
+among
+
+Vivint Solar Financing II, LLC,
+
+as Borrower,
+
+INVESTEC BANK PLC,
+
+as Administrative Agent,
+
+INVESTEC BANK PLC,
+
+as Issuing Bank,
+
+and
+
+The Lenders From Time to Time Party Hereto
+
+dated as of August 4, 2016
+
+ 
+
+INVESTEC BANK PLC,
+
+ING CAPITAL LLC,
+
+SILICON VALLEY BANK and
+
+SUNTRUST ROBINSON HUMPHREY, INC.,
+
+Joint Bookrunners and Joint Lead Arrangers
+
+BANKUNITED, N.A. and
+
+DEUTSCHE BANK AG, NEW YORK BRANCH
+
+Joint Lead Arrangers
+
+ING CAPITAL LLC
+	
+
+ 
+	
+
+SILICON VALLEY BANK
+
+and
+	
+
+ 
+	
+
+Documentation Agent
+
+SUNTRUST BANK,
+	
+
+ 
+	
+
+ 
+
+Co-Syndication Agents
+	
+
+ 
+	
+
+ 
+
+ 
+
+ 
+
+[***] DESIGNATES PORTIONS OF THIS DOCUMENT THAT HAVE BEEN OMITTED PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT AND FILED SEPARATELY WITH THE COMMISSION.
+
+ 
+
+ 
+
+Table of Contents
+
+ 
+
+ 
+	
+
+Page
+
+ARTICLE I DEFINITIONS AND INCORPORATION BY REFERENCE
+	
+
+2
+
+Section 1.01
+	
+
+Definitions
+	
+
+2
+
+Section 1.02
+	
+
+Rules of Construction
+	
+
+47
+
+Section 1.03
+	
+
+Time of Day
+	
+
+48
+
+Section 1.04
+	
+
+Class of Loan
+	
+
+48
+
+ARTICLE II THE LOANS
+	
+
+48
+
+Section 2.01
+	
+
+The Term Loans
+	
+
+48
+
+Section 2.02
+	
+
+Letters of Credit
+	
+
+49
+
+Section 2.03
+	
+
+Computation of Interest and Fees
+	
+
+56
+
+Section 2.04
+	
+
+Evidence of Debt
+	
+
+56
+
+Section 2.05
+	
+
+Conditions to Permitted Fund Disposition
+	
+
+57
+
+ARTICLE III ALLOCATION OF COLLECTIONS; PAYMENTS TO LENDERS
+	
+
+58
+
+Section 3.01
+	
+
+Payments
+	
+
+58
+
+Section 3.02
+	
+
+Optional Prepayments
+	
+
+59
+
+Section 3.03
+	
+
+Mandatory Principal Payments
+	
+
+59
+
+Section 3.04
+	
+
+Application of Prepayments
+	
+
+62
+
+Section 3.05
+	
+
+Payments of Interest and Principal
+	
+
+62
+
+Section 3.06
+	
+
+Fees
+	
+
+64
+
+Section 3.07
+	
+
+Expenses, etc.
+	
+
+64
+
+Section 3.08
+	
+
+Indemnification
+	
+
+66
+
+Section 3.09
+	
+
+Taxes
+	
+
+69
+
+Section 3.10
+	
+
+Mitigation Obligations; Replacement of Lenders
+	
+
+74
+
+Section 3.11
+	
+
+Change of Circumstances
+	
+
+76
+
+ARTICLE IV REPRESENTATIONS AND WARRANTIES
+	
+
+78
+
+Section 4.01
+	
+
+Organization, Powers, Capitalization, Good Standing, Business
+	
+
+79
+
+Section 4.02
+	
+
+Authorization of Borrowing, etc
+	
+
+79
+
+Section 4.03
+	
+
+Title to Membership Interests
+	
+
+80
+
+Section 4.04
+	
+
+Governmental Authorization; Compliance with Laws
+	
+
+81
+
+Section 4.05
+	
+
+Solvency
+	
+
+82
+
+Section 4.06
+	
+
+Use of Proceeds and Margin Security; Governmental Regulation
+	
+
+82
+
+Section 4.07
+	
+
+Defaults; No Material Adverse Effect
+	
+
+82
+
+Section 4.08
+	
+
+Financial Statements; Books and Records
+	
+
+83
+
+Section 4.09
+	
+
+Indebtedness
+	
+
+83
+
+Section 4.10
+	
+
+Litigation; Adverse Facts
+	
+
+83
+
+Section 4.11
+	
+
+Taxes and Tax Status
+	
+
+83
+
+Section 4.12
+	
+
+Performance of Agreements
+	
+
+84
+
+Section 4.13
+	
+
+Employee Benefit Plans
+	
+
+85
+
+Section 4.14
+	
+
+Insurance
+	
+
+85
+
+Section 4.15
+	
+
+Investments
+	
+
+85
+
+i
+
+[***] DESIGNATES PORTIONS OF THIS DOCUMENT THAT HAVE BEEN OMITTED PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT AND FILED SEPARATELY WITH THE COMMISSION.
+
+ 
+
+ 
+	
+
+Page
+
+Section 4.16
+	
+
+Environmental Matters
+	
+
+85
+
+Section 4.17
+	
+
+Project Permits
+	
+
+85
+
+Section 4.18
+	
+
+Representations Under Other Loan Documents
+	
+
+86
+
+Section 4.19
+	
+
+Broker’s Fee
+	
+
+86
+
+Section 4.20
+	
+
+Sanctions; Anti-Money Laundering and Anti-Corruption
+	
+
+86
+
+Section 4.21
+	
+
+Property Rights
+	
+
+87
+
+Section 4.22
+	
+
+Portfolio Documents and Eligible Projects
+	
+
+87
+
+Section 4.23
+	
+
+Security Interests
+	
+
+89
+
+Section 4.24
+	
+
+Intellectual Property
+	
+
+89
+
+Section 4.25
+	
+
+Full Disclosure
+	
+
+90
+
+ARTICLE V AFFIRMATIVE COVENANTS
+	
+
+90
+
+Section 5.01
+	
+
+Financial Statements and Other Reports
+	
+
+90
+
+Section 5.02
+	
+
+Notice of Events of Default
+	
+
+97
+
+Section 5.03
+	
+
+Maintenance of Books and Records
+	
+
+97
+
+Section 5.04
+	
+
+Litigation
+	
+
+97
+
+Section 5.05
+	
+
+Existence; Qualification
+	
+
+97
+
+Section 5.06
+	
+
+Taxes
+	
+
+98
+
+Section 5.07
+	
+
+Operation and Maintenance
+	
+
+98
+
+Section 5.08
+	
+
+Preservation of Rights; Maintenance of Projects; Warranty Claims; Security
+	
+
+98
+
+Section 5.09
+	
+
+Compliance with Laws; Environmental Laws
+	
+
+100
+
+Section 5.10
+	
+
+Energy Regulatory Laws
+	
+
+100
+
+Section 5.11
+	
+
+Interest Rate Hedging
+	
+
+101
+
+Section 5.12
+	
+
+Payment of Claims
+	
+
+101
+
+Section 5.13
+	
+
+Maintenance of Insurance
+	
+
+101
+
+Section 5.14
+	
+
+Inspection
+	
+
+105
+
+Section 5.15
+	
+
+Cooperation
+	
+
+106
+
+Section 5.16
+	
+
+Collateral Accounts; Collections
+	
+
+106
+
+Section 5.17
+	
+
+Performance of Agreements
+	
+
+107
+
+Section 5.18
+	
+
+Customer Agreements and SREC Contracts
+	
+
+107
+
+Section 5.19
+	
+
+Management Agreement
+	
+
+107
+
+Section 5.20
+	
+
+Use of Proceeds
+	
+
+107
+
+Section 5.21
+	
+
+Project Expenditures
+	
+
+107
+
+Section 5.22
+	
+
+Tax Equity Fund Matters
+	
+
+108
+
+Section 5.23
+	
+
+Recapture
+	
+
+108
+
+Section 5.24
+	
+
+Termination of Servicer
+	
+
+108
+
+Section 5.25
+	
+
+Deposits to Collections Account
+	
+
+108
+
+Section 5.26
+	
+
+Post-Closing Covenant
+	
+
+110
+
+Section 5.27
+	
+
+Tax Partnership Election
+	
+
+110
+
+ARTICLE VI NEGATIVE COVENANTS
+	
+
+111
+
+Section 6.01
+	
+
+Indebtedness
+	
+
+111
+
+Section 6.02
+	
+
+No Liens
+	
+
+111
+
+Section 6.03
+	
+
+Restriction on Fundamental Changes
+	
+
+112
+
+ii
+
+[***] DESIGNATES PORTIONS OF THIS DOCUMENT THAT HAVE BEEN OMITTED PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT AND FILED SEPARATELY WITH THE COMMISSION.
+
+ 
+
+ 
+	
+
+Page
+
+Section 6.04
+	
+
+Bankruptcy, Receivers, Similar Matters
+	
+
+112
+
+Section 6.05
+	
+
+ERISA
+	
+
+112
+
+Section 6.06
+	
+
+Restricted Payments
+	
+
+113
+
+Section 6.07
+	
+
+Limitation on Investments
+	
+
+113
+
+Section 6.08
+	
+
+Sanctions and Anti-Corruption
+	
+
+114
+
+Section 6.09
+	
+
+No Other Business; Leases
+	
+
+114
+
+Section 6.10
+	
+
+Portfolio Documents
+	
+
+114
+
+Section 6.11
+	
+
+Taxes
+	
+
+116
+
+Section 6.12
+	
+
+Expenditures; Collateral Accounts; Structural Changes
+	
+
+116
+
+Section 6.13
+	
+
+SREC Contracts and Transfer Instructions
+	
+
+117
+
+Section 6.14
+	
+
+Speculative Transactions
+	
+
+117
+
+Section 6.15
+	
+
+Voting on Major Decisions
+	
+
+117
+
+Section 6.16
+	
+
+Transactions with Affiliates
+	
+
+118
+
+Section 6.17
+	
+
+Limitation on Restricted Payments
+	
+
+118
+
+Section 6.18
+	
+
+Tax Partnership Election
+	
+
+118
+
+ARTICLE VII SEPARATENESS
+	
+
+118
+
+Section 7.01
+	
+
+Separateness
+	
+
+118
+
+ARTICLE VIII CONDITIONS PRECEDENT
+	
+
+120
+
+Section 8.01
+	
+
+Conditions of Initial Borrowing
+	
+
+120
+
+Section 8.02
+	
+
+Conditions to the Disbursement from the Proceeds Escrow Account
+	
+
+128
+
+Section 8.03
+	
+
+Conditions of Letter of Credit Issuance
+	
+
+132
+
+ARTICLE IX EVENTS OF DEFAULT; REMEDIES
+	
+
+132
+
+Section 9.01
+	
+
+Events of Default
+	
+
+132
+
+Section 9.02
+	
+
+Acceleration and Remedies
+	
+
+136
+
+Section 9.03
+	
+
+Cure Rights
+	
+
+137
+
+ARTICLE X ADMINISTRATIVE AGENT
+	
+
+137
+
+Section 10.01
+	
+
+Appointment and Authority
+	
+
+137
+
+Section 10.02
+	
+
+Rights as a Lender
+	
+
+137
+
+Section 10.03
+	
+
+Exculpatory Provisions
+	
+
+138
+
+Section 10.04
+	
+
+Reliance by Administrative Agent
+	
+
+139
+
+Section 10.05
+	
+
+Delegation of Duties
+	
+
+139
+
+Section 10.06
+	
+
+Resignation of Administrative Agent
+	
+
+139
+
+Section 10.07
+	
+
+Non-Reliance on Administrative Agent and Other Lenders
+	
+
+140
+
+Section 10.08
+	
+
+Administrative Agent May File Proofs of Claim
+	
+
+140
+
+Section 10.09
+	
+
+Appointment of Collateral Agent and Depository Agent
+	
+
+141
+
+Section 10.10
+	
+
+Joint Lead Arrangers
+	
+
+141
+
+ARTICLE XI MISCELLANEOUS
+	
+
+142
+
+Section 11.01
+	
+
+Waivers; Amendments
+	
+
+142
+
+Section 11.02
+	
+
+Notices; Copies of Notices and Other Information
+	
+
+144
+
+Section 11.03
+	
+
+No Waiver; Cumulative Remedies
+	
+
+146
+
+iii
+
+[***] DESIGNATES PORTIONS OF THIS DOCUMENT THAT HAVE BEEN OMITTED PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT AND FILED SEPARATELY WITH THE COMMISSION.
+
+ 
+
+ 
+	
+
+Page
+
+Section 11.04
+	
+
+Effect of Headings and Table of Contents
+	
+
+146
+
+Section 11.05
+	
+
+Successors and Assigns
+	
+
+146
+
+Section 11.06
+	
+
+Severability
+	
+
+151
+
+Section 11.07
+	
+
+Benefits of Agreement
+	
+
+151
+
+Section 11.08
+	
+
+Governing Law
+	
+
+151
+
+Section 11.09
+	
+
+WAIVER OF JURY TRIAL
+	
+
+153
+
+Section 11.10
+	
+
+Counterparts; Integration; Effectiveness
+	
+
+153
+
+Section 11.11
+	
+
+Confidentiality
+	
+
+153
+
+Section 11.12
+	
+
+USA PATRIOT Act
+	
+
+155
+
+Section 11.13
+	
+
+Corporate Obligation
+	
+
+155
+
+Section 11.14
+	
+
+Administrative Agent’s Duties and Obligations Limited
+	
+
+156
+
+Section 11.15
+	
+
+Entire Agreement
+	
+
+156
+
+Section 11.16
+	
+
+Right of Setoff
+	
+
+156
+
+Section 11.17
+	
+
+Interest Rate Limitation
+	
+
+156
+
+Section 11.18
+	
+
+Survival of Representations and Warranties
+	
+
+157
+
+Section 11.19
+	
+
+No Advisory or Fiduciary Responsibility
+	
+
+157
+
+Section 11.20
+	
+
+Electronic Execution of Assignments and Certain Other Documents
+	
+
+157
+
+Section 11.21
+	
+
+Contractual Recognition of Bail-in
+	
+
+158
+
+iv
+
+[***] DESIGNATES PORTIONS OF THIS DOCUMENT THAT HAVE BEEN OMITTED PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT AND FILED SEPARATELY WITH THE COMMISSION.
+
+ 
+
+EXHIBITS, SCHEDULES and ANNEXES
+
+ 
+
+Exhibit A-1
+	
+
+ 
+	
+
+Form of Borrowing Notice
+
+Exhibit A-2
+	
+
+ 
+	
+
+Form of Disbursement Notice
+
+Exhibit A-3
+	
+
+ 
+	
+
+Form of Interest Period Election Notice
+
+Exhibit B
+	
+
+ 
+	
+
+Assignment and Assumption
+
+Exhibit C-1
+	
+
+ 
+	
+
+Form of Letter of Credit
+
+Exhibit C-2
+	
+
+ 
+	
+
+Form of Notice of LC Activity
+
+Exhibit D-1
+	
+
+ 
+	
+
+Form of U.S. Tax Compliance Certificate
+
+Exhibit D-2
+	
+
+ 
+	
+
+Form of U.S. Tax Compliance Certificate
+
+Exhibit D-3
+	
+
+ 
+	
+
+Form of U.S. Tax Compliance Certificate
+
+Exhibit D-4
+	
+
+ 
+	
+
+Form of U.S. Tax Compliance Certificate
+
+Exhibit E
+	
+
+ 
+	
+
+Form of Officer’s Certificate
+
+Exhibit F-1
+	
+
+ 
+	
+
+Form of Term Loan Note
+
+Exhibit F-2
+	
+
+ 
+	
+
+Form of LC Loan Note
+
+Exhibit G
+	
+
+ 
+	
+
+Form of Base Case Model
+
+Exhibit H
+	
+
+ 
+	
+
+Permitted Fund Disposition Certificate
+
+Exhibit I
+	
+
+ 
+	
+
+Form of Debt Service Coverage Ratio Certificate
+
+Exhibit J
+	
+
+ 
+	
+
+Form of Financial Statement Certificate
+
+Exhibit K
+	
+
+ 
+	
+
+Initial Budget
+
+Exhibit L
+	
+
+ 
+	
+
+Form of Manager’s Report
+
+ 
+	
+
+ 
+	
+
+ 
+
+Schedule IV
+	
+
+ 
+	
+
+Administrative Agent’s Office
+
+Schedule 2.01
+	
+
+ 
+	
+
+Lenders’ Commitments
+
+Schedule 2.05
+	
+
+ 
+	
+
+Cash Diversion Funds
+
+Schedule 4.03(e)
+	
+
+ 
+	
+
+Organizational Structure prior to the Closing Date
+
+Schedule 4.03(f)
+	
+
+ 
+	
+
+Organizational Structure following the Closing Date
+
+Schedule 4.03(g)
+	
+
+ 
+	
+
+Subsidiaries
+
+Schedule 4.04
+	
+
+ 
+	
+
+Governmental Authorization; Compliance with Laws
+
+Schedule 4.08
+	
+
+ 
+	
+
+Financial Statement Exceptions
+
+Schedule 4.10
+	
+
+ 
+	
+
+Litigation; Adverse Facts
+
+Schedule 4.14
+	
+
+ 
+	
+
+Insurance
+
+Schedule 4.19
+	
+
+ 
+	
+
+Brokers
+
+Schedule 4.22(a)
+	
+
+ 
+	
+
+Portfolio Documents
+
+Schedule 4.22(f)
+	
+
+ 
+	
+
+Portfolio Document Exceptions
+
+Schedule 4.22(n)
+	
+
+ 
+	
+
+Project States
+
+Schedule A
+	
+
+ 
+	
+
+Project Information
+
+Schedule B
+	
+
+ 
+	
+
+Approved Vendor List
+
+Annex A
+	
+
+ 
+	
+
+Amortization Schedule
+
+Annex B
+	
+
+ 
+	
+
+Targeted Debt Balance Schedule
+
+Annex C
+	
+
+ 
+	
+
+Fund Representations
+
+ 
+
+ 
+
+v
+
+[***] DESIGNATES PORTIONS OF THIS DOCUMENT THAT HAVE BEEN OMITTED PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT AND FILED SEPARATELY WITH THE COMMISSION.
+
+ 
+
+CREDIT AGREEMENT, dated as of August 4, 2016 (this “Agreement”), among Vivint Solar Financing II, LLC, a Delaware limited liability company (the “Borrower”), the financial institutions as Lenders from time to time party hereto (each individually a “Lender” and, collectively, the “Lenders”), Investec Bank plc, as Administrative Agent for the Lenders (in such capacity, and together with its successors and permitted assigns, the “Administrative Agent”) and Investec Bank plc, as Issuing Bank (in such capacity, and together with its successors and permitted assigns, the “Issuing Bank”).
+
+RECITALS
+
+WHEREAS, Vivint Solar, Inc., a Delaware corporation (the “Sponsor”), indirectly owns 100% of the membership interests in Vivint Solar Financing II Parent, LLC, a Delaware limited liability company (“Pledgor”);
+
+WHEREAS, Pledgor owns 100% of the membership interests in the Borrower;
+
+WHEREAS, the Borrower owns 100% of the membership interests in each of the Partnership Flip Guarantors, each of the Inverted Lease Guarantors and the SREC Guarantor;
+
+WHEREAS, each Partnership Flip Guarantor owns 100% of the Fund Manager Membership Interests in each Partnership Flip Fund and each Inverted Lease Guarantor owns 100% of the Fund Manager Membership Interests in each Inverted Lease Fund;
+
+WHEREAS, each of the Partnership Flip Funds and the Inverted Lease Funds owns or leases certain residential photovoltaic systems that are the subject of a Customer Agreement, whereby the Customer thereunder either purchases Energy produced by the system or leases the system; and
+
+WHEREAS, the Borrower desires that the Term Lenders make a loan in an aggregate principal amount equal to the Term Loan Commitment, and the other Lenders and Issuing Bank hereto provide the other financial accommodation contemplated herein, secured and supported by, among other things, the Cash Diversion Guaranty, a guaranty from each of the Guarantors and all other Property and Assets of the Guarantors and Membership Interests of the Subsidiaries, as set forth herein and in the other Loan Documents.
+
+NOW, THEREFORE, in consideration of the premises and the respective representations, warranties, covenants, agreements, and conditions hereinafter set forth, and other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the Borrower, the Administrative Agent and the Lenders hereby agree as follows:
+
+[***] DESIGNATES PORTIONS OF THIS DOCUMENT THAT HAVE BEEN OMITTED PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT AND FILED SEPARATELY WITH THE COMMISSION.
+
+ 
+
+ 
+
+ARTICLE I
+
+DEFINITIONS AND INCORPORATION BY REFERENCE
+
+Section 1.01Definitions. Except as otherwise specified in this Agreement or as the context may otherwise require, the following terms have the respective meanings set forth below for all purposes of this Agreement (including in the Recitals hereto).
+
+“Acceptable Audit Election Provision” means, with respect to a Tax Equity Fund, a provision contained in the applicable Limited Liability Company Agreement that provides, if such Tax Equity Fund receives a notice of final partnership administrative adjustment that would, with the passing of time, result in an “imputed underpayment” imposed on such Tax Equity Fund as that term is defined in Code Section 6225, then, any member may, or may cause such Tax Equity Fund (by directing the “tax representative” or otherwise), and no other member shall have any right to block such member’s request, (x) to elect pursuant to Code Section 6226 (as amended by the Budget Act) to make inapplicable to such Tax Equity Fund the requirement in Code Section 6225 (as amended by the Budget Act) to pay the “imputed underpayment” as that term is used in that section and (y) to comply with all of the requirements and procedures required in connection with such election.
+
+“Acceptable Bank” shall mean any bank, trust company or other financial institution which is organized or licensed under the applicable Laws of the United States of America or Canada or any state, province or territory thereof which has a tangible net worth of at least five hundred million Dollars ($500,000,000) and has at least two of the following Credit Ratings: “A-” or better by S&P, “A3” or better by Moody’s and “A-” or better by Fitch.
+
+“Acceptable DSR Guarantee” shall have the meaning given to such term in the Depository Agreement.
+
+“Acceptable DSR Letter of Credit” shall have the meaning given to such term in the Depository Agreement.
+
+“Additional Expenses” shall mean indemnification payments to the Administrative Agent, the Lenders, the Depository Agent, and certain other persons related to the same as described under the Loan Documents.  For the avoidance of doubt, Additional Expenses shall not include Service Fees or amounts payable to the Manager under the Management Agreement.
+
+“Additional Reserve Account” shall have the meaning given to it in the Depository Agreement.
+
+“Administrative Agent” shall have the meaning given to such term in the preamble hereto, and include any successor Administrative Agents pursuant to Section 10.06.
+
+“Administrative Agent DSCR Comments” shall have the meaning given to such term in Section 5.01(a)(v).
+
+2
+
+[***] DESIGNATES PORTIONS OF THIS DOCUMENT THAT HAVE BEEN OMITTED PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT AND FILED SEPARATELY WITH THE COMMISSION.
+
+ 
+
+ 
+
+“Administrative Agent’s Office” shall mean the Administrative Agent’s address and, as appropriate, account as set forth on Schedule IV, or such other address or account as the Administrative Agent may from time to time notify to the Borrower and the Lenders.
+
+“Administrative Questionnaire” shall mean an administrative questionnaire in the form furnished by the Administrative Agent.
+
+“Affiliate” shall mean, with respect to any specified Person, any other Person controlling or controlled by or under common control with such specified Person.  For the purposes of this definition, “control” when used with respect to any Person shall mean the power to direct the management and policies of such Person, directly or indirectly, whether through the ownership of voting securities, by contract or otherwise; and the terms “controlling” and “controlled” shall have meanings correlative to the foregoing.  For the avoidance of doubt, each of the Relevant Parties shall be an Affiliate of the other Relevant Parties and the Sponsor.  In no event shall (a) the Administrative Agent be considered an Affiliate of another Person solely because any Loan Document contemplates that it shall act at the instruction of any such Person or such Person’s Affiliate, or (b) any Tax Equity Member be considered an Affiliate of a Relevant Party. The term “Affiliate”, in relation to Investec Bank plc and Investec Inc., shall be deemed to include Investec Bank Ltd and Investec plc.
+
+“Affiliate Transaction” shall have the meaning given to such term in Section 6.16.
+
+“Affiliated Lender” shall have the meaning given to such term in Section 11.05(b)(v).
+
+“Agents” shall mean, collectively, the Administrative Agent, the Collateral Agent and the Depository Agent.
+
+“Aggregation Facility” shall mean the Amended and Restated Loan Agreement dated as of September 12, 2014, as amended and restated as of November 25, 2015, as amended by Amendment No. 1, dated December 9, 2015, Amendment No. 2, dated January 15, 2016 and Amendment No. 3, dated March 7, 2016 by and among Aggregation Facility Borrower, Vivint Solar Holdings, Inc., the guarantors party thereto, the lenders party thereto, and Bank of America, N.A., as collateral and administrative agent, as amended, modified, supplemented or restated from time to time.
+
+“Aggregation Facility Borrower” shall mean Vivint Solar Financing I, LLC, a Delaware limited liability company.
+
+“Aggregation Facility Collateral Agent” shall mean Bank of America, N.A.
+
+“Aggregator SRECs” shall mean the SRECs transferred from a Fund to SREC Guarantor pursuant to the Mia SREC Transfer Agreement, Aaliyah SREC Transfer Agreement, Rebecca SREC Transfer Agreement, Elyse SREC Transfer Agreement, Fund XII SREC Transfer Agreement and Fund X SREC Transfer Agreement (as such terms are defined in Schedule 4.22(a)).
+
+3
+
+[***] DESIGNATES PORTIONS OF THIS DOCUMENT THAT HAVE BEEN OMITTED PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT AND FILED SEPARATELY WITH THE COMMISSION.
+
+ 
+
+ 
+
+“Agreement” shall have the meaning given to such term in the preamble hereto.
+
+“Amortization Schedule” shall have the meaning given to such term in Section 3.05(d).
+
+“Anti-Corruption Laws” shall have the meaning given to such term in Section 4.20(c).
+
+“Anti-Money Laundering Laws” shall have the meaning given to such term in Section 4.20(b).
+
+“Applicable Margin” shall mean from the Closing Date through (but excluding) the fourth anniversary of the Closing Date, 3.00% per annum and, from and after fourth anniversary of the Closing Date, 3.25% per annum.
+
+“Approved Fund” shall mean any Person (other than a natural person) that is engaged in making, purchasing, holding or investing in bank loans and similar extensions of credit in the ordinary course of its business and that is administered or managed by (a) a Lender, (b) an Affiliate of a Lender or (c) an entity or an Affiliate of an entity that administers or manages a Lender.
+
+“Approved Manufacturer” shall mean any manufacturer on the Approved Vendor List.
+
+“Approved Vendor List” shall mean the list of approved panel and inverter manufacturers set forth on Schedule B approved by the Administrative Agent in consultation with the Independent Engineer, which may be modified from time to time subject to the approval of the Administrative Agent in consultation with the Independent Engineer.
+
+“Assets” shall mean, with respect to any Person, all right, title and interest of such Person in land, Properties, buildings, improvements, fixtures, foundations, assets and rights of any kind, whether tangible or intangible, real, personal or mixed, including contracts, equipment, systems, books and records, proprietary rights, intellectual property, Permits, rights under or pursuant to all warranties, representations and guarantees, cash, accounts receivable, deposits and prepaid expenses.
+
+“Assignment and Assumption” shall mean an assignment and assumption entered into by a Lender and an assignee lender (with the consent of any party whose consent is required by Section 11.05), and accepted by the Administrative Agent, in substantially the form of Exhibit B or any other form approved by the Administrative Agent.
+
+“Authorized Officer” shall mean (a) in relation to any Relevant Party, for so long as the Management Agreement is in full force and effect, any officer of the Manager who is authorized to act for the Manager in matters relating to the Borrower and the Subsidiaries and to be acted upon by the Manager pursuant to the Management Agreement, and who is identified on the list of Authorized Officers delivered by the Borrower to the Administrative Agent on the Closing Date (as such list may be modified or supplemented from time to time thereafter by
+
+4
+
+[***] DESIGNATES PORTIONS OF THIS DOCUMENT THAT HAVE BEEN OMITTED PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT AND FILED SEPARATELY WITH THE COMMISSION.
+
+ 
+
+ 
+
+delivery to the Administrative Agent of a duly executed officer’s certificate and an incumbency certificate of the Borrower) and (b) in relation to any Relevant Party or the Sponsor, any director, member or officer who is a natural Person authorized to act for or on behalf of the applicable Relevant Party or the Sponsor in matters relating to such Relevant Party or the Sponsor and who is identified on the list of Authorized Officers delivered by such Relevant Party or the Sponsor to the Administrative Agent on the Closing Date (as such list may be modified or supplemented from time to time thereafter by delivery to the Administrative Agent of a duly executed officer’s certificate and an incumbency certificate of such Relevant Party or the Sponsor).
+
+“Back-Up Servicer” shall mean Wells Fargo, N.A., and its successors and assigns as Back-Up Servicer under each Back-Up Servicing Agreement.
+
+“Back-Up Servicing Agreement” shall mean (i) the Master Back-Up Servicing Agreement as modified by each applicable Back-Up Servicing Agreement Addendum and (ii) each replacement for each such agreement in a form and substance acceptable to the Administrative Agent entered into with a replacement back-up servicer.
+
+“Back-Up Servicing Agreement Addendum” shall mean each addendum under the Master Back-Up Servicing Agreement entered into among the Back-Up Servicer, Provider and the applicable Fund, as may be amended, supplemented or modified from time to time.
+
+“Bail-In Action” shall mean the exercise of any Write-down and Conversion Powers.
+
+“Bail-In Legislation” shall mean:
+
+(a)in relation to an EEA Member Country which has implemented, or which at any time implements, Article 55 of Directive 2014/59/EU establishing a framework for the recovery and resolution of credit institutions and investment firms (as amended or re-enacted), the relevant implementing law or regulation (including any regulation, rule, official directive, request or guideline (whether or not having the force of law) of any governmental, intergovernmental or supranational body, agency, department or of any regulatory, self-regulatory or other authority or organization) as described in the EU Bail-In Legislation Schedule from time to time; and
+
+(b)in relation to any other state, any analogous law or regulation from time to time which requires contractual recognition of any Write-down and Conversion Powers contained in that law or regulation.
+
+“Bankruptcy Code” shall mean Title 11 of the United States Code, as amended from time to time, and all rules and regulations promulgated thereunder.
+
+“Base Case Model” shall mean the comprehensive long-term financial model as updated from the initial Base Case Model delivered on the Closing Date and attached as Exhibit G to this Agreement, reflecting among other things (i) quarterly payment periods ending on each Payment Date and (ii) the projected Cash Available for Debt Service from the Projects in the Project Pool, Debt Service after giving effect to the transactions contemplated by the
+
+5
+
+[***] DESIGNATES PORTIONS OF THIS DOCUMENT THAT HAVE BEEN OMITTED PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT AND FILED SEPARATELY WITH THE COMMISSION.
+
+ 
+
+ 
+
+Transaction Documents, the making of the Loans and changes to market interest rates and interest rate protection in respect thereof, covering the period from the Closing Date until the Deemed Final Repayment Date.  All amounts determined in accordance with the Base Case Model shall be determined assuming a P50 Production and shall take into account (i) only Eligible Revenues (provided that projected Cash Available for Debt Service shall include Incomplete Project Revenues on the Closing Date) and (ii) all Operating Expenses with respect to the Project Pool.  The Base Case Model shall be updated in accordance with Section 2.05 in a form and substance reasonably satisfactory to the Administrative Agent.
+
+“Blocked Person” shall mean any Person that is:  (a) listed on, or owned or controlled by a person listed on, a Sanctions List, (b) a government of a Sanctioned Country, (c) an agency or instrumentality of, or an entity directly or indirectly owned or controlled by, a government of a Sanctioned Country, (d) resident or located in, operating from, or incorporated under the laws of, a Sanctioned Country or (e) to the Knowledge of the Borrower, otherwise the subject or target of Sanctions.
+
+“Borrower” shall have the meaning given to such term in the preamble.
+
+“Borrower Membership Interests” shall mean all of the outstanding limited liability company interests issued by the Borrower (including all Economic Interests and Voting Rights).
+
+“Borrowing Notice” shall mean a request for a Loan by the Borrower substantially in the form of Exhibit A-1.
+
+“BP SREC Consent” shall mean that certain consent and acknowledgment dated as of August 4, 2016 by and between BP Energy Company, a Delaware corporation, the SREC Seller Parties and the Collateral Agent for the benefit of the Secured Parties, as acknowledged by BP Corporation North America Inc. (as buyer guarantor) and SREC Guarantor.
+
+“Budget Act” means the Bipartisan Budget Act of 2015 (P.L. 114-74).
+
+“Business Day” shall mean the hours between 9:00 a.m. – 4:00 p.m., Eastern time, Monday through Friday, other than the following days: (a) New Year’s Day, Dr. Martin Luther King, Jr. Day, Washington’s Birthday (celebrated on President’s Day), Good Friday, Memorial Day, the day before Independence Day, Independence Day, Labor Day, Columbus Day, Veterans’ Day, the day before and after Thanksgiving Day, Thanksgiving Day, Christmas Eve, Christmas Day and New Year’s Eve, (b) any other day on which banks are required or authorized by Law to close in New York State, (c) a legal holiday in London, England, the State of New York or Utah or the jurisdiction where the Administrative Agent’s Office is located and (d) any day on which commercial banks and the U.S. Federal Reserve Bank are authorized or required to be closed in any of the foregoing states.  For purposes hereof, if any day listed above as a day on which a bank is closed falls on a Saturday or Sunday, such day is celebrated on either the prior Friday or the following Monday.
+
+“Calculation Date” shall mean each of March 31, June 30, September 30 and December 31 of each year falling after the date hereof.
+
+6
+
+[***] DESIGNATES PORTIONS OF THIS DOCUMENT THAT HAVE BEEN OMITTED PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT AND FILED SEPARATELY WITH THE COMMISSION.
+
+ 
+
+ 
+
+“Capital Stock” shall mean:
+
+(a)in the case of a corporation, corporate stock;
+
+(b)in the case of an association or business entity, any and all shares, interests, participations, rights or other equivalents (however designated) of corporate stock;
+
+(c)in the case of a partnership or limited liability company, partnership interests (whether general or limited) or membership interests; and
+
+(d)any other interest or participation that confers on a Person the right to receive a share of the profits and losses of, or distributions of Assets of, the issuing Person including, all warrants, options or other rights to acquire any of the foregoing.
+
+“Cash Available for Debt Service” shall mean, in respect of any period, the amount of Operating Revenues received by the Borrower during such period less Operating Expenses paid during such period; provided, that, where Cash Available for Debt Service is projected (whether under the Base Case Model or otherwise) it shall exclude any Operating Revenues that are not Eligible Revenues or, on the Closing Date, Incomplete Project Revenues.
+
+“Cash Collateralize” shall mean, in respect of the Letter of Credit, the deposit of immediately available funds into a cash collateral account maintained with (or on behalf of) the Collateral Agent on terms satisfactory to the Administrative Agent and Issuing Bank, in an amount equal to one hundred three percent (103%) of the Stated Amount of such Letter of Credit.
+
+“Cash Diversion Fund” shall mean each Tax Equity Fund listed on Schedule 2.05.
+
+“Cash Diversion Guaranty” shall mean the Cash Diversion Guaranty executed by the Sponsor on the Closing Date in favor of the Administrative Agent for the benefit of the Lender Parties and the Collateral Agent for the benefit of the Secured Parties.
+
+“Cash Flows” has the meaning given to the term “Net Cash Flow”, “Available Cash Flow” or “Distributable Cash” in the applicable Limited Liability Company Agreement of a Tax Equity Fund.
+
+“Change of Control” shall occur if (a) the Sponsor ceases to, directly or indirectly, beneficially own and control at least 51% of the Pledgor Membership Interests; (b) Pledgor ceases to, directly or indirectly, beneficially own and control 100% of the Borrower Membership Interests; (c) the Borrower ceases to, directly or indirectly, beneficially own and control 100% of the Guarantor Membership Interests (after giving effect to the Closing Date Assignments and other than a Permitted Fund Disposition as permitted pursuant to Section 2.05); (d) any Guarantor ceases to, directly or indirectly, beneficially own and control 100% of the Fund Manager Membership Interests of its subsidiary Funds; or (e) any Guarantor ceases to be the manager or managing member, as applicable, of any Fund.
+
+7
+
+[***] DESIGNATES PORTIONS OF THIS DOCUMENT THAT HAVE BEEN OMITTED PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT AND FILED SEPARATELY WITH THE COMMISSION.
+
+ 
+
+ 
+
+“Change of Law” shall mean the occurrence, after the date of this Agreement, of any of the following: (a) the adoption or taking effect of any law, rule, regulation or treaty, (b) any change in any law, rule, regulation or treaty or in the administration, interpretation, implementation or application thereof by any Governmental Authority or (c) the making or issuance of any request, rule, guideline or directive (whether or not having the force of law) by any Governmental Authority; provided that notwithstanding anything herein to the contrary, (i) the Dodd-Frank Wall Street Reform and Consumer Protection Act and all requests, rules, guidelines or directives thereunder or issued in connection therewith and (ii) all requests, rules, guidelines or directives promulgated by the Bank for International Settlements, the Basel Committee on Banking Supervision (or any successor or similar authority) or the United States or foreign regulatory authorities, in each case pursuant to Basel III, shall in each case be deemed to be a “Change of Law”, regardless of the date enacted, adopted or issued.
+
+“Claims” shall have the meaning given to such term in Section 5.12(a).
+
+“Class” shall have the meaning set forth in Section 1.04.
+
+“Class A FMV” shall mean (a) in respect of the Liberty Tenant, the greater of (i) $738,840 and (ii) the projected fair market value of the Tax Equity Member’s equity interests in Liberty Tenant as of one day prior to the “Flip Date” (as such term is defined in the Limited Liability Company Agreement of the Liberty Tenant), as determined pursuant to the applicable Tax Equity Documents as shown in the Tax Equity Fund Model and (b) in respect of the Margaux Tenant, the greater of (i) $2,112,738 and (ii) the projected fair market value of the Tax Equity Member’s equity interests in Margaux Tenant as of the date of the “Withdrawal Notice” (as such term is defined in the Limited Liability Company Agreement of the Margaux Tenant), as determined pursuant to the applicable Tax Equity Documents and as shown in the Tax Equity Fund Model.
+
+“Class A Option Date” shall, as the context requires, (a) have the meaning given to the term “Flip Date” in the Liberty Tenant Limited Liability Company Agreement or (b) mean the first day of the “Withdrawal Period” as such term is defined in the Margaux Tenant Limited Liability Company Agreement.
+
+“Closing” shall mean the funding of the Term Loans on the Closing Date pursuant to Section 2.01.
+
+“Closing Date” shall mean the date on which all conditions precedent set forth in Section 8.01 have been satisfied or waived in writing by the Administrative Agent (acting on the instructions of all Lenders and the Issuing Bank).
+
+8
+
+[***] DESIGNATES PORTIONS OF THIS DOCUMENT THAT HAVE BEEN OMITTED PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT AND FILED SEPARATELY WITH THE COMMISSION.
+
+ 
+
+ 
+
+“Closing Date Assignment Agreements” shall mean (i) the Assignment Agreement dated as of the date hereof between the Borrower and the Aggregation Facility Borrower, (ii) the Partial Payoff Letter, dated as of the date hereof, by the Aggregation Facility Collateral Agent as administration agent and collateral agent, and acknowledged by the Aggregation Facility Borrower, (iii) the Termination Agreement, dated as of the date hereof, by and between Vivint Solar Liberty Manager, LLC, and Aggregation Facility Collateral Agent, (iv) the Termination Agreement, dated as of the date hereof, by and between Vivint Solar Margaux Manager, LLC, and Aggregation Facility Collateral Agent, (v) the Termination Agreement, dated as of the date hereof, by and between Vivint Solar Fund III Manager, LLC, and Aggregation Facility Collateral Agent, (vi) the Termination Agreement, dated as of the date hereof, by and between Vivint Solar Mia Manager, LLC, and Aggregation Facility Collateral Agent, (vii) the Termination Agreement, dated as of the date hereof, by and between Vivint Solar Aaliyah Manager, LLC, and Aggregation Facility Collateral Agent, (viii) the Termination Agreement, dated as of the date hereof, by and between Vivint Solar Rebecca Manager, LLC, and Aggregation Facility Collateral Agent, (ix) the Termination Agreement, dated as of the date hereof, by and between Vivint Solar Hannah Manager, LLC, and Aggregation Facility Collateral Agent, (x) the Termination Agreement, dated as of the date hereof, by and between Vivint Solar Elyse Manager, LLC, and Aggregation Facility Collateral Agent, (xi) the Termination Agreement, dated as of the date hereof, by and between Vivint Solar Fund X Manager, LLC, and Aggregation Facility Collateral Agent, (xii) the Termination Agreement, dated as of the date hereof, by and between Vivint Solar Fund XIV Manager, LLC, and Aggregation Facility Collateral Agent, (xiii) the Termination Agreement, dated as of the date hereof, by and between Vivint Solar Nicole Manager, LLC, and Aggregation Facility Collateral Agent, (xiv) the Notice, dated as of July 22, 2016, by Subordinated Holdco Borrower and acknowledged by Subordinated Holdco Facility Collateral Agent and (xv) the Assignment and Assumption Agreement dated as of the date hereof between the Borrower and the Subordinated Holdco Borrower.
+
+“Closing Date Assignments” shall mean the assignments contemplated under the Closing Date Assignment Agreements such that the Guarantor Membership Interests are all under the ownership of the Borrower.
+
+“Closing Date Available Amount” shall mean the maximum amount of the Term Loan Commitments which would have been available to be drawn on the Closing Date to show the Base Case Model in compliance with the Debt Sizing Parameters and Portfolio Concentration Limits where the Base Case Model has been modified to exclude Incomplete Project Revenue.
+
+“Closing Date Funds Flow Memorandum” shall have the meaning given to such term in the Depository Agreement.
+
+“Code” shall mean the United States Internal Revenue Code of 1986, and the regulations promulgated pursuant thereto, all as amended or as may be amended from time to time.
+
+9
+
+[***] DESIGNATES PORTIONS OF THIS DOCUMENT THAT HAVE BEEN OMITTED PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT AND FILED SEPARATELY WITH THE COMMISSION.
+
+ 
+
+ 
+
+“Collateral” shall mean the Assets and Property of, and equity interests in, the Borrower and each Guarantor and each SREC Seller Party’s interest in its respective Eligible SREC Contracts, which is now owned or hereafter acquired upon which a Lien is or is purported to be created by any Collateral Document and shall include, without limitation, all Assets and Property within the terms “Collateral”, “Depository Collateral”, “Collateral Account” and “Pledged Collateral”, as applicable, in the Collateral Documents all of which collectively constitute the “Collateral”; provided, that Excluded Property and Fund SREC Property shall be excluded from Collateral hereunder and under all Collateral Documents.
+
+“Collateral Accounts” shall have the meaning given to such term in the Depository Agreement.
+
+“Collateral Agency Agreement” shall mean the Collateral Agency and Intercreditor Agreement dated as of the Closing Date, among the Borrower, the Administrative Agent, the Collateral Agent and each other Secured Party party thereto from time to time.
+
+“Collateral Agent” shall mean BankUnited, N.A., and its successors and assigns in such capacity.
+
+“Collateral Documents” shall mean, collectively, the Pledge Agreement, the Pledge and Security Agreement, the Cash Diversion Guaranty, any Guaranty and Security Agreement, the Guaranty and Pledge Agreement, the Collateral Agency Agreement, the Depository Agreement, the Tax Equity Consents, the SREC Consents, the Management Consent Agreement, the SREC Security Agreement and each other collateral document, pledge agreement or standing instruction delivered to the Administrative Agent pursuant to Section 5.08 and Section 8.01(a), any other document or agreement that creates or purports to create a Lien in favor of the Collateral Agent for the benefit of the Secured Parties and all UCC or other financing statements, instruments or perfection and other filings, recordings and registrations required to be filed or made in respect of any of the foregoing.
+
+“Collections” shall mean without duplication (a) with respect to the Wholly-Owned Funds, the related (i) Rents, including all scheduled payments and prepayments under any Customer Agreement, (ii) all proceeds of SRECs and SREC Contracts, (iii) pending assumption of a Customer Agreement relating to a Project, payments of Rent relating to such Project by lenders with respect to, or subsequent owners of, the Property where such Project has been installed, (iv) proceeds of the sale, assignment or other disposition of any Collateral, (v) insurance proceeds and proceeds of any warranty claims arising from manufacturer, installer and other warranties, in each case, with respect to any Projects, (vi) all recoveries including all amounts received in respect of litigation settlements and work-outs, (vii) all purchase and lease prepayments received from a Customer with respect to any Project, and (viii) all other revenues, receipts and other payments to such Wholly-Owned Funds of every kind whether arising from their ownership, operation or management of the Projects, (b) with respect to any Guarantor, all distributions with respect to the Fund Membership Interests, (c) amounts contributed or otherwise paid by Sponsor to Borrower (including under the Cash Diversion Guaranty) but without limiting Section 9.03 and (d) interest earned on amounts deposited in the Collateral Accounts during the relevant period; provided, that the Collections shall not include any Excluded Property or Fund SREC Property.
+
+10
+
+[***] DESIGNATES PORTIONS OF THIS DOCUMENT THAT HAVE BEEN OMITTED PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT AND FILED SEPARATELY WITH THE COMMISSION.
+
+ 
+
+ 
+
+“Collections Account” shall have the meaning given to such term in the Depository Agreement.
+
+“Commitment” shall mean, as to each Lender, the aggregate of such Lender’s Term Loan Commitment and LC Commitment.
+
+“Competitor” means any Person directly or through its Affiliates engaged in the business of owning, managing, operating, maintaining or developing renewable energy systems for use in distributed generation applications (whether residential or commercial) in the United States; provided, that a Person who is involved in such activities solely as a result of such Person being engaged as a back-up servicer or transition manager (including Wells Fargo Bank, N.A. or U.S. Bank National Association) or as a result of making passive investments (including tax equity investments) in such activities shall not be considered a “Competitor” hereunder.
+
+“Confidential Information” shall have the meaning given to such term in Section 11.11(a).
+
+“Consequential Losses” shall have the meaning given to such term in Section 3.07(e).
+
+“Credit Rating” shall mean, with respect to any Person, the rating by S&P, Moody’s, Fitch or any other rating agency agreed to by the Parties then assigned to such Person’s unsecured, senior long-term debt obligations (not supported by third party credit enhancements) or if such entity does not have a rating for its senior unsecured long-term debt, then the rating then assigned to such Person as an issuer rating by S&P, Moody’s, Fitch or any other rating agency agreed by the Parties.
+
+“Credit Requirements” shall mean, with respect to any Person, that such Person has at least one of the following Credit Ratings: “Baa2” (outlook stable and not on credit watch for downgrade) or higher from Moody’s, “BBB” (outlook stable and not on credit watch for downgrade) from S&P or, other than in the case of a Person providing an Acceptable DSR Guarantee, “BBB” (outlook stable and not on credit watch for downgrade) or higher from Fitch.
+
+“Cumulative Loss Event” shall mean, on any Calculation Date, (a) the amount of the reduction in Portfolio Value resulting from or attributable to each Ineligibility Event occurring since the Closing Date exceeds (b)(i) the amount of the reduction in Portfolio Value projected to occur by such Calculation Date under the Base Case Model as a result of each Ineligibility Event plus (ii) the principal amount of all prior Ineligible Project Prepayments.
+
+“Customer” shall mean a natural person or trust party to a Customer Agreement who leases, or agrees to purchase Energy produced by, a Project.
+
+11
+
+[***] DESIGNATES PORTIONS OF THIS DOCUMENT THAT HAVE BEEN OMITTED PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT AND FILED SEPARATELY WITH THE COMMISSION.
+
+ 
+
+ 
+
+“Customer Agreement” shall mean those power purchase agreements or customer lease agreements (together with all ancillary agreements and documents related thereto, including any assignment agreement to a replacement Customer) with respect to a Project between a Fund, as owner or lessor, and a Customer, whereby the Customer agrees to purchase the Energy produced by the related Project for a fixed fee (subject to escalation) per kWh, or agrees to lease the Project for monthly lease payments, as applicable, in each case for a specified term of years and including agreements where the Customer has the ability to prepay such amounts.
+
+“Debt Service” shall mean, for any period, the aggregate amount of all principal, interest, payments in the nature of interest (including default interest and net payments under an Interest Rate Hedging Agreement), letter of credit fees, commitment fees, Agent fees, or any other recurrent analogous costs and damages (including gross-ups and increased cost payments) payable pursuant to any Loan Document.
+
+“Debt Service Coverage Ratio” shall mean, for any calculation period, the ratio of:
+
+(a) the Cash Available for Debt Service for such period; to
+
+(b) the Debt Service for such period (excluding mandatory prepayments in respect of the Loans payable during such period pursuant to Section 3.03).
+
+“Debt Service Coverage Ratio Certificate” shall mean a certificate from an Authorized Officer of the Borrower in the form of Exhibit I, containing its good faith, detailed calculation of its Debt Service Coverage Ratio for the twelve-month period ending on the immediately preceding Calculation Date.
+
+“Debt Service Reserve Account” shall have the meaning given to such term in the Depository Agreement.
+
+“Debt Service Reserve Required Amount” shall have the meaning given to such term in the Depository Agreement.
+
+“Debt Sizing Parameters” shall mean the following criteria, in each case as demonstrated by the Base Case Model:
+
+(a)for each twelve-month period ending on the last day of a fiscal quarter (i) commencing on September 30, 2016 until September 30, 2021, a projected minimum and average Debt Service Coverage Ratio of at least 1.55 to 1.00 and (ii) commencing on September 30, 2021 until the last day of the fiscal quarter ending immediately after the Deemed Final Repayment Date, a minimum and average Debt Service Coverage Ratio of at least 1.50 to 1.00, in each case, assuming the Obligations are repaid in full by the Deemed Final Repayment Date; and 
