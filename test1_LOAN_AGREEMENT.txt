@@ -1,0 +1,415 @@
+﻿ 
+
+ 
+ 
+LOAN AGREEMENT
+ 
+This LOAN AGREEMENT (this “Agreement”) is entered into at Albany, New York, as of December 1, 2017, between Plastic Printing Professionals, Inc., a New York corporation, with its chief executive office located at 28 East Main Street, Suite 1525, Rochester, New York 14614 (the “Borrower”) and Citizens Bank, N.A., a national banking association, with an address of 833 Broadway, Albany, New York 12207 (the “Bank”).
+ 
+FOR VALUE RECEIVED, and in consideration of the granting by the Bank of financial accommodations to or for the benefit of the Borrower, including without limitation respecting the Obligations (as hereinafter defined), the Borrower represents to and agrees with the Bank, as of the date hereof and as of the date of each loan, credit and/or other financial accommodation, as follows:
+ 
+1. THE LOAN
+ 
+1.1       Loan. The Bank agrees, subject to the terms and conditions set forth herein, to establish an equipment acquisition line of credit (the “Equipment Line”) for the Borrower pursuant to which the Bank agrees to lend to the Borrower upon the Borrower’s request up to Eight Hundred Thousand Dollars and Zero Cents ($800,000.00) (the “Line Loan Amount”), provided there is no continuing uncured Event of Default (as hereinafter defined) and subject to the terms and conditions set forth herein, for the purpose of enabling the Borrower to purchase equipment (the “Purchased Equipment”) for use in the Borrower’s current line of business. The Equipment Line shall be evidenced by that certain Term Note Non- Revolving Line of Credit, of even date herewith (the “Equipment Note”), by Plastic Printing Professionals, Inc. in favor of the Bank in the face amount of the Line Loan Amount. Each advance shall be limited to a maximum of 100% of the Hard Costs (as hereinafter defined) of the applicable item of Purchased Equipment. Hard Costs shall mean the invoice price of such Purchased Equipment less delivery and installation costs and taxes. Each request for financing will be reviewed by the Bank along with all invoices or other evidence acceptable to the Bank, indicating the purchase, delivery and acceptance of such Purchased Equipment, and all advances shall be approved by the Bank in its sole discretion. Advances may be made respecting this line of credit from time to time from the date of this Agreement up to and including December 1, 2018. This Agreement, the Equipment Note, and any and all other documents, amendments or renewals executed and delivered in connection with any of the foregoing are collectively hereinafter referred to as the “Loan Documents”.
+ 
+1.2
+Definitions. The following definitions shall apply:
+ 
+ 
+(a)
+“Bank Affiliate” shall mean any “Affiliate” of the Bank or any lender acting as a participant under any loan arrangement between the Bank and the Borrower(s). The term “Affiliate” shall mean with respect to any person, (a) any person which, directly or indirectly through one or more intermediaries controls, or is controlled by, or is under common control with, such person, or (b) any person who is a director or officer (i) of such person, (ii) of any subsidiary of such person, or (iii) any person described in clause (a) above. For purposes of this definition, control of a person shall mean the power, direct or indirect, (x) to vote 5% or more of the Capital Stock having ordinary voting power for the election of directors (or comparable equivalent) of such person, or (y) to direct or cause the direction of the management and policies of such person whether by contract or otherwise. Control may be by ownership, contract, or otherwise.
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+(b)
+“Code” shall mean the New York Uniform Commercial Code as amended from time to time.
+ 
+ 
+ 
+ 
+(c)
+“Obligation(s)” shall mean, without limitation, all loans, advances, indebtedness, notes, liabilities, rate swap transactions, basis swaps, forward rate transactions, commodity swaps, commodity options, equity or equity index swaps, equity or equity index options, bond options, interest rate options, foreign exchange transactions, cap transactions, floor transactions, collar transactions, forward transactions, currency swap transactions, cross-currency rate swap transactions, currency options (provided, however, that if and only if the Borrower is not an “eligible contract participant” (as defined in the Commodity Exchange Act (7 U.S.C. § 1 et seq.) and any applicable rules, as amended), then to the extent applicable law prohibits such Borrower from entering into an agreement to secure any obligations in respect of a “swap” (as defined in the Commodity Exchange Act and any applicable rules, as amended, and referred to herein as a “Swap”), Obligations shall not include obligations of the Borrower to Bank under any Swap) and amounts, liquidated or unliquidated, owing by the Borrower to the Bank or any Bank Affiliate at any time, of each and every kind, nature and description, whether arising under this Agreement or otherwise, and whether secured or unsecured, direct or indirect (that is, whether the same are due directly by the Borrower to the Bank or any Bank Affiliate; or are due indirectly by the Borrower to the Bank or any Bank Affiliate as endorser, guarantor or other surety, or as borrower of obligations due third persons which have been endorsed or assigned to the Bank or any Bank Affiliate, or otherwise), absolute or contingent, due or to become due, now existing or hereafter arising or contracted, including, without limitation, payment when due of all amounts outstanding respecting any of the Loan Documents. Said term shall also include all interest and other charges chargeable to the Borrower or due from the Borrower to the Bank or any Bank Affiliate from time to time and all costs and expenses referred to in this Agreement.
+ 
+ 
+ 
+ 
+(d)
+“Person” or “party” shall mean individuals, partnerships, corporations, limited liability companies and all other entities.
+ 
+All words and terms used in this Agreement other than those specifically defined herein shall have the meanings accorded to them in the Code.
+ 
+2. REPRESENTATIONS AND WARRANTIES
+ 
+2.1       Organization and Qualification. Borrower is a duly organized and validly existing corporation under the laws of the State of its incorporation with the exact legal name set forth in the first paragraph of this Agreement. Borrower is in good standing under the laws of said State, has the power to own its property and conduct its business as now conducted and as currently proposed to be conducted, and is duly qualified to do business under the laws of each state where the nature of the business done or property owned requires such qualification.
+ 
+2.2       Subsidiaries. Borrower has no subsidiaries other than as previously specifically consented to in writing by the Bank, if any, and the Borrower has never consolidated, merged or acquired substantially all of the assets of any other entity or person other than as previously specifically consented to in writing by the Bank, if any.
+ 
+2.3       Corporate Records. Borrower’s corporate charter, articles or certificate of organization or incorporation and all amendments thereto have been duly filed and are in proper order. All outstanding capital stock issued by the Borrower was and is properly issued and all books and records of the Borrower, including but not limited to its minute books, bylaws and books of account, are accurate and up to date and will be so maintained.
+ 
+2.4       Title to Properties; Absence of Liens. Borrower has good and clear record and marketable title to all of its properties and assets, and all of its properties and assets are free and clear of all mortgages, liens, pledges, charges, encumbrances and setoffs, except those mortgages, deeds of trust, leases of personal property and security interests previously specifically consented to in writing by the Bank.
+ 
+
+ 
+2
+ 
+
+ 
+ 
+2.5       Places of Business. Borrower’s chief executive office is correctly stated in the preamble to this Agreement, and Borrower shall, during the term of this Agreement, keep the Bank currently and accurately informed in writing of each of its other places of business, and shall not change the location of such chief executive office or open or close, move or change any existing or new place of business without giving the Bank at least thirty (30) days prior written notice thereof.
+ 
+2.6       Valid Obligations. The execution, delivery and performance of the Loan Documents have been duly authorized by all necessary corporate action and each represents a legal, valid and binding obligation of Borrower and is fully enforceable according to its terms, except as limited by laws relating to the enforcement of creditors’ rights.
+ 
+2.7       Conflicts. There is no provision in Borrower’s organizational or charter documents, if any, or in any indenture, contract or agreement to which Borrower is a party which prohibits, limits or restricts the execution, delivery or performance of the Loan Documents.
+ 
+2.8       Governmental Approvals. The execution, delivery and performance of the Loan Documents does not require any approval of or filing with any governmental agency or authority.
+ 
+2.9       Litigation, etc. There are no actions, claims or proceedings pending or to the knowledge of Borrower threatened against Borrower which might materially adversely affect the ability of Borrower to conduct its business or to pay or perform the Obligations.
+ 
+2.10       Taxes. The Borrower has filed all Federal, state and other tax returns required to be filed (except for such returns for which current and valid extensions have been filed), and all taxes, assessments and other governmental charges due from the Borrower have been fully paid. The Borrower has established on its books reserves adequate for the payment of all Federal, state and other tax liabilities (if any).
+ 
+2.11       Use of Proceeds. No portion of any loan is to be used for (i) the purpose of purchasing or carrying any “margin security” or “margin stock” as such terms are used in Regulations U and X of the Board of Governors of the Federal Reserve System, 12 C.F.R. 221 and 224 or (ii) primarily personal, family or household purposes.
+ 
+2.12       Environmental. As of the date hereof neither the Borrower nor any of Borrower’s agents, employees or independent contractors (1) have caused or are aware of a release or threat of release of Hazardous Materials (as defined herein) on any of the premises or personal property owned or controlled by Borrower (“Controlled Property”) or any property abutting Controlled Property (“Abutting Property”), which could give rise to liability under any Environmental Law (as defined herein) or any other Federal, state or local law, rule or regulation; (2) have arranged for the transport of or transported any Hazardous Materials in a manner as to violate, or result in potential liabilities under, any Environmental Law; (3) have received any notice, order or demand from the Environmental Protection Agency or any other Federal, state or local agency under any Environmental Law; (4) have incurred any liability under any Environmental Law in connection with the mismanagement, improper disposal or release of Hazardous Materials; or (5) are aware of any inspection or investigation of any Controlled Property or Abutting Property by any Federal, state or local agency for possible violations of any Environmental Law.
+ 
+To the best of Borrower’s knowledge, neither Borrower, nor any prior owner or tenant of any Controlled Property, committed or omitted any act which caused the release of Hazardous Materials on such Controlled Property which could give rise to a lien thereon by any Federal, state or local government. No notice or statement of claim or lien affecting any Controlled Property has been recorded or filed in any public records by any Federal, state or local government for costs, penalties, fines or other charges as to such property. All notices, permits, licenses or similar authorizations, if any, required to be obtained or filed in connection with the ownership, operation, or use of the Controlled Property, including without limitation, the past or present generation, treatment, storage, disposal or release of any Hazardous Materials into the environment, have been duly obtained or filed.
+ 
+
+ 
+3
+ 
+
+ 
+ 
+Borrower agrees to indemnify and hold the Bank and any Bank Affiliate harmless from all liability, loss, cost, damage and expense, including attorney fees and costs of litigation, arising from any and all of its violations of any Environmental Law (including those arising from any lien by any Federal, state or local government arising from the presence of Hazardous Materials) or from the presence of Hazardous Materials located on or emanating from any Controlled Property or Abutting Property whether existing or not existing and whether known or unknown at the time of the execution hereof and regardless of whether or not caused by, or within the control of Borrower. Borrower further agrees to reimburse Bank upon demand for any costs incurred by Bank in connection with the foregoing. Borrower agrees that its obligations hereunder shall be continuous and shall survive the repayment of all debts to Bank and shall continue so long as a valid claim may be lawfully asserted against the Bank.
+ 
+The term “Hazardous Materials” includes but is not limited to any and all substances (whether solid, liquid or gas) defined, listed, or otherwise classified as pollutants, hazardous wastes, hazardous substances, hazardous materials, extremely hazardous wastes, or words of similar meaning or regulatory effect under any present or future Environmental Law or that may have a negative impact on human health or the environment, including but not limited to petroleum and petroleum products, asbestos and asbestos- containing materials, polychlorinated biphenyls, lead, radon, radioactive materials, flammables and explosives.
+ 
+The term “Environmental Law” means any present and future Federal, state and local laws, statutes, ordinances, rules, regulations and the like, as well as common law, relating to protection of human health or the environment, relating to Hazardous Materials, relating to liability for or costs of remediation or prevention of releases of Hazardous Materials or relating to liability for or costs of other actual or threatened danger to human health or the environment. The term “Environmental Law” includes, but is not limited to, the following statutes, as amended, any successor thereto, and any regulations promulgated pursuant thereto, and any state or local statutes, ordinances, rules, regulations and the like addressing similar issues: the Comprehensive Environmental Response, Compensation and Liability Act; the Emergency Planning and Community Right-to-Know Act; the Hazardous Materials Transportation Act; the Resource Conservation and Recovery Act (including but not limited to Subtitle I relating to underground storage tanks); the Solid Waste Disposal Act; the Clean Water Act; the Clean Air Act; the Toxic Substances Control Act; the Safe Drinking Water Act; the Occupational Safety and Health Act; the Federal Water Pollution Control Act; the Federal Insecticide, Fungicide and Rodenticide Act; the Endangered Species Act; the National Environmental Policy Act; the River and Harbors Appropriation Act; and the New York Environmental Conservation Law, Chapter 43-B of the New York Consolidated Laws.
+ 
+3. AFFIRMATIVE COVENANTS
+ 
+3.1       Payments and Performance. Borrower will duly and punctually pay all Obligations becoming due to the Bank and will duly and punctually perform all Obligations on its part to be done or performed under this Agreement.
+ 
+3.2       Books and Records; Inspection. Borrower will at all times keep proper books of account in which full, true and correct entries will be made of its transactions in accordance with generally accepted accounting principles, consistently applied and which are, in the opinion of a Certified Public Accountant acceptable to Bank, adequate to determine fairly the financial condition and the results of operations of Borrower. Borrower will at all reasonable times make its books and records available in its offices for inspection, examination and duplication by the Bank and the Bank’s representatives and will permit inspection of all of its properties by the Bank and the Bank’s representatives. Borrower will from time to time furnish the Bank with such information and statements as the Bank may request in its sole discretion with respect to the Obligations.
+ 
+
+ 
+4
+ 
+
+ 
+ 
+3.3       Financial Statements. Borrower will furnish to Bank:
+ 
+ 
+(a)
+as soon as available to Borrower, but in any event within 120 days after the close of each fiscal year, a full and complete signed copy of financial statements, prepared by certified public accountants acceptable to Bank, which shall include a balance sheet of the Borrower, as at the end of such year, statement of cash flows and statement of profit and loss of the Borrower reflecting the results of its operations during such year, bearing the opinion of such certified public accountants and prepared on a reviewed basis in accordance with generally accepted accounting principles, consistently applied together with any so-called management letter;
+ 
+ 
+ 
+ 
+(b)
+within 120 days after the close of each annual fiscal period of Borrower, an Accounts Receivable aging report in form satisfactory to Bank showing the total amount due from each account debtor, the month in which each Account Receivable was created, as well as an accounts payable aging report and such other information as Bank shall request;
+ 
+ 
+ 
+ 
+(c)
+within 120 days after the close of each fiscal year of Borrower, an inventory report in form satisfactory to Bank showing a list of the Borrower’s inventory, location of such inventory and such other information as Bank shall request;
+ 
+ 
+ 
+ 
+(d)
+from time to time, such financial data and information about Borrower as Bank may reasonably request; and
+ 
+ 
+ 
+ 
+(e)
+any financial data and information about any guarantors of the Obligations as Bank may reasonably request.
+ 
+3.4       Conduct of Business. The Borrower will maintain its existence in good standing and comply with all laws and regulations of the United States and of any state or states thereof and of any political subdivision thereof, and of any governmental authority which may be applicable to it or to its business; provided that this covenant shall not apply to any tax, assessment or charge which is being contested in good faith and with respect to which reserves have been established and are being maintained.
+ 
+3.5       Contact with Accountant. The Borrower hereby authorizes the Bank to directly contact and communicate with any accountant employed by Borrower in connection with the review and/or maintenance of Borrower’s books and records or preparation of any financial reports delivered by or at the request of Borrower to Bank.
+ 
+3.6       Operating and Deposit Accounts. The Borrower shall maintain with the Bank its primary operating and deposit accounts. At the option of the Bank, all loan payments and fees will automatically be debited from the Borrower’s primary operating account and all advances will automatically be credited to the Borrower’s primary operating account.
+ 
+3.7       Taxes. Borrower will promptly pay all real and personal property taxes, assessments and charges and all franchise, income, unemployment, retirement benefits, withholding, sales and other taxes assessed against it or payable by it before delinquent; provided that this covenant shall not apply to any tax assessment or charge which is being contested in good faith and with respect to which reserves have been established and are being maintained.
+ 
+3.8       Maintenance. Borrower will keep and maintain its properties, if any, in good repair, working order and condition. Borrower will immediately notify the Bank of any loss or damage to or any occurrence which would adversely affect the value of any such property.
+ 
+
+ 
+5
+ 
+
+ 
+ 
+3.9       Insurance. Borrower will maintain in force property and casualty insurance on any property of the Borrower, if any, against risks customarily insured against by companies engaged in businesses similar to that of the Borrower containing such terms and written by such companies as may be satisfactory to the Bank, such insurance to be payable to the Bank as its interest may appear in the event of loss and to name the Bank as insured pursuant to a standard loss payee clause; no loss shall be adjusted thereunder without the Bank’s approval; and all such policies shall provide that they may not be canceled without first giving at least Ten (10) days written notice of cancellation to the Bank. In the event that the Borrower fails to provide evidence of such insurance, the Bank may, at its option, secure such insurance and charge the cost thereof to the Borrower. At the option of the Bank, all insurance proceeds received from any loss or damage to any property shall be applied either to the replacement or repair thereof or as a payment on account of the Obligations. From and after the occurrence of an Event of Default, the Bank is authorized to cancel any insurance maintained hereunder and apply any returned or unearned premiums, all of which are hereby assigned to the Bank, as a payment on account of the Obligations.
+ 
+3.10       Notification of Default. Immediately upon becoming aware of the existence of any condition or event which constitutes an Event of Default, or any condition or event which would upon notice or lapse of time, or both, constitute an Event of Default, Borrower shall give Bank written notice thereof specifying the nature and duration thereof and the action being or proposed to be taken with respect thereto.
+ 
+3.11       Notification of Material Litigation. Borrower will immediately notify the Bank in writing of any litigation or of any investigative proceedings of a governmental agency or authority commenced or threatened against it which would or might be materially adverse to the financial condition of Borrower or any guarantor of the Obligations.
+ 
+3.12       Pension Plans. With respect to any pension or benefit plan maintained by Borrower, or to which Borrower contributes (“Plan”), the benefits under which are guarantied, in whole or in part, by the Pension Benefit Guaranty Corporation created by the Employee Retirement Income Security Act of 1974, P.L. 93-406, as amended (“ERISA”) or any governmental authority succeeding to any or all of the functions of the Pension Benefit Guaranty Corporation (“Pension Benefit Guaranty Corporation”), Borrower will (a) fund each Plan as required by the provisions of Section 412 of the Internal Revenue Code of 1986, as amended; (b) cause each Plan to pay all benefits when due; (c) furnish Bank (i) promptly with a copy of any notice of each Plan’s termination sent to the Pension Benefit Guaranty Corporation (ii) no later than the date of submission to the Department of Labor or to the Internal Revenue Service, as the case may be, a copy of any request for waiver from the funding standards or extension of the amortization periods required by Section 412 of the Internal Revenue Code of 1986, as amended and (iii) notice of any Reportable Event as such term is defined in ERISA; and (d) subscribe to any contingent liability insurance provided by the Pension Benefit Guaranty Corporation to protect against employer liability upon termination of a guarantied pension plan, if available to Borrower.
+ 
+4. NEGATIVE COVENANTS
+ 
+4.1       Financial Covenants. The Borrower will not at any time or during any fiscal period (as applicable) fail to be in compliance with any of the financial covenants in this section.
+ 
+
+(a)
+Definitions. The following definitions shall apply to this Section:
+ 
+(i)       “Current Maturity of Long-Term Debt” (“CMLTD”) shall mean, for any period, the current scheduled principal or capital lease payments required to be paid during the applicable period.
+ 
+(ii)       “Distributions” shall mean all cash dividends to shareholders, and all cash distributions to shareholders of Subchapter S corporations, to partners of partnerships, to members of limited liability companies or to beneficiaries of trusts.
+ 
+
+ 
+6
+ 
+
+ 
+ 
+(iii)       “Earnings” shall mean earnings as defined under GAAP.
+ 
+(iv)       “EBITDA” shall mean, for any period, Earnings from continuing operations before payment of federal, state and local income taxes, plus Interest Expense, depreciation and amortization, in each case for such period, computed and calculated in accordance with GAAP.
+ 
+(v)       “GAAP” shall mean generally accepted accounting principles in effect from time to time in the United States.
+ 
+(vi)       “Interest Expense” shall mean, for any period, ordinary, regular, recurring and continuing expenses for interest on all borrowed money.
+ 
+(vii)       “Indebtedness” shall mean (x) all indebtedness for borrowed money or for the deferred purchase price of property or services, and all obligations under leases which are or should be, under GAAP, recorded as capital leases, in respect of which a person is directly or contingently liable as borrower, guarantor, endorser or otherwise, or in respect of which a person otherwise assures a creditor against loss, (y) all obligations for borrowed money or for the deferred purchase price of property or services secured by (or for which the holder has an existing right, contingent or otherwise, to be secured by) any lien upon property (including without limitation accounts receivable and contract rights) owned by a person, whether or not such person has assumed or become liable for the payment thereof, and (z) all other liabilities and obligations which would be classified in accordance with GAAP as liabilities on a balance sheet or to which reference should be made in footnotes thereto.
+ 
+(viii)       “Intangible Assets” shall mean, as of the date of determination thereof, assets that in accordance with GAAP are properly classifiable as intangible assets, including, but not limited to, goodwill, franchises, licenses, patents, trademarks, trade names and copyrights.
+ 
+(ix)       “Tangible Net Worth” shall mean, as of the date of determination thereof, total assets, excluding all Intangible Assets and all obligations owed from affiliates or any employee, less total liabilities.
+ 
+ 
+(b)
+EBITDA (after Taxes and Distributions) to Interest Expense plus CMLTD. The Borrower shall not permit the ratio of its EBITDA, minus taxes paid in cash and Distributions, to Interest Expense plus CMLTD to be less than 1.15 to 1.0 for any fiscal year.
+ 
+ 
+ 
+ 
+(c)
+Current Ratio. The Borrower shall maintain a current ratio of 1.25:1.0;
+ 
+ 
+ 
+ 
+(d)
+Max TL/TNW. The Borrower shall maintain a maximum total liabilities to Tangible Net Worth ratio of 3.0 to 1.0.
+ 
+4.2       Limitations on Indebtedness. Borrower shall not issue any evidence of indebtedness or create, assume, guarantee, become contingently liable for, or suffer to exist indebtedness in addition to indebtedness to the Bank, except indebtedness or liabilities of Borrower, other than for money borrowed, incurred or arising in the ordinary course of business.
+ 
+4.3       Sale of Interest. There shall not be any sale or transfer of ownership of any interest in the Borrower without the Bank’s prior written consent.
+ 
+4.4       Loans or Advances. Borrower shall not make any loans or advances to any individual, partnership, corporation, limited liability company, trust, or other organization or person, including without limitation its officers and employees; provided, however, that Borrower may make advances to its employees, including its officers, with respect to expenses incurred or to be incurred by such employees in the ordinary course of business which expenses are reimbursable by Borrower; and provided further, however, that Borrower may extend credit in the ordinary course of business in accordance with customary trade practices.
+ 
+
+ 
+7
+ 
+
+ 
+ 
+4.5       Dividends and Distributions. Borrower shall not, without prior written consent of the Bank, pay any dividends on or make any distribution on account of any class of Borrower’s capital stock in cash or in property (other than additional shares of such stock), or redeem, purchase or otherwise acquire, directly or indirectly, any of such stock, except, so long as Borrower is not in default hereunder, if Borrower is a Subchapter S corporation, under the regulations of the Internal Revenue Service of the United States, distributions to the Shareholders of Borrower in such amounts as are necessary to pay the tax liability of such Shareholders due as a result of such Shareholders’ interest in the Borrower.
+ 
+4.6       Investments. The Borrower shall not make investments in, or advances to, any individual, partnership, corporation, limited liability company, trust or other organization or person other than as previously specifically consented to in writing by the Bank. The Borrower will not purchase or otherwise invest in or hold securities, nonoperating real estate or other nonoperating assets or purchase all or substantially all the assets of any entity other than as previously specifically consented to in writing by the Bank.
+ 
+4.7       Merger. Borrower shall not merge or consolidate or be merged or consolidated with or into any other entity.
+ 
+4.8       Capital Expenditures. The Borrower shall not, directly or indirectly, make or commit to make capital expenditures by lease, purchase, or otherwise, except in the ordinary and usual course of business for the purpose of replacing machinery, equipment or other personal property which, as a consequence of wear, duplication or obsolescence, is no longer used or necessary in the Borrower’s business.
+ 
+4.9       Sale of Assets. Borrower shall not sell, lease or otherwise dispose of any of its assets, except in the ordinary and usual course of business and except for the purpose of replacing machinery, equipment or other personal property which, as a consequence of wear, duplication or obsolescence, is no longer used or necessary in the Borrower’s business, provided that fair consideration is received therefor; provided, however, in no event shall the Borrower sell, lease or otherwise dispose of any equipment purchased with the proceeds of any loans made by the Bank.
+ 
+4.10       Restriction on Liens. Borrower shall not grant any security interest in, or mortgage of, any of its properties or assets. Borrower shall not enter into any agreement with any person other than the Bank that prohibits the Borrower from granting any security interest in, or mortgage of, any of its properties or assets.
+ 
+4.11       Other Business. Borrower shall not engage in any business other than the business in which it is currently engaged or a business reasonably allied thereto.
+ 
+4.12       Change of Name, etc. Borrower shall not change its legal name or the State or the type of its organization, without giving the Bank at least 30 days prior written notice thereof.
+ 
+5. DEFAULT
+ 
+5.1       Default. “Event of Default” shall mean the occurrence of one or more of any of the following events:
+ 
+ 
+(a)
+default of any liability, obligation, covenant or undertaking of the Borrower or any guarantor of the Obligations to the Bank, hereunder or otherwise, including, without limitation, failure to pay in full and when due any installment of principal or interest or default of the Borrower or any guarantor of the Obligations under any other Loan Document or any other agreement with the Bank;
+ 
+
+ 
+8
+ 
+
+ 
+ 
+ 
+(b)
+failure of the Borrower or any guarantor of the Obligations to maintain aggregate collateral security value satisfactory to the Bank;
+ 
+ 
+ 
+ 
+(c)
+default of any material liability, obligation or undertaking of the Borrower or any guarantor of the Obligations to any other party;
+ 
+ 
+ 
+ 
+(d)
+if any statement, representation or warranty heretofore, now or hereafter made by the Borrower or any guarantor of the Obligations in connection with this Agreement or in any supporting financial statement of the Borrower or any guarantor of the Obligations shall be determined by the Bank to have been false or misleading in any material respect when made;
+ 
+ 
+ 
+ 
+(e)
+if the Borrower or any guarantor of the Obligations is a corporation, trust, partnership or limited liability company, the liquidation, termination or dissolution of any such organization, or the merger or consolidation of such organization into another entity, or its ceasing to carry on actively its present business or the appointment of a receiver for its property;
+ 
+ 
+ 
+ 
+(f)
+the death of the Borrower or any guarantor of the Obligations and, if the Borrower or any guarantor of the Obligations is a partnership or limited liability company, the death of any partner or member;
+ 
+ 
+ 
+ 
+(g)
+the institution by or against the Borrower or any guarantor of the Obligations of any proceedings under the Bankruptcy Code 11 USC §101 et seq. or any other law in which the Borrower or any guarantor of the Obligations is alleged to be insolvent or unable to pay its debts as they mature, or the making by the Borrower or any guarantor of the Obligations of an assignment for the benefit of creditors or the granting by the Borrower or any guarantor of the Obligations of a trust mortgage for the benefit of creditors;
+ 
+ 
+ 
+ 
+(h)
+the service upon the Bank of a writ in which the Bank is named as trustee of the Borrower or any guarantor of the Obligations;
+ 
+ 
+ 
+ 
+(i)
+a judgment or judgments for the payment of money shall be rendered against the Borrower or any guarantor of the Obligations, and any such judgment shall remain unsatisfied and in effect for any period of thirty (30) consecutive days without a stay of execution;
+ 
+ 
+ 
+ 
+(j)
+any levy, lien (including mechanics lien), seizure, attachment, execution or similar process shall be issued or levied on any of the property of the Borrower or any guarantor of the Obligations;
+ 
+ 
+ 
+ 
+(k)
+the termination or revocation of any guaranty of the Obligations; or
+ 
+ 
+ 
+ 
+(l)
+the occurrence of such a change in the condition or affairs (financial or otherwise) of the Borrower or any guarantor of the Obligations, or the occurrence of any other event or circumstance, such that the Bank, in its sole discretion, deems that it is insecure or that the prospects for timely or full payment or performance of any obligation of the Borrower or any guarantor of the Obligations to the Bank has been or may be impaired.
+ 
+5.2       Acceleration. If an Event of Default shall occur, at the election of the Bank, all Obligations shall become immediately due and payable without notice or demand, except with respect to Obligations payable on DEMAND, which shall be due and payable on DEMAND, whether or not an Event of Default has occurred.
+ 
+5.3       Nonexclusive Remedies. All of the Bank’s rights and remedies not only under the provisions of this Agreement but also under any other agreement or transaction shall be cumulative and not alternative or exclusive, and may be exercised by the Bank at such time or times and in such order of preference as the Bank in its sole discretion may determine.
+ 
+
+ 
+9
+ 
+
+ 
+ 
+6. MISCELLANEOUS
+ 
+6.1       Waivers. The Borrower waives notice of intent to accelerate, notice of acceleration, notice of nonpayment, demand, presentment, protest or notice of protest of the Obligations, and all other notices, consents to any renewals or extensions of time of payment thereof, and generally waives any and all suretyship defenses and defenses in the nature thereof.
+ 
+6.2       Waiver of Homestead. To the maximum extent permitted under applicable law, the Borrower hereby waives and terminates any homestead rights and/or exemptions respecting any of its property under the provisions of any applicable homestead laws, including without limitation, Section 5206 of the Civil Practice Law and Rules of New York.
+ 
+6.3       Deposit Collateral. The Borrower hereby grants to the Bank a continuing lien and security interest in any and all deposits or other sums at any time credited by or due from the Bank or any Bank Affiliate to the Borrower and any cash, securities, instruments or other property of the Borrower in the possession of the Bank or any Bank Affiliate, whether for safekeeping or otherwise, or in transit to or from the Bank or any Bank Affiliate (regardless of the reason the Bank or Bank Affiliate had received the same or whether the Bank or Bank Affiliate has conditionally released the same) as security for the full and punctual payment and performance of all of the liabilities and obligations of the Borrower to the Bank or any Bank Affiliate and such deposits and other sums may be applied or set off against such liabilities and obligations of the Borrower to the Bank or any Bank Affiliate at any time, whether or not such are then due, whether or not demand has been made and whether or not other collateral is then available to the Bank or any Bank Affiliate.
+ 
+6.4       Indemnification. The Borrower shall indemnify, defend and hold the Bank and any Bank Affiliate and their directors, officers, employees, agents and attorneys (each an “Indemnitee”) harmless of and from any claim brought or threatened against any Indemnitee by the Borrower, any guarantor or endorser of the Obligations, or any other person (as well as from reasonable attorneys’ fees and expenses in connection therewith) on account of the Bank’s relationship with the Borrower, or any guarantor or endorser of the Obligations (each of which may be defended, compromised, settled or pursued by the Bank with counsel of the Bank’s election, but at the expense of the Borrower), except for any claim arising out of the gross negligence or willful misconduct of the Bank. The within indemnification shall survive payment of the Obligations, and/or any termination, release or discharge executed by the Bank in favor of the Borrower.
+ 
+6.5       Costs and Expenses. The Borrower shall pay to the Bank on demand any and all costs and expenses (including, without limitation, reasonable attorneys’ fees and disbursements, court costs, litigation and other expenses) incurred or paid by the Bank in establishing, maintaining, protecting or enforcing any of the Bank’s rights or the Obligations, including, without limitation, any and all such costs and expenses incurred or paid by the Bank in defending the Bank’s security interest in, title or right to any collateral or in collecting or attempting to collect or enforcing or attempting to enforce payment of any Obligation.
+ 
+6.6       Counterparts. This Agreement may be executed in two or more counterparts, each of which shall be an original, but all of which shall constitute but one agreement.
+ 
+6.7       Severability. If any provision of this Agreement or portion of such provision or the application thereof to any person or circumstance shall to any extent be held invalid or unenforceable, the remainder of this Agreement (or the remainder of such provision) and the application thereof to other persons or circumstances shall not be affected thereby.
+ 
+6.8       Complete Agreement. This Agreement and the other Loan Documents constitute the entire agreement and understanding between and among the parties hereto relating to the subject matter hereof, and supersedes all prior proposals, negotiations, agreements and understandings among the parties hereto with respect to such subject matter.
+ 
+
+ 
+10
+ 
+
+ 
+ 
+6.9       Binding Effect of Agreement. This Agreement shall be binding upon and inure to the benefit of the respective heirs, executors, administrators, legal representatives, successors and assigns of the parties hereto, and shall remain in full force and effect (and the Bank shall be entitled to rely thereon) until released in writing by the Bank. The Bank may transfer and assign this Agreement and deliver it to the assignee, who shall thereupon have all of the rights of the Bank; and the Bank shall then be relieved and discharged of any responsibility or liability with respect to this Agreement. The Borrower may not assign or transfer any of its rights or obligations under this Agreement. Except as expressly provided herein or in the other Loan Documents, nothing, expressed or implied, is intended to confer upon any party, other than the parties hereto, any rights, remedies, obligations or liabilities under or by reason of this Agreement or the other Loan Documents.
+ 
+6.10       Further Assurances. Borrower will from time to time execute and deliver to Bank such documents, and take or cause to be taken, all such other or further action, as Bank may request in order to effect and confirm or vest more securely in Bank all rights contemplated by this Agreement and the other Loan Documents (including, without limitation, to correct clerical errors) or to comply with applicable statute or law.
+ 
+6.11       Amendments and Waivers. This Agreement may be amended and Borrower may take any action herein prohibited, or omit to perform any act herein required to be performed by it, if Borrower shall obtain the Bank’s prior written consent to each such amendment, action or omission to act. No course of dealing and no delay or omission on the part of Bank in exercising any right hereunder shall operate as a waiver of such right or any other right and waiver on any one or more occasions shall not be construed as a bar to or waiver of any right or remedy of Bank on any future occasion.
+ 
+6.12       Terms of Agreement. This Agreement shall continue in full force and effect so long as any Obligations or obligation of Borrower to Bank shall be outstanding, or the Bank shall have any obligation to extend any financial accommodation hereunder, and is supplementary to each and every other agreement between Borrower and Bank and shall not be so construed as to limit or otherwise derogate from any of the rights or remedies of Bank or any of the liabilities, obligations or undertakings of Borrower under any such agreement, nor shall any contemporaneous or subsequent agreement between Borrower and the Bank be construed to limit or otherwise derogate from any of the rights or remedies of Bank or any of the liabilities, obligations or undertakings of Borrower hereunder, unless such other agreement specifically refers to this Agreement and expressly so provides.
+ 
+6.13       Notices. Any notices under or pursuant to this Agreement shall be deemed duly received and effective if delivered in hand to any officer or agent of the Borrower or Bank, or if mailed by registered or certified mail, return receipt requested, addressed to the Borrower or Bank at the address set forth in this Agreement or as any party may from time to time designate by written notice to the other party.
+ 
+6.14       Governing Law. This Agreement shall be governed by federal law applicable to the Bank and, to the extent not preempted by federal law, the laws of the State of New York.
+ 
+6.15       Reproductions. This Agreement and all documents which have been or may be hereinafter furnished by Borrower to the Bank may be reproduced by the Bank by any photographic, photostatic, microfilm, xerographic or similar process, and any such reproduction shall be admissible in evidence as the original itself in any judicial or administrative proceeding (whether or not the original is in existence and whether or not such reproduction was made in the regular course of business).
+ 
+6.16       Jurisdiction and Venue. Borrower irrevocably submits to the nonexclusive jurisdiction of any Federal or state court sitting in New York, over any suit, action or proceeding arising out of or relating to this Agreement. Borrower irrevocably waives, to the fullest extent it may effectively do so under applicable law, any objection it may now or hereafter have to the laying of the venue of any such suit, action or proceeding brought in any such court and any claim that the same has been brought in an inconvenient forum. Borrower hereby consents to any and all process which may be served in any such suit, action or proceeding, (i) by mailing a copy thereof by registered and certified mail, postage prepaid, return receipt requested, to the Borrower’s address shown in this Agreement or as notified to the Bank and (ii) by serving the same upon the Borrower in any other manner otherwise permitted by law, and agrees that such service shall in every respect be deemed effective service upon Borrower.
+ 
+
+ 
+11
+ 
+
+ 
+ 
+6.17       JURY WAIVER. THE BORROWER AND BANK EACH HEREBY KNOWINGLY, VOLUNTARILY AND INTENTIONALLY, AND AFTER AN OPPORTUNITY TO CONSULT WITH LEGAL COUNSEL, (A) WAIVE ANY AND ALL RIGHTS TO A TRIAL BY JURY IN ANY ACTION OR PROCEEDING IN CONNECTION WITH THIS AGREEMENT, THE OBLIGATIONS, ALL MATTERS CONTEMPLATED HEREBY AND DOCUMENTS EXECUTED IN CONNECTION HEREWITH AND (B) AGREE NOT TO SEEK TO CONSOLIDATE ANY SUCH ACTION WITH ANY OTHER ACTION IN WHICH A JURY TRIAL CANNOT BE, OR HAS NOT BEEN, WAIVED. THE BORROWER CERTIFIES THAT NEITHER THE BANK NOR ANY OF ITS REPRESENTATIVES, AGENTS OR COUNSEL HAS REPRESENTED, EXPRESSLY OR OTHERWISE, THAT THE BANK WOULD NOT IN THE EVENT OF ANY SUCH PROCEEDING SEEK TO ENFORCE THIS WAIVER OF RIGHT TO TRIAL BY JURY.
+ 
+Executed as of December 1, 2017.
+ 
+ 
+Borrower:
+ 
+Plastic Printing Professionals, Inc.
+ 
+ 
+ 
+ 
+By: 
+
+ 
+ 
+Philip Jones, Treasurer
+ 
+Accepted: Citizens Bank, N.A.
+ 
+By:
+   
+ 
+Name: 
+Douglas Dandurand
+ 
+Title:
+Vice President
+ 
+ 
+
+ 
+12
+ 
+
+ 
+ 
