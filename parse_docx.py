@@ -96,6 +96,7 @@ class Subtitle:
             elif str[-2].isalpha() and (str[-3] == ' ' or str[-3] == ' '):
                 str = str[:-3] + str[-1]
                 str = str.strip("  ")
+            str = re.split('[()]', str)[-1]
         self.sentences.append(str)
 
     def writeToFile(self, file):
@@ -237,3 +238,4 @@ class Document:
             for element in self.elements:
                 element.writeToFile(file)
             file.write("</BODY>\n</HTML>")
+

@@ -52,5 +52,5 @@ for text in texts:
     if len(slovar[titleName]) == 0:
         slovar.pop(titleName)
 
-with io.open("output/allo.json", "w+", encoding='utf8') as db:
+with io.open("output/ontology.json", "w+", encoding='utf8') as db:
     json.dump(slovar, db, ensure_ascii=False, indent=4, sort_keys=True)
